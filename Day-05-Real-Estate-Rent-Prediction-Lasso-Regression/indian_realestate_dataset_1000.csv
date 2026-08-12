@@ -1,0 +1,1001 @@
+property_id,city,district,property_type,built_up_area_sqft,price_inr,price_per_sqft_inr,bedrooms,bathrooms,age_years,facing,amenities,amenities_count,walkability_score,monthly_rental_estimate_inr,annual_rental_yield_pct,price_category,estimated_roi_5yr_pct,listing_date,days_on_market,status,registration_days,is_gated_community,has_maintenance_fee,monthly_maintenance_inr
+PROP00001,Chennai,Anna Nagar,Apartment,1526,10000000,6553,2,1,4,West,Pool; AC; Elevator; Security; Garden; Gym; Library; Playground,8,9,35033,4.2,Premium,46.02,2024-10-17,215,Available,169,True,False,0
+PROP00002,Mumbai,Bandra,Studio,424,50000000,117924,1,1,6,South-East,Pool; Elevator; Library; Gym; Parking,5,7,192260,4.61,Luxury,48.07,2025-01-29,283,Available,50,False,False,100000
+PROP00003,Chennai,Anna Nagar,Apartment,1333,10000000,7501,3,1,27,South-East,Pool; Library; Security; Garden,4,9,30921,3.71,Premium,43.55,2024-06-27,312,Available,48,True,True,20000
+PROP00004,Pune,Viman Nagar,Independent House,4121,15000000,3639,3,2,26,South-West,Garden; Gym; Playground,3,6,42774,3.42,Premium,42.11,2024-10-11,336,Rented,84,False,False,0
+PROP00005,Bangalore,Indiranagar,Villa,4020,30000000,7462,5,3,28,North,Library; Playground; Garden; Pool; Security; Concierge; Gym,7,7,82642,3.31,Luxury,41.53,2025-12-02,198,Sold,46,False,False,0
+PROP00006,Hyderabad,Jubilee Hills,Apartment,2599,12000000,4617,3,2,3,North-East,Library; Parking; Concierge; Gym; Playground,5,10,45239,4.52,Premium,47.62,2024-12-11,328,Rented,106,True,True,0
+PROP00007,Bangalore,Marathahalli,Penthouse,3004,30000000,9986,6,4,15,West,Pool; Playground; Security,3,7,118900,4.76,Luxury,48.78,2026-02-23,273,Available,47,True,True,0
+PROP00008,Hyderabad,Madhapur,Independent House,3661,12000000,3277,5,2,29,North-West,Garden; Security; Library; Playground; Concierge; Parking; Elevator,7,8,34493,3.45,Premium,42.25,2025-06-02,302,Available,88,True,True,24000
+PROP00009,Chennai,T Nagar,Apartment,1337,10000000,7479,1,1,27,North-West,Pool; AC; Garden; Parking; Playground,5,5,27205,3.26,Premium,41.32,2024-10-07,209,Available,151,True,True,20000
+PROP00010,Chennai,Thiruvanmiyur,Independent House,3234,10000000,3092,5,3,27,West,Gym; Pool; Elevator; Garden; Playground; Parking; Concierge; Library,8,7,32476,3.9,Premium,44.49,2025-03-08,39,Available,93,False,True,20000
+PROP00011,Chennai,Kilpauk,Apartment,782,10000000,12787,2,1,13,North,Concierge; Garden; Library; Gym; Pool; AC,6,9,29420,3.53,Premium,42.65,2025-02-03,339,Available,172,False,True,20000
+PROP00012,Delhi,Gurgaon,Apartment,2772,40000000,14430,1,2,1,North,Elevator; Concierge; Parking,3,4,105340,3.16,Luxury,40.8,2025-11-05,207,Available,90,True,True,80000
+PROP00013,Hyderabad,Jubilee Hills,Studio,586,12000000,20477,1,2,6,South,Playground; Garden; Security; AC; Pool; Parking; Library; Elevator,8,4,42423,4.24,Premium,46.21,2024-10-15,110,Rented,167,False,True,0
+PROP00014,Mumbai,Bandra,Independent House,2667,50000000,18747,3,2,26,East,Security; AC; Gym; Playground; Elevator; Parking; Concierge,7,6,199142,4.78,Luxury,48.9,2024-10-25,176,Available,83,True,False,0
+PROP00015,Delhi,South Delhi,Apartment,2998,40000000,13342,4,3,1,East,Playground; Parking; Security,3,4,136778,4.1,Luxury,45.52,2025-03-03,354,Available,49,True,True,0
+PROP00016,Hyderabad,Kondapur,Villa,5520,12000000,2173,4,2,9,South,Gym; Playground; Garden; AC; Pool,5,9,41197,4.12,Premium,45.6,2025-03-24,122,Rented,69,True,True,0
+PROP00017,Mumbai,Bandra,Independent House,4704,50000000,10629,5,2,8,North-West,Pool; Library; Gym; AC,4,10,193048,4.63,Luxury,48.17,2025-01-28,115,Available,88,True,True,0
+PROP00018,Delhi,Noida,Apartment,1543,40000000,25923,3,2,21,North,Playground; Gym; Pool; Parking; Concierge; Security; Library,7,8,128970,3.87,Luxury,44.35,2025-06-27,198,Available,59,True,False,80000
+PROP00019,Chennai,Thiruvanmiyur,Apartment,2529,10000000,3954,2,2,13,North-East,Playground; Elevator; Pool,3,6,36114,4.33,Premium,46.67,2025-06-14,66,Available,171,True,False,0
+PROP00020,Chennai,T Nagar,Villa,7042,10000000,1420,5,3,17,South-West,Security; Elevator; Garden,3,7,35111,4.21,Premium,46.07,2025-06-19,262,Available,84,False,True,20000
+PROP00021,Delhi,Rohini,Penthouse,5745,40000000,6962,4,2,21,West,Garden; Elevator; Parking; Gym; Library,5,9,140751,4.22,Luxury,46.11,2026-03-01,100,Available,177,False,False,0
+PROP00022,Bangalore,Koramangala,Apartment,836,30000000,35885,4,2,5,North-West,AC; Concierge; Gym; Security; Pool; Elevator; Garden; Library,8,10,124394,4.98,Luxury,49.88,2024-09-12,314,Available,143,False,False,60000
+PROP00023,Chennai,Thiruvanmiyur,Studio,382,10000000,26178,0,2,24,North-East,Concierge; Garden; Security; AC; Gym; Parking; Pool,7,5,39883,4.79,Premium,48.93,2026-02-21,356,Available,128,True,True,20000
+PROP00024,Pune,Viman Nagar,Independent House,3722,15000000,4030,5,3,1,South-West,Library; Elevator; Gym; AC,4,10,61068,4.89,Premium,49.43,2025-07-13,276,Sold,137,True,False,30000
+PROP00025,Delhi,Dwarka,Studio,264,26959771,102120,1,2,21,North,Library; Parking; Concierge; Pool; Security; Playground; Gym; Elevator,8,6,86658,3.86,Luxury,44.29,2025-01-27,168,Available,127,True,False,0
+PROP00026,Delhi,Dwarka,Independent House,4580,40000000,8733,5,3,26,South-East,Concierge; Gym; AC,3,4,104574,3.14,Luxury,40.69,2024-07-16,103,Available,93,True,True,80000
+PROP00027,Bangalore,Jayanagar,Apartment,2710,30000000,11070,2,2,22,North-East,Playground; Parking; Pool; Library; Concierge,5,7,76283,3.05,Luxury,40.26,2025-06-29,102,Available,131,True,True,60000
+PROP00028,Chennai,Besant Nagar,Penthouse,9598,10000000,1041,4,2,11,South-West,Library; Playground; Pool; Security; AC; Parking; Gym,7,10,26758,3.21,Premium,41.05,2025-05-09,363,Sold,147,True,False,20000
+PROP00029,Chennai,Kilpauk,Independent House,4022,10000000,2486,5,3,13,West,Elevator; Security; Playground; Library; Pool; Gym; Parking; Concierge,8,4,34497,4.14,Premium,45.7,2024-06-29,167,Available,156,True,False,20000
+PROP00030,Delhi,Noida,Independent House,2645,40000000,15122,4,2,16,West,Pool; Garden; Library; AC,4,4,143060,4.29,Luxury,46.46,2024-12-28,151,Available,53,True,False,80000
+PROP00031,Delhi,Pitampura,Penthouse,6023,40000000,6641,5,3,13,West,AC; Playground; Elevator; Concierge; Garden; Parking; Security; Pool,8,10,112838,3.39,Luxury,41.93,2026-01-12,99,Sold,77,True,False,0
+PROP00032,Chennai,Kilpauk,Penthouse,7888,10000000,1267,5,2,26,North-East,Security; Garden; Playground; Pool,4,4,33902,4.07,Premium,45.34,2025-08-07,150,Available,171,True,False,20000
+PROP00033,Mumbai,Borivali,Independent House,3422,50000000,14611,5,3,10,South,Gym; Security; Concierge; Elevator,4,5,131173,3.15,Luxury,40.74,2024-08-08,289,Sold,68,False,True,100000
+PROP00034,Mumbai,Borivali,Studio,560,50000000,89285,0,2,14,South,Security; Library; Elevator; Concierge; AC; Gym,6,4,142315,3.42,Luxury,42.08,2025-10-10,123,Available,70,True,True,100000
+PROP00035,Mumbai,Dadar,Studio,554,50000000,90252,1,2,1,West,Security; Elevator; Concierge; Gym,4,10,190652,4.58,Luxury,47.88,2024-08-12,218,Available,80,True,True,100000
+PROP00036,Delhi,Gurgaon,Apartment,644,40000000,62111,2,2,19,North-West,Elevator; Security; Concierge; Gym; Garden; Parking; Playground; Pool,8,8,139869,4.2,Luxury,45.98,2025-02-26,14,Sold,94,True,True,80000
+PROP00037,Chennai,Besant Nagar,Penthouse,3329,10000000,3003,4,3,16,South-East,Concierge; Security; Parking; AC; Garden; Playground; Gym; Pool,8,6,30350,3.64,Premium,43.21,2026-01-27,356,Rented,135,False,False,0
+PROP00038,Hyderabad,Jubilee Hills,Studio,295,12000000,40677,1,2,10,North-West,Library; AC; Gym,3,7,33751,3.38,Premium,41.88,2025-05-09,27,Sold,143,True,False,24000
+PROP00039,Delhi,Dwarka,Studio,312,26019572,83396,0,1,22,South-West,Security; AC; Gym; Elevator,4,4,108079,4.98,Luxury,49.92,2026-01-18,256,Available,69,False,False,0
+PROP00040,Pune,Viman Nagar,Villa,5741,15000000,2612,4,3,6,North,AC; Parking; Pool; Elevator; Garden; Library; Security,7,9,44963,3.6,Premium,42.99,2024-09-20,77,Available,155,False,False,0
+PROP00041,Delhi,Rohini,Penthouse,6090,40000000,6568,5,3,27,South-West,Garden; Library; Elevator; AC,4,7,149647,4.49,Luxury,47.45,2024-05-22,340,Rented,128,True,False,80000
+PROP00042,Bangalore,Marathahalli,Penthouse,5719,30000000,5245,4,3,3,North-West,Concierge; Gym; Parking; Garden; Playground; Pool; AC,7,9,88251,3.53,Luxury,42.65,2024-08-14,169,Sold,50,False,False,0
+PROP00043,Hyderabad,Jubilee Hills,Penthouse,3560,12000000,3370,4,3,7,North-East,Pool; Library; Elevator; AC; Playground; Gym; Garden; Security,8,6,30919,3.09,Premium,40.46,2026-03-18,75,Available,140,True,False,24000
+PROP00044,Bangalore,Koramangala,Apartment,2896,30000000,10359,4,2,15,North,Parking; Garden; Concierge; Playground; Elevator; AC; Library,7,5,98262,3.93,Luxury,44.65,2025-07-24,227,Sold,48,False,False,0
+PROP00045,Chennai,Besant Nagar,Studio,404,10000000,24752,0,2,27,North-East,Pool; Garden; Library; Security; Parking; Concierge,6,4,29920,3.59,Premium,42.95,2024-07-09,352,Available,174,True,False,0
+PROP00046,Bangalore,Marathahalli,Independent House,2397,30000000,12515,3,2,21,East,Parking; Pool; Gym; Elevator; Garden; Concierge; Library; Playground,8,5,89755,3.59,Luxury,42.95,2025-03-15,188,Available,168,False,True,0
+PROP00047,Pune,Magarpatta,Independent House,4794,15000000,3128,2,2,30,South-East,Parking; Garden; Library,3,7,47364,3.79,Premium,43.95,2025-08-17,345,Available,124,False,False,0
+PROP00048,Mumbai,Navi Mumbai,Villa,5862,50000000,8529,3,2,29,East,Garden; Pool; Concierge; Playground; Parking; Elevator; Gym,7,5,128101,3.07,Luxury,40.37,2024-12-26,70,Available,167,False,False,0
+PROP00049,Chennai,T Nagar,Penthouse,6433,10000000,1554,6,3,28,West,Pool; Concierge; Library; Parking; Gym; AC,6,9,40842,4.9,Premium,49.51,2025-05-08,279,Available,124,False,True,0
+PROP00050,Delhi,Gurgaon,Apartment,2262,40000000,17683,1,1,20,West,Elevator; Gym; AC; Library; Parking; Pool; Security; Playground,8,10,151010,4.53,Luxury,47.65,2025-10-14,169,Available,89,True,True,0
+PROP00051,Bangalore,Koramangala,Penthouse,5053,30000000,5937,4,2,21,West,Parking; Gym; Playground,3,9,75789,3.03,Luxury,40.16,2025-08-16,270,Available,137,True,True,0
+PROP00052,Pune,Magarpatta,Penthouse,7863,15000000,1907,4,3,16,North,Elevator; Gym; Security; Garden,4,4,49474,3.96,Premium,44.79,2025-03-29,365,Available,155,False,True,30000
+PROP00053,Delhi,Rohini,Villa,2538,40000000,15760,4,3,19,South-West,Elevator; AC; Playground; Garden; Security; Concierge; Parking; Pool,8,10,146785,4.4,Luxury,47.02,2024-07-13,111,Sold,171,False,False,80000
+PROP00054,Pune,Magarpatta,Studio,454,15000000,33039,1,1,10,South,Playground; Security; Elevator; Pool; Concierge; Garden,6,9,39634,3.17,Premium,40.85,2025-02-26,67,Available,125,True,False,30000
+PROP00055,Pune,Magarpatta,Studio,276,15000000,54347,1,2,11,East,Elevator; AC; Garden,3,8,43106,3.45,Premium,42.24,2026-01-24,59,Available,124,False,True,0
+PROP00056,Hyderabad,Kondapur,Penthouse,8529,12000000,1406,6,3,19,North,Security; Gym; Parking; Concierge; Playground; Library; Elevator; Pool,8,5,32865,3.29,Premium,41.43,2024-07-10,47,Available,37,True,False,0
+PROP00057,Pune,Magarpatta,Villa,5031,15000000,2981,5,3,24,South,Elevator; Pool; Gym; AC; Library; Security; Concierge,7,7,54048,4.32,Premium,46.62,2025-01-02,111,Sold,99,True,False,0
+PROP00058,Mumbai,Andheri,Penthouse,6986,50000000,7157,6,4,1,North-East,Library; Gym; AC; Pool,4,4,188945,4.53,Luxury,47.67,2025-08-26,255,Available,31,False,True,100000
+PROP00059,Pune,Camp,Villa,6098,15000000,2459,5,2,12,South-West,Gym; Library; Elevator; Garden; Concierge; Parking; AC; Security,8,6,47942,3.84,Premium,44.18,2026-01-17,317,Available,73,False,False,30000
+PROP00060,Pune,Baner,Villa,5569,15000000,2693,6,3,12,South,Playground; Garden; Elevator; Library; Pool,5,10,40350,3.23,Premium,41.14,2024-12-08,180,Available,119,True,True,30000
+PROP00061,Bangalore,Indiranagar,Villa,3421,30000000,8769,4,2,5,South-East,Concierge; Elevator; AC; Playground; Security; Library; Parking; Garden,8,10,78414,3.14,Luxury,40.68,2025-02-16,303,Sold,100,True,False,60000
+PROP00062,Delhi,Dwarka,Studio,269,26688946,99215,0,2,26,North,Pool; Elevator; Library; Garden; Security,5,8,102744,4.62,Luxury,48.1,2024-07-16,257,Available,151,True,True,0
+PROP00063,Mumbai,Andheri,Apartment,2466,50000000,20275,2,1,7,South-East,Concierge; Elevator; Parking; AC; Library; Playground; Garden; Pool,8,4,129363,3.1,Luxury,40.52,2024-08-06,49,Sold,114,False,False,0
+PROP00064,Chennai,T Nagar,Penthouse,4231,10000000,2363,5,2,18,South,Parking; Playground; Security; AC; Library; Garden; Pool; Elevator,8,9,31277,3.75,Premium,43.77,2025-06-12,48,Sold,164,False,False,20000
+PROP00065,Delhi,Noida,Villa,3754,40000000,10655,5,3,6,South,Parking; Elevator; Pool; AC,4,6,135984,4.08,Luxury,45.4,2024-11-21,306,Available,63,False,True,80000
+PROP00066,Bangalore,HSR Layout,Penthouse,9627,30000000,3116,4,3,1,West,Playground; Garden; Concierge; Security; Parking; AC,6,5,90473,3.62,Luxury,43.09,2025-01-19,348,Rented,124,False,False,0
+PROP00067,Pune,Camp,Penthouse,6429,15000000,2333,4,2,25,South,Parking; Security; Gym; Playground; Garden; Elevator; Concierge,7,8,56577,4.53,Premium,47.63,2025-08-08,224,Available,67,True,True,0
+PROP00068,Delhi,South Delhi,Studio,277,33263634,120085,1,2,7,South-East,Pool; Playground; Garden; Gym; Parking; Library,6,7,90787,3.28,Luxury,41.38,2025-07-25,362,Rented,65,False,False,66527
+PROP00069,Mumbai,South Mumbai,Independent House,2383,50000000,20981,3,2,3,South-West,Garden; Security; Pool; Gym; Concierge,5,7,176900,4.25,Luxury,46.23,2026-03-11,9,Available,167,True,True,0
+PROP00070,Pune,Baner,Penthouse,5890,15000000,2546,4,3,5,North-West,Pool; AC; Playground; Gym; Security; Concierge; Library; Elevator,8,4,47172,3.77,Premium,43.87,2025-04-27,35,Available,121,False,True,30000
+PROP00071,Hyderabad,Gachibowli,Independent House,2046,12000000,5865,2,2,17,East,Parking; Concierge; AC; Playground; Pool,5,5,45523,4.55,Premium,47.76,2025-01-31,103,Available,41,True,False,0
+PROP00072,Hyderabad,Banjara Hills,Penthouse,6878,12000000,1744,5,2,24,South-East,Garden; Security; Playground; Library; Gym; Parking; AC; Concierge,8,7,38000,3.8,Premium,44.0,2025-02-18,96,Rented,116,False,False,0
+PROP00073,Hyderabad,HITEC City,Apartment,2138,12000000,5612,1,2,19,South,AC; Security; Playground; Gym,4,7,35912,3.59,Premium,42.96,2025-02-12,354,Sold,72,False,False,0
+PROP00074,Mumbai,Navi Mumbai,Independent House,4018,50000000,12444,5,3,20,East,Pool; Library; Playground,3,7,136898,3.29,Luxury,41.43,2024-08-30,65,Sold,38,True,True,0
+PROP00075,Delhi,Dwarka,Penthouse,3265,40000000,12251,6,3,21,East,Playground; Elevator; Concierge; Library; Gym; Security,6,4,126535,3.8,Luxury,43.98,2024-07-18,96,Available,36,False,False,80000
+PROP00076,Delhi,Noida,Studio,359,40000000,111420,1,2,6,East,Parking; Pool; Concierge,3,10,129674,3.89,Luxury,44.45,2026-02-14,342,Sold,111,False,True,0
+PROP00077,Delhi,Gurgaon,Villa,4961,40000000,8062,4,2,6,South-East,Garden; Concierge; Gym; Parking,4,4,165534,4.97,Luxury,49.83,2026-01-02,159,Sold,46,False,False,0
+PROP00078,Pune,Camp,Apartment,913,15000000,16429,3,1,14,East,AC; Playground; Parking; Library; Security; Elevator,6,4,40725,3.26,Premium,41.29,2024-12-16,266,Rented,61,True,False,30000
+PROP00079,Bangalore,Indiranagar,Villa,4834,30000000,6206,5,2,8,North-East,AC; Security; Parking; Playground,4,8,79671,3.19,Luxury,40.93,2024-07-27,88,Available,69,False,True,60000
+PROP00080,Mumbai,South Mumbai,Penthouse,5168,50000000,9674,6,3,24,North-West,Library; Gym; Concierge; Playground; Security; Parking; Elevator,7,4,192279,4.61,Luxury,48.07,2025-03-25,81,Available,45,False,False,0
+PROP00081,Pune,Hinjewadi,Independent House,3984,15000000,3765,3,2,27,West,Playground; Elevator; Library; Pool; Parking; Security; Gym; Concierge,8,4,44186,3.53,Premium,42.67,2025-09-03,197,Available,104,False,True,30000
+PROP00082,Delhi,Rohini,Independent House,2277,40000000,17566,3,2,16,North-West,Concierge; Security; Elevator; Gym; Library; Garden,6,6,114342,3.43,Luxury,42.15,2025-05-18,306,Available,156,False,False,80000
+PROP00083,Mumbai,Dadar,Villa,4166,50000000,12001,5,3,11,South-East,Library; Gym; Garden,3,8,131127,3.15,Luxury,40.74,2024-12-14,320,Available,101,True,True,100000
+PROP00084,Pune,Magarpatta,Independent House,3784,15000000,3964,4,2,6,North-West,AC; Library; Gym; Concierge; Elevator; Pool; Parking,7,8,41223,3.3,Premium,41.49,2024-12-03,84,Available,111,False,False,0
+PROP00085,Hyderabad,Kondapur,Penthouse,7012,12000000,1711,6,4,15,South-West,Playground; Elevator; Pool,3,8,45935,4.59,Premium,47.97,2024-06-09,136,Sold,151,True,True,0
+PROP00086,Bangalore,Marathahalli,Penthouse,9345,30000000,3210,5,2,26,East,Garden; Gym; Pool; Concierge; AC; Elevator; Parking; Library,8,7,85194,3.41,Luxury,42.04,2024-12-17,362,Sold,45,True,True,0
+PROP00087,Chennai,Thiruvanmiyur,Penthouse,6086,10000000,1643,5,2,14,West,Playground; AC; Elevator; Concierge; Library; Parking; Garden,7,6,29650,3.56,Premium,42.79,2025-07-13,361,Available,103,True,False,0
+PROP00088,Pune,Magarpatta,Penthouse,9515,15000000,1576,6,4,9,South-West,Elevator; AC; Library,3,6,61365,4.91,Premium,49.55,2025-12-16,178,Available,50,False,False,0
+PROP00089,Bangalore,Koramangala,Penthouse,5221,30000000,5746,6,4,4,North,Elevator; Garden; AC,3,4,101552,4.06,Luxury,45.31,2024-07-30,170,Available,135,False,True,60000
+PROP00090,Mumbai,Borivali,Villa,5333,50000000,9375,6,4,20,North,Security; Playground; Elevator; AC,4,9,132455,3.18,Luxury,40.89,2024-10-04,90,Available,39,False,True,100000
+PROP00091,Pune,Viman Nagar,Villa,4371,15000000,3431,3,1,9,East,Elevator; Pool; Playground; Parking; Garden; Security; Concierge,7,6,49200,3.94,Premium,44.68,2025-10-29,235,Sold,71,False,True,30000
+PROP00092,Chennai,Besant Nagar,Independent House,3825,10000000,2614,3,1,19,North-West,Library; Elevator; Playground; Gym; Garden; AC; Pool; Security,8,7,29134,3.5,Premium,42.48,2025-08-20,169,Available,98,False,True,0
+PROP00093,Chennai,Besant Nagar,Villa,2508,10000000,3987,3,2,9,South,Library; AC; Security; Playground,4,5,40677,4.88,Premium,49.41,2025-05-03,245,Sold,64,True,False,0
+PROP00094,Pune,Kondhwa,Penthouse,6857,15000000,2187,6,3,24,South-East,Elevator; Pool; Concierge; Security,4,8,51604,4.13,Premium,45.64,2026-03-12,294,Sold,81,True,True,0
+PROP00095,Hyderabad,Banjara Hills,Apartment,1241,12000000,9669,4,2,28,North,Concierge; Gym; Elevator; Pool; Security; Garden; Playground,7,7,43455,4.35,Premium,46.73,2025-07-03,2,Sold,95,True,True,24000
+PROP00096,Pune,Magarpatta,Apartment,2616,15000000,5733,1,1,29,South-East,Gym; Security; Library; Pool; Concierge; Garden,6,9,47061,3.76,Premium,43.82,2025-04-23,69,Available,168,False,True,30000
+PROP00097,Hyderabad,Banjara Hills,Penthouse,4043,12000000,2968,6,3,26,South-West,Gym; Security; Concierge,3,5,46467,4.65,Premium,48.23,2025-09-03,97,Available,100,True,True,0
+PROP00098,Hyderabad,Jubilee Hills,Villa,3688,12000000,3253,3,1,19,North,Concierge; Gym; Garden,3,10,34686,3.47,Premium,42.34,2025-10-04,72,Sold,44,False,True,0
+PROP00099,Hyderabad,Kondapur,Independent House,2470,12000000,4858,4,2,21,South-West,Garden; Library; Security; Parking; Gym; Concierge; Pool,7,9,30937,3.09,Premium,40.47,2025-05-27,269,Rented,127,False,False,0
+PROP00100,Bangalore,Indiranagar,Studio,344,30000000,87209,1,1,27,South-West,Security; Parking; Concierge; Gym,4,6,102864,4.11,Luxury,45.57,2025-12-28,170,Available,82,True,False,0
+PROP00101,Mumbai,Borivali,Villa,2422,50000000,20644,5,3,21,North-West,Elevator; Gym; Pool; Concierge; Security; Playground; Library,7,4,200586,4.81,Luxury,49.07,2025-07-08,98,Rented,84,True,False,100000
+PROP00102,Chennai,Kilpauk,Villa,5249,10000000,1905,4,3,24,South-East,Library; Concierge; Playground; Parking; Elevator,5,9,33287,3.99,Premium,44.97,2026-02-03,164,Sold,150,True,False,0
+PROP00103,Pune,Baner,Penthouse,4812,15000000,3117,6,3,0,South-East,AC; Library; Security; Pool; Elevator,5,9,51744,4.14,Premium,45.7,2025-09-05,132,Available,116,False,False,0
+PROP00104,Bangalore,HSR Layout,Independent House,2193,30000000,13679,3,2,5,South-West,Gym; AC; Elevator; Library; Concierge; Playground; Security,7,4,106535,4.26,Luxury,46.31,2026-03-06,259,Sold,85,False,False,60000
+PROP00105,Hyderabad,Gachibowli,Penthouse,6958,12000000,1724,6,4,0,North,AC; Elevator; Library,3,4,44443,4.44,Premium,47.22,2024-11-12,358,Rented,158,False,True,24000
+PROP00106,Mumbai,Borivali,Villa,3974,50000000,12581,4,3,26,North-West,Security; Library; Pool; Parking; Garden,5,10,207519,4.98,Luxury,49.9,2025-09-25,335,Available,50,True,True,0
+PROP00107,Pune,Viman Nagar,Penthouse,6899,15000000,2174,4,2,22,South-East,Pool; Concierge; Library; Playground,4,4,58949,4.72,Premium,48.58,2026-02-06,109,Rented,88,False,False,30000
+PROP00108,Mumbai,Navi Mumbai,Independent House,3724,50000000,13426,2,1,29,South-West,Gym; Garden; Parking; Library; Playground,5,10,149939,3.6,Luxury,42.99,2024-10-14,347,Available,129,False,False,100000
+PROP00109,Chennai,T Nagar,Apartment,2451,10000000,4079,3,1,3,South-West,Garden; Pool; Playground; Security; Library; Concierge,6,7,30439,3.65,Premium,43.26,2024-08-03,117,Available,155,False,False,0
+PROP00110,Bangalore,HSR Layout,Penthouse,8412,30000000,3566,5,2,24,East,Security; Garden; Pool; Gym; Parking; Concierge; AC,7,6,90833,3.63,Luxury,43.17,2026-01-25,185,Available,143,False,True,60000
+PROP00111,Mumbai,Bandra,Studio,479,50000000,104384,1,1,0,South-East,Playground; AC; Pool,3,4,126028,3.02,Luxury,40.12,2025-03-17,125,Available,173,True,False,100000
+PROP00112,Bangalore,Indiranagar,Independent House,2599,30000000,11542,5,2,2,North-West,Library; Security; Elevator; Parking,4,7,93056,3.72,Luxury,43.61,2025-09-04,235,Sold,80,True,True,0
+PROP00113,Mumbai,Dadar,Independent House,4947,50000000,10107,5,3,14,West,Library; Parking; Security; AC; Concierge,5,6,139803,3.36,Luxury,41.78,2025-04-02,295,Rented,155,True,False,0
+PROP00114,Delhi,Dwarka,Independent House,1966,40000000,20345,3,1,21,North-West,Gym; Concierge; Garden; AC; Parking; Elevator; Library,7,9,120188,3.61,Luxury,43.03,2025-08-29,194,Sold,138,True,False,0
+PROP00115,Hyderabad,Banjara Hills,Penthouse,7150,12000000,1678,6,4,17,South,Playground; AC; Pool,3,8,43152,4.32,Premium,46.58,2025-05-16,289,Available,41,False,False,0
+PROP00116,Mumbai,South Mumbai,Apartment,1459,50000000,34270,2,1,14,North-West,Library; Concierge; Parking; AC; Gym,5,9,159664,3.83,Luxury,44.16,2026-02-16,179,Available,66,False,False,0
+PROP00117,Bangalore,Marathahalli,Studio,428,30000000,70093,1,1,14,South,Concierge; Playground; Pool; Parking; Gym; AC; Security; Elevator,8,8,83217,3.33,Luxury,41.64,2025-09-07,170,Available,70,False,False,60000
+PROP00118,Pune,Kondhwa,Villa,3526,15000000,4254,6,4,0,West,Elevator; Garden; Concierge; Security; AC; Playground; Gym; Parking,8,10,56308,4.5,Premium,47.52,2026-03-11,96,Available,167,False,False,30000
+PROP00119,Pune,Baner,Independent House,4247,15000000,3531,5,3,19,East,Elevator; Library; Pool; Parking; AC; Garden,6,8,55149,4.41,Premium,47.06,2025-07-14,345,Rented,51,True,False,30000
+PROP00120,Bangalore,Indiranagar,Apartment,1149,30000000,26109,3,1,16,East,Library; Parking; Elevator; Garden; Pool; Concierge,6,10,99482,3.98,Luxury,44.9,2025-12-22,318,Available,145,True,False,60000
+PROP00121,Pune,Hinjewadi,Villa,5145,15000000,2915,6,4,21,North,Library; Concierge; AC; Pool; Gym; Security,6,8,43013,3.44,Premium,42.21,2026-04-11,87,Available,103,False,False,30000
+PROP00122,Hyderabad,Jubilee Hills,Independent House,4674,12000000,2567,4,2,24,North-West,Concierge; AC; Garden; Elevator; Gym; Pool; Parking; Playground,8,4,47243,4.72,Premium,48.62,2026-02-14,108,Available,90,False,False,24000
+PROP00123,Hyderabad,Madhapur,Villa,3695,12000000,3247,3,2,17,North-East,Elevator; AC; Parking; Concierge; Playground,5,9,35346,3.53,Premium,42.67,2024-12-04,70,Rented,54,False,True,0
+PROP00124,Chennai,Velachery,Villa,4045,10000000,2472,4,3,26,North-East,Library; Concierge; Parking; Security,4,10,31252,3.75,Premium,43.75,2026-02-26,207,Sold,53,False,False,0
+PROP00125,Pune,Magarpatta,Penthouse,3020,15000000,4966,6,3,23,North-West,Playground; Pool; Library; AC; Garden; Concierge,6,5,58208,4.66,Premium,48.28,2025-06-03,249,Available,174,False,True,30000
+PROP00126,Mumbai,Navi Mumbai,Studio,258,43113726,167107,0,1,14,East,Gym; Library; Garden; Playground; Pool; Parking,6,6,170773,4.75,Luxury,48.77,2026-02-08,191,Sold,51,True,True,0
+PROP00127,Chennai,Besant Nagar,Villa,5516,10000000,1812,3,1,0,West,Concierge; Pool; Parking; Security,4,10,32417,3.89,Premium,44.45,2026-05-06,217,Sold,60,True,False,20000
+PROP00128,Bangalore,Jayanagar,Apartment,819,30000000,36630,1,2,11,East,Parking; Library; Elevator; Playground; AC,5,7,103164,4.13,Luxury,45.63,2024-08-28,110,Sold,119,True,False,0
+PROP00129,Bangalore,Whitefield,Apartment,973,30000000,30832,1,2,11,West,Playground; Parking; Garden; AC; Elevator; Gym,6,9,105000,4.2,Luxury,46.0,2024-08-30,338,Available,36,False,True,60000
+PROP00130,Chennai,Thiruvanmiyur,Independent House,4146,10000000,2411,2,1,15,North,Pool; Garden; Concierge; Playground; Security; Gym,6,10,40565,4.87,Premium,49.34,2025-12-30,216,Available,175,False,True,0
+PROP00131,Mumbai,South Mumbai,Penthouse,3553,50000000,14072,4,3,6,South-West,Gym; Library; Security,3,8,158523,3.8,Luxury,44.02,2024-07-28,143,Available,69,True,False,100000
+PROP00132,Hyderabad,Madhapur,Villa,6394,12000000,1876,5,3,18,South-West,Pool; Security; Library; Playground; Elevator; Gym; Concierge; AC,8,9,42245,4.22,Premium,46.12,2026-03-19,62,Available,74,True,True,24000
+PROP00133,Bangalore,Jayanagar,Independent House,3642,30000000,8237,4,2,11,South-West,Security; Pool; Gym; Parking,4,9,78193,3.13,Luxury,40.64,2024-05-15,255,Rented,49,False,False,60000
+PROP00134,Pune,Camp,Villa,5012,15000000,2992,4,3,24,North,Elevator; Pool; Garden,3,6,59073,4.73,Premium,48.63,2025-09-06,77,Available,128,True,True,0
+PROP00135,Bangalore,Indiranagar,Villa,5409,30000000,5546,5,3,26,North,Elevator; Playground; Pool,3,4,115216,4.61,Luxury,48.04,2026-03-28,145,Rented,149,False,False,60000
+PROP00136,Hyderabad,Banjara Hills,Apartment,1911,12000000,6279,2,2,18,North-West,Elevator; Garden; Concierge; Parking; Security,5,5,45517,4.55,Premium,47.76,2024-11-01,4,Sold,68,False,True,24000
+PROP00137,Hyderabad,HITEC City,Apartment,1772,12000000,6772,1,2,27,East,Security; Pool; Garden; Elevator; AC; Concierge; Library; Gym,8,8,31860,3.19,Premium,40.93,2025-09-19,359,Rented,135,False,False,24000
+PROP00138,Hyderabad,Jubilee Hills,Penthouse,4093,12000000,2931,6,4,2,North-East,Elevator; Gym; Library; Playground; Pool; Concierge; Parking,7,9,48520,4.85,Premium,49.26,2025-04-07,163,Sold,113,False,False,24000
+PROP00139,Mumbai,Bandra,Villa,6789,50000000,7364,3,1,3,South,Concierge; Elevator; Playground; Garden,4,7,205386,4.93,Luxury,49.65,2025-10-14,62,Available,97,True,True,0
+PROP00140,Chennai,T Nagar,Penthouse,3330,10000000,3003,4,3,4,North,Garden; Playground; Library,3,7,29336,3.52,Premium,42.6,2025-11-17,285,Available,145,True,True,0
+PROP00141,Mumbai,Bandra,Apartment,448,50000000,111607,1,1,4,North-East,Library; Playground; Pool; Security,4,9,131248,3.15,Luxury,40.75,2026-03-09,66,Available,143,True,False,100000
+PROP00142,Mumbai,Dadar,Apartment,1088,50000000,45955,4,3,15,South-East,Library; Elevator; Parking,3,5,140595,3.37,Luxury,41.87,2025-08-01,315,Available,38,True,False,0
+PROP00143,Pune,Camp,Studio,281,15000000,53380,0,2,12,North,Library; Garden; AC; Playground,4,10,57047,4.56,Premium,47.82,2025-05-12,177,Available,154,False,False,0
+PROP00144,Bangalore,Whitefield,Independent House,3945,30000000,7604,3,1,28,West,Gym; Concierge; Playground; Library; Security,5,8,80006,3.2,Luxury,41.0,2024-07-11,113,Available,44,False,False,60000
+PROP00145,Bangalore,Koramangala,Penthouse,5605,30000000,5352,6,4,29,East,Gym; Playground; Parking; Security; Pool; Garden; Concierge,7,4,79512,3.18,Luxury,40.9,2025-09-18,245,Sold,164,True,False,60000
+PROP00146,Bangalore,Indiranagar,Villa,4650,30000000,6451,3,1,4,South-East,Parking; Pool; Playground; Gym; Elevator; Garden; Library,7,7,81822,3.27,Luxury,41.36,2025-12-04,333,Sold,154,False,True,0
+PROP00147,Bangalore,HSR Layout,Penthouse,9672,30000000,3101,4,3,9,North,Security; Parking; AC; Playground; Gym; Elevator; Garden; Concierge,8,8,90910,3.64,Luxury,43.18,2024-08-26,255,Available,56,True,False,60000
+PROP00148,Bangalore,Indiranagar,Independent House,2187,30000000,13717,2,2,14,South,Security; Garden; AC,3,7,114351,4.57,Luxury,47.87,2026-05-13,86,Available,137,False,False,0
+PROP00149,Delhi,Rohini,Studio,301,30567155,101552,1,1,5,South,Pool; Gym; Security; AC; Parking; Playground,6,4,85083,3.34,Luxury,41.7,2025-04-25,48,Available,170,False,False,61134
+PROP00150,Pune,Kondhwa,Villa,6975,15000000,2150,6,3,1,South-West,Playground; Garden; AC,3,6,55550,4.44,Premium,47.22,2024-11-07,122,Available,106,True,True,0
+PROP00151,Hyderabad,Kondapur,Studio,328,12000000,36585,0,2,0,West,Pool; Security; Concierge; Elevator; Gym; Playground,6,4,35836,3.58,Premium,42.92,2026-02-20,204,Available,108,False,False,0
+PROP00152,Mumbai,Navi Mumbai,Penthouse,6174,50000000,8098,4,3,28,North-West,Playground; Parking; Concierge; Gym; AC; Garden,6,10,194756,4.67,Luxury,48.37,2024-10-14,44,Available,54,False,False,100000
+PROP00153,Hyderabad,Jubilee Hills,Studio,517,12000000,23210,1,2,18,North,Concierge; Security; Pool; Garden,4,8,48009,4.8,Premium,49.0,2024-10-06,62,Sold,67,False,True,24000
+PROP00154,Bangalore,Koramangala,Villa,2349,30000000,12771,6,3,21,South,Garden; Parking; Security; AC; Playground; Gym,6,8,94867,3.79,Luxury,43.97,2025-06-15,7,Rented,147,False,True,0
+PROP00155,Bangalore,Koramangala,Penthouse,7816,30000000,3838,6,3,29,South-East,Elevator; Pool; Security,3,8,88206,3.53,Luxury,42.64,2024-07-13,20,Available,151,True,False,0
+PROP00156,Bangalore,Marathahalli,Penthouse,8577,30000000,3497,6,4,1,South-East,Playground; Garden; Gym; Elevator; AC; Parking,6,10,115869,4.63,Luxury,48.17,2025-07-08,357,Available,155,True,True,60000
+PROP00157,Delhi,Pitampura,Studio,414,40000000,96618,1,2,19,East,Pool; Garden; Concierge; Elevator; AC; Playground; Parking; Gym,8,10,147304,4.42,Luxury,47.1,2025-03-27,292,Available,164,True,True,80000
+PROP00158,Bangalore,Whitefield,Villa,2270,30000000,13215,6,3,29,South-West,Garden; Security; Playground; Library; Elevator,5,7,81193,3.25,Luxury,41.24,2026-04-13,91,Available,144,False,False,0
+PROP00159,Bangalore,Indiranagar,Apartment,1567,30000000,19144,1,2,1,West,Elevator; Garden; AC; Playground,4,10,88454,3.54,Luxury,42.69,2025-03-21,243,Available,32,True,True,60000
+PROP00160,Bangalore,Indiranagar,Penthouse,9595,30000000,3126,5,3,13,South-West,Playground; Concierge; Security; Pool; Garden; Parking,6,10,75367,3.01,Luxury,40.07,2024-07-05,288,Rented,125,False,False,60000
+PROP00161,Pune,Baner,Independent House,2632,15000000,5699,4,3,8,South-East,Security; Garden; Parking; Elevator; Pool; Gym; AC; Concierge,8,6,55532,4.44,Premium,47.21,2024-07-12,215,Available,96,False,False,30000
+PROP00162,Hyderabad,Gachibowli,Penthouse,9684,12000000,1239,4,3,23,East,Garden; AC; Concierge; Playground; Parking; Security; Library; Gym,8,8,39415,3.94,Premium,44.71,2025-08-23,349,Sold,76,False,True,24000
+PROP00163,Delhi,Gurgaon,Independent House,3222,40000000,12414,4,3,8,North-West,Security; Concierge; Pool; Garden; Gym; Elevator; Playground,7,6,133365,4.0,Luxury,45.0,2024-06-16,28,Available,135,True,True,80000
+PROP00164,Delhi,Dwarka,Penthouse,6748,40000000,5927,4,3,27,North,Parking; Pool; Concierge; Elevator; Playground; AC; Library; Garden,8,5,118235,3.55,Luxury,42.74,2025-11-23,46,Available,155,True,False,0
+PROP00165,Pune,Viman Nagar,Studio,446,15000000,33632,0,1,17,West,Playground; Gym; Elevator; Library,4,6,37603,3.01,Premium,40.04,2025-09-02,67,Available,109,True,False,0
+PROP00166,Bangalore,Whitefield,Apartment,1621,30000000,18507,3,2,23,North-West,Elevator; AC; Playground; Garden; Concierge; Pool; Parking,7,5,84421,3.38,Luxury,41.88,2025-03-27,109,Available,63,True,True,60000
+PROP00167,Delhi,Pitampura,Apartment,1936,40000000,20661,3,1,19,South,Pool; Gym; AC,3,9,125350,3.76,Luxury,43.8,2024-10-31,106,Available,69,True,False,0
+PROP00168,Chennai,Anna Nagar,Penthouse,5211,10000000,1919,6,3,13,South,AC; Pool; Security,3,6,33295,4.0,Premium,44.98,2024-08-29,104,Available,163,False,False,0
+PROP00169,Bangalore,Whitefield,Penthouse,7066,30000000,4245,4,3,10,North-West,Gym; Elevator; Pool; AC,4,9,79504,3.18,Luxury,40.9,2024-12-07,132,Available,55,True,False,0
+PROP00170,Delhi,Dwarka,Apartment,808,40000000,49504,2,1,27,South,Playground; Elevator; Library; AC; Gym,5,9,159352,4.78,Luxury,48.9,2026-05-05,169,Rented,73,False,False,0
+PROP00171,Chennai,Anna Nagar,Independent House,4838,10000000,2066,4,2,3,South-West,Library; Concierge; Security; Elevator; Garden; Playground,6,9,38281,4.59,Premium,47.97,2026-01-19,82,Available,45,True,False,0
+PROP00172,Hyderabad,Gachibowli,Studio,342,12000000,35087,1,2,19,South,Parking; Concierge; AC,3,6,38813,3.88,Premium,44.41,2026-03-11,361,Available,33,True,False,24000
+PROP00173,Pune,Kondhwa,Villa,5947,15000000,2522,5,3,4,North-West,Elevator; Gym; AC; Playground; Pool; Security; Garden,7,6,39371,3.15,Premium,40.75,2024-12-27,26,Available,101,True,False,0
+PROP00174,Bangalore,Whitefield,Studio,477,30000000,62893,1,1,27,South,Concierge; Playground; Pool; Garden; AC; Gym,6,4,76791,3.07,Luxury,40.36,2024-10-29,261,Available,107,True,False,0
+PROP00175,Delhi,South Delhi,Villa,5722,40000000,6990,5,3,22,South-East,Playground; Concierge; Pool; Gym; Elevator; AC; Library; Security,8,6,164295,4.93,Luxury,49.64,2025-07-20,24,Available,57,True,False,80000
+PROP00176,Chennai,T Nagar,Studio,304,10000000,32894,1,1,6,West,Library; Garden; Concierge,3,9,26796,3.22,Premium,41.08,2025-03-16,64,Available,180,False,False,20000
+PROP00177,Pune,Baner,Penthouse,9031,15000000,1660,4,3,26,South,Concierge; AC; Parking; Playground; Security; Pool; Library,7,7,52513,4.2,Premium,46.01,2025-06-19,312,Available,137,True,False,0
+PROP00178,Delhi,Noida,Studio,318,33863478,106488,0,2,19,West,AC; Security; Playground; Concierge; Library; Elevator; Pool; Gym,8,5,101058,3.58,Luxury,42.91,2025-05-26,258,Rented,75,False,True,0
+PROP00179,Hyderabad,Banjara Hills,Penthouse,7674,12000000,1563,6,4,21,South-West,AC; Security; Library; Concierge; Gym; Elevator; Playground; Garden,8,10,43405,4.34,Premium,46.7,2025-10-22,147,Available,71,False,True,24000
+PROP00180,Chennai,Besant Nagar,Villa,6433,10000000,1554,3,2,26,South-West,Pool; AC; Garden; Playground; Library; Security,6,9,38071,4.57,Premium,47.84,2024-06-01,196,Available,42,False,False,0
+PROP00181,Hyderabad,Jubilee Hills,Apartment,1429,12000000,8397,2,2,26,West,Playground; AC; Garden; Library,4,5,33548,3.35,Premium,41.77,2024-06-14,62,Available,161,False,True,0
+PROP00182,Delhi,Rohini,Independent House,2032,40000000,19685,3,2,0,North,Concierge; Parking; Gym; Pool; AC,5,10,141691,4.25,Luxury,46.25,2024-07-06,282,Available,176,False,True,0
+PROP00183,Hyderabad,Madhapur,Villa,6264,12000000,1915,3,1,13,South-East,AC; Library; Pool; Parking; Concierge; Playground; Elevator,7,8,34368,3.44,Premium,42.18,2024-08-19,59,Available,32,False,False,24000
+PROP00184,Chennai,Kilpauk,Penthouse,4997,10000000,2001,4,3,12,North,Library; Security; AC,3,8,38701,4.64,Premium,48.22,2025-04-26,250,Available,144,True,False,20000
+PROP00185,Delhi,Rohini,Apartment,793,40000000,50441,2,1,20,South,Garden; Elevator; Library,3,4,155249,4.66,Luxury,48.29,2025-02-23,13,Sold,69,False,False,80000
+PROP00186,Mumbai,South Mumbai,Apartment,1129,50000000,44286,3,1,18,South-West,Security; Library; AC; Garden,4,4,126407,3.03,Luxury,40.17,2024-06-24,300,Available,46,True,True,0
+PROP00187,Hyderabad,Jubilee Hills,Independent House,4723,12000000,2540,4,2,9,West,Library; Elevator; Gym; Garden; Pool; Security,6,9,37819,3.78,Premium,43.91,2024-11-02,153,Available,66,False,True,24000
+PROP00188,Mumbai,South Mumbai,Apartment,2745,50000000,18214,4,2,9,East,Playground; Garden; Library; Elevator,4,5,143398,3.44,Luxury,42.21,2025-08-29,28,Available,175,False,True,0
+PROP00189,Chennai,Anna Nagar,Independent House,1902,10000000,5257,3,2,30,South,Playground; Parking; Garden; Gym; AC,5,9,30296,3.64,Premium,43.18,2025-02-07,356,Available,108,True,False,0
+PROP00190,Pune,Hinjewadi,Apartment,1682,15000000,8917,2,1,22,North-West,Library; Security; Playground; Pool; Concierge; Parking; Garden; Elevator,8,9,45136,3.61,Premium,43.05,2024-10-27,144,Available,50,True,True,0
+PROP00191,Chennai,T Nagar,Apartment,708,10000000,14124,1,1,26,East,Elevator; Library; Garden; Gym; Security; Parking; Concierge,7,6,28721,3.45,Premium,42.23,2024-09-18,238,Sold,64,True,False,0
+PROP00192,Hyderabad,Jubilee Hills,Villa,7030,12000000,1706,4,2,14,North,Parking; Elevator; Concierge; AC,4,5,39752,3.98,Premium,44.88,2026-03-11,343,Available,40,True,False,0
+PROP00193,Pune,Viman Nagar,Apartment,563,15000000,26642,3,1,22,South,Security; Elevator; Parking; Garden; Playground; Library; Concierge,7,6,46908,3.75,Premium,43.76,2025-09-28,250,Available,118,False,True,30000
+PROP00194,Pune,Hinjewadi,Villa,2631,15000000,5701,5,2,4,West,Parking; Playground; Pool; AC,4,7,45755,3.66,Premium,43.3,2026-01-18,108,Available,152,True,False,30000
+PROP00195,Bangalore,Whitefield,Villa,6698,30000000,4478,4,2,20,North,Gym; Parking; Elevator; Pool; AC; Library; Garden,7,5,111398,4.46,Luxury,47.28,2025-07-28,311,Rented,144,False,False,60000
+PROP00196,Bangalore,Jayanagar,Penthouse,4169,30000000,7195,6,3,19,South,AC; Security; Parking; Playground; Library; Concierge; Garden; Elevator,8,8,94273,3.77,Luxury,43.85,2026-01-23,351,Available,159,False,True,60000
+PROP00197,Bangalore,Jayanagar,Penthouse,7913,30000000,3791,4,2,2,South-West,Parking; AC; Gym; Library; Playground; Garden,6,10,77171,3.09,Luxury,40.43,2024-11-18,196,Available,153,False,True,0
+PROP00198,Bangalore,Indiranagar,Studio,369,30000000,81300,0,2,19,North,Library; Security; Garden; Gym; Playground; Elevator; AC,7,4,85270,3.41,Luxury,42.05,2025-06-25,219,Available,69,False,False,0
+PROP00199,Hyderabad,HITEC City,Penthouse,5257,12000000,2282,6,4,24,South-East,Library; AC; Concierge; Pool,4,10,39675,3.97,Premium,44.84,2025-07-04,71,Available,131,True,True,0
+PROP00200,Chennai,Velachery,Apartment,1278,10000000,7824,4,3,25,East,Elevator; Gym; Parking; Garden; Playground; AC; Security,7,5,35004,4.2,Premium,46.0,2026-02-13,41,Available,124,True,False,0
+PROP00201,Hyderabad,Gachibowli,Penthouse,5346,12000000,2244,6,3,30,North-East,Concierge; Elevator; Gym; Pool,4,5,45679,4.57,Premium,47.84,2024-12-08,346,Available,73,True,False,24000
+PROP00202,Chennai,Anna Nagar,Villa,2711,10000000,3688,5,3,11,North-East,Library; Elevator; Garden; Security; Gym; Playground; AC; Parking,8,10,34318,4.12,Premium,45.59,2024-09-25,116,Available,100,True,False,0
+PROP00203,Hyderabad,Jubilee Hills,Independent House,2216,12000000,5415,5,2,17,South,AC; Security; Playground,3,8,49134,4.91,Premium,49.57,2024-11-10,356,Sold,94,False,False,0
+PROP00204,Bangalore,Indiranagar,Studio,598,30000000,50167,1,1,15,West,Security; Pool; Library,3,6,86496,3.46,Luxury,42.3,2025-06-25,275,Available,162,True,False,60000
+PROP00205,Delhi,South Delhi,Studio,594,40000000,67340,1,1,17,North-East,Concierge; Playground; AC; Pool,4,5,149743,4.49,Luxury,47.46,2025-11-01,124,Available,90,False,True,80000
+PROP00206,Bangalore,Koramangala,Penthouse,5916,30000000,5070,4,2,3,North-West,Concierge; Gym; AC,3,7,90770,3.63,Luxury,43.15,2024-10-03,262,Rented,76,False,False,60000
+PROP00207,Hyderabad,Madhapur,Apartment,2553,12000000,4700,4,3,30,South,Gym; AC; Playground; Garden; Concierge; Pool; Library,7,9,39201,3.92,Premium,44.6,2024-06-08,195,Available,83,True,False,0
+PROP00208,Hyderabad,HITEC City,Villa,6493,12000000,1848,5,2,8,West,Elevator; Playground; AC; Pool; Garden; Concierge,6,6,45043,4.5,Premium,47.52,2025-05-06,93,Rented,145,True,True,24000
+PROP00209,Chennai,Besant Nagar,Villa,6549,10000000,1526,6,4,6,South-West,Parking; Concierge; Gym; Pool,4,9,41592,4.99,Premium,49.96,2024-08-07,250,Available,110,False,False,20000
+PROP00210,Pune,Baner,Villa,2491,15000000,6021,4,3,15,North,Pool; Concierge; Playground; Parking; Library; AC; Security; Elevator,8,5,46277,3.7,Premium,43.51,2024-06-18,295,Rented,177,True,False,0
+PROP00211,Delhi,Pitampura,Penthouse,6993,40000000,5720,6,4,28,East,Library; Security; Concierge,3,8,142705,4.28,Luxury,46.41,2025-06-03,208,Available,176,True,True,80000
+PROP00212,Delhi,Gurgaon,Independent House,2797,40000000,14301,4,3,19,East,Library; Security; Concierge; Elevator; Parking; AC; Garden; Pool,8,9,101540,3.05,Luxury,40.23,2025-09-16,108,Sold,50,True,False,80000
+PROP00213,Mumbai,South Mumbai,Studio,530,50000000,94339,0,1,24,South,AC; Pool; Elevator; Parking; Security; Concierge,6,9,198789,4.77,Luxury,48.85,2025-07-02,227,Available,102,True,True,100000
+PROP00214,Mumbai,South Mumbai,Independent House,2832,50000000,17655,5,3,27,North-West,Security; AC; Concierge; Pool; Playground; Elevator; Library,7,9,177987,4.27,Luxury,46.36,2024-10-14,159,Available,166,False,False,100000
+PROP00215,Mumbai,Dadar,Independent House,2998,50000000,16677,5,3,4,North-West,Gym; Elevator; Parking; Concierge; Library,5,7,182314,4.38,Luxury,46.88,2024-12-27,5,Rented,106,False,False,100000
+PROP00216,Mumbai,Borivali,Independent House,2272,50000000,22007,5,3,12,North-East,Parking; Library; AC; Pool,4,8,177110,4.25,Luxury,46.25,2024-12-01,146,Sold,99,False,False,100000
+PROP00217,Mumbai,Bandra,Villa,4372,50000000,11436,3,2,19,North,Security; Concierge; Garden; Parking; Gym; Pool,6,5,126844,3.04,Luxury,40.22,2026-01-30,5,Available,142,True,True,100000
+PROP00218,Mumbai,Dadar,Villa,4800,50000000,10416,6,4,25,North,Playground; Concierge; Gym; Parking; AC; Pool,6,5,157701,3.78,Luxury,43.92,2024-11-04,196,Available,94,True,True,100000
+PROP00219,Pune,Viman Nagar,Villa,2274,15000000,6596,4,3,23,South-West,AC; Garden; Concierge,3,9,45302,3.62,Premium,43.12,2025-06-18,282,Available,40,True,False,0
+PROP00220,Chennai,Besant Nagar,Villa,4952,10000000,2019,3,1,3,North-East,Library; Playground; Gym; Pool,4,4,31596,3.79,Premium,43.96,2025-09-08,354,Available,178,False,True,0
+PROP00221,Mumbai,Bandra,Villa,6095,50000000,8203,3,2,29,North-West,Gym; Elevator; Playground; Concierge; Pool; Security; AC; Garden,8,10,206806,4.96,Luxury,49.82,2024-07-23,99,Sold,142,True,False,0
+PROP00222,Chennai,Velachery,Independent House,1661,10000000,6020,5,3,17,South-East,AC; Concierge; Garden; Security; Pool,5,8,32806,3.94,Premium,44.68,2024-09-08,36,Rented,71,True,False,0
+PROP00223,Delhi,Rohini,Independent House,3359,40000000,11908,2,2,23,South,Gym; Playground; Garden; Parking,4,9,135930,4.08,Luxury,45.39,2025-04-13,283,Available,157,True,False,0
+PROP00224,Pune,Kondhwa,Independent House,1952,15000000,7684,2,1,1,North-West,Parking; Gym; Garden; AC,4,9,38295,3.06,Premium,40.32,2024-07-26,270,Sold,155,False,True,0
+PROP00225,Bangalore,Marathahalli,Apartment,453,30000000,66225,2,2,29,South-West,Concierge; Gym; Playground,3,6,114712,4.59,Luxury,47.94,2026-03-16,21,Sold,165,True,False,60000
+PROP00226,Bangalore,Marathahalli,Apartment,814,30000000,36855,2,2,6,South-West,AC; Garden; Parking; Security,4,7,113314,4.53,Luxury,47.66,2024-10-01,54,Available,139,True,True,0
+PROP00227,Hyderabad,HITEC City,Villa,6373,12000000,1882,6,4,28,South-West,AC; Playground; Elevator; Garden; Concierge,5,5,36469,3.65,Premium,43.23,2025-09-10,282,Available,126,False,False,0
+PROP00228,Pune,Viman Nagar,Apartment,541,15000000,27726,3,1,16,West,Security; Gym; Elevator; Pool,4,8,38042,3.04,Premium,40.22,2024-06-07,285,Sold,160,True,True,30000
+PROP00229,Pune,Magarpatta,Villa,3133,15000000,4787,5,3,28,West,Garden; Elevator; Security; Library; Parking; Gym; AC,7,10,55589,4.45,Premium,47.24,2025-01-05,49,Available,177,False,True,0
+PROP00230,Mumbai,South Mumbai,Independent House,2925,50000000,17094,5,3,29,North,Garden; Gym; Library,3,6,128431,3.08,Luxury,40.41,2024-11-08,358,Available,158,True,True,100000
+PROP00231,Chennai,T Nagar,Studio,478,10000000,20920,0,1,13,North-West,Library; Parking; AC; Concierge; Gym,5,7,25821,3.1,Premium,40.49,2025-04-01,223,Available,158,True,True,0
+PROP00232,Hyderabad,Madhapur,Studio,452,12000000,26548,0,1,7,South,Security; Library; Playground,3,6,38271,3.83,Premium,44.14,2025-05-05,305,Available,118,True,False,24000
+PROP00233,Delhi,Rohini,Studio,569,40000000,70298,0,2,1,South,Garden; Playground; Parking; Library,4,10,103635,3.11,Luxury,40.55,2024-08-17,8,Rented,103,False,True,0
+PROP00234,Pune,Viman Nagar,Apartment,1759,15000000,8527,2,1,6,South-West,AC; Security; Concierge; Elevator; Playground; Pool; Gym,7,4,54088,4.33,Premium,46.64,2026-03-31,103,Available,102,False,True,0
+PROP00235,Chennai,Anna Nagar,Apartment,1991,10000000,5022,3,2,27,West,Gym; Security; Library,3,6,33475,4.02,Premium,45.08,2024-05-18,306,Available,154,True,True,20000
+PROP00236,Hyderabad,Banjara Hills,Penthouse,8836,12000000,1358,4,2,7,South-East,Security; Playground; Concierge; Garden; AC; Pool; Gym,7,8,37107,3.71,Premium,43.55,2025-07-09,32,Available,100,False,False,24000
+PROP00237,Hyderabad,HITEC City,Villa,3242,12000000,3701,5,3,21,West,Pool; Library; Garden; Concierge,4,6,38529,3.85,Premium,44.26,2025-06-29,278,Rented,144,True,True,24000
+PROP00238,Hyderabad,Kondapur,Villa,3131,12000000,3832,5,2,13,South,Elevator; Parking; Playground; Gym,4,10,46790,4.68,Premium,48.39,2025-12-16,212,Sold,111,False,False,0
+PROP00239,Chennai,T Nagar,Independent House,2122,10000000,4712,3,1,4,West,Gym; Security; Garden; AC,4,7,25434,3.05,Premium,40.26,2026-02-22,258,Sold,64,False,False,20000
+PROP00240,Pune,Viman Nagar,Studio,320,15000000,46875,0,1,7,South-West,Library; Gym; Security,3,4,54283,4.34,Premium,46.71,2025-10-19,225,Sold,75,False,False,0
+PROP00241,Bangalore,Jayanagar,Studio,271,28198675,104054,1,2,12,North,Elevator; AC; Gym; Security; Concierge; Garden; Library,7,9,82045,3.49,Luxury,42.46,2024-11-10,286,Available,40,False,True,56397
+PROP00242,Delhi,Dwarka,Studio,405,40000000,98765,1,2,5,South,Security; Gym; Parking; Garden; Playground; Library,6,9,107544,3.23,Luxury,41.13,2024-09-22,70,Rented,169,False,False,0
+PROP00243,Pune,Baner,Villa,5716,15000000,2624,4,3,2,North-West,Playground; Parking; Pool; Gym; Library,5,10,39632,3.17,Premium,40.85,2024-05-20,314,Available,160,True,False,0
+PROP00244,Mumbai,Bandra,Independent House,3816,50000000,13102,3,1,27,North-East,Parking; Gym; Library; Elevator,4,4,205080,4.92,Luxury,49.61,2025-07-23,104,Sold,63,True,False,100000
+PROP00245,Pune,Viman Nagar,Studio,528,15000000,28409,0,2,7,North-West,Elevator; Concierge; AC; Garden,4,6,52502,4.2,Premium,46.0,2025-09-06,107,Rented,172,True,True,30000
+PROP00246,Mumbai,Navi Mumbai,Independent House,1650,50000000,30303,3,1,21,East,Elevator; Security; Playground; Gym; Library; Concierge; Garden,7,8,148698,3.57,Luxury,42.84,2024-07-07,288,Sold,176,True,False,0
+PROP00247,Mumbai,South Mumbai,Independent House,2822,50000000,17717,4,3,26,North-East,Library; AC; Pool,3,7,135168,3.24,Luxury,41.22,2025-08-06,108,Available,164,True,True,100000
+PROP00248,Hyderabad,Gachibowli,Penthouse,3718,12000000,3227,5,3,13,North-West,Playground; Security; Elevator; Pool; AC; Concierge; Garden,7,6,33598,3.36,Premium,41.8,2024-08-28,1,Available,79,True,True,0
+PROP00249,Chennai,Anna Nagar,Villa,7040,10000000,1420,6,4,1,West,Playground; AC; Garden; Gym; Elevator,5,8,29240,3.51,Premium,42.54,2026-03-06,166,Available,170,True,True,0
+PROP00250,Delhi,Dwarka,Penthouse,8046,40000000,4971,4,2,6,East,Playground; Concierge; AC; Library; Gym,5,7,141813,4.25,Luxury,46.27,2024-11-11,29,Rented,135,False,False,80000
+PROP00251,Bangalore,Marathahalli,Independent House,4774,30000000,6284,4,2,4,East,Gym; Playground; Library; AC; Security,5,10,94478,3.78,Luxury,43.9,2024-09-12,362,Available,108,False,True,0
+PROP00252,Pune,Baner,Studio,371,15000000,40431,1,2,26,South-East,Garden; AC; Security; Pool; Gym,5,4,56944,4.56,Premium,47.78,2026-02-09,257,Available,153,True,True,0
+PROP00253,Pune,Kondhwa,Penthouse,5542,15000000,2706,5,2,24,North,AC; Parking; Garden,3,6,55341,4.43,Premium,47.14,2024-11-26,352,Available,41,True,False,0
+PROP00254,Mumbai,South Mumbai,Penthouse,9276,50000000,5390,6,4,0,South-East,Security; Garden; Playground; Pool; Library; Parking; Elevator,7,6,180927,4.34,Luxury,46.71,2025-08-08,8,Available,59,True,True,0
+PROP00255,Hyderabad,HITEC City,Independent House,2079,12000000,5772,4,2,5,North,Security; Playground; Concierge,3,7,39414,3.94,Premium,44.71,2024-06-22,45,Available,43,False,False,24000
+PROP00256,Chennai,Kilpauk,Penthouse,8156,10000000,1226,6,4,19,South,Security; Playground; Garden; AC; Library,5,4,37595,4.51,Premium,47.56,2025-01-23,50,Available,149,False,False,0
+PROP00257,Pune,Hinjewadi,Villa,3177,15000000,4721,5,3,12,North,Playground; Elevator; Concierge; Garden,4,5,40322,3.23,Premium,41.13,2025-01-09,179,Available,102,True,True,0
+PROP00258,Chennai,Anna Nagar,Independent House,3777,10000000,2647,2,2,17,East,Library; Elevator; Garden; Security; Pool; AC,6,9,31396,3.77,Premium,43.84,2025-05-31,223,Available,140,False,True,20000
+PROP00259,Chennai,T Nagar,Apartment,2751,10000000,3635,4,2,18,South-West,Concierge; Playground; Pool; Library; Garden; Elevator; Parking,7,7,26812,3.22,Premium,41.09,2024-09-11,254,Sold,113,True,True,20000
+PROP00260,Bangalore,Marathahalli,Apartment,1000,30000000,30000,2,2,17,South-East,Library; Concierge; Garden; Pool; Playground,5,7,114717,4.59,Luxury,47.94,2024-06-18,46,Available,118,True,False,60000
+PROP00261,Delhi,South Delhi,Independent House,3748,40000000,10672,2,1,22,South-West,Playground; Pool; Security; Library; Gym; AC; Garden,7,8,147451,4.42,Luxury,47.12,2025-03-25,340,Available,84,True,False,80000
+PROP00262,Bangalore,Marathahalli,Studio,434,30000000,69124,1,1,9,North-West,Parking; Elevator; Gym; Concierge; Playground; Library; Pool; AC,8,9,123748,4.95,Luxury,49.75,2025-12-26,234,Available,136,False,True,0
+PROP00263,Hyderabad,Banjara Hills,Penthouse,9718,12000000,1234,5,3,11,North-West,Parking; Library; Gym; Security,4,8,34734,3.47,Premium,42.37,2024-12-17,188,Available,177,True,True,0
+PROP00264,Chennai,Besant Nagar,Apartment,2776,10000000,3602,4,2,4,North-West,AC; Security; Concierge; Elevator; Gym; Library; Playground; Garden,8,9,36062,4.33,Premium,46.64,2024-06-29,297,Available,168,False,True,0
+PROP00265,Hyderabad,Jubilee Hills,Studio,482,12000000,24896,1,2,13,North-East,Security; Elevator; Parking; Gym; Playground,5,8,41274,4.13,Premium,45.64,2026-03-13,294,Sold,73,True,False,24000
+PROP00266,Delhi,Dwarka,Apartment,919,40000000,43525,1,2,8,North-East,Elevator; Security; AC; Library,4,9,107436,3.22,Luxury,41.12,2025-11-17,338,Rented,68,False,False,80000
+PROP00267,Delhi,Pitampura,Villa,5972,40000000,6697,4,2,10,South-West,Parking; Elevator; Concierge,3,5,115863,3.48,Luxury,42.38,2025-02-18,296,Sold,83,False,True,0
+PROP00268,Mumbai,South Mumbai,Villa,5801,50000000,8619,6,4,9,North-West,AC; Garden; Library; Playground; Concierge; Elevator,6,10,169203,4.06,Luxury,45.3,2025-02-23,196,Available,144,False,True,100000
+PROP00269,Hyderabad,Gachibowli,Independent House,4958,12000000,2420,5,3,10,South-West,Security; Pool; Elevator; Playground; Concierge,5,8,43505,4.35,Premium,46.75,2025-09-09,267,Sold,79,False,True,0
+PROP00270,Hyderabad,Jubilee Hills,Apartment,678,12000000,17699,1,2,3,West,Pool; Concierge; Playground; Elevator; AC; Parking; Security,7,9,42387,4.24,Premium,46.19,2026-03-17,307,Rented,85,True,True,24000
+PROP00271,Hyderabad,Madhapur,Studio,586,12000000,20477,0,1,22,South,Security; Elevator; Concierge; Playground,4,9,48453,4.85,Premium,49.23,2025-08-04,132,Sold,112,True,True,0
+PROP00272,Mumbai,Dadar,Studio,420,50000000,119047,0,2,30,South-West,Parking; Concierge; Pool; Garden; AC,5,7,166004,3.98,Luxury,44.92,2025-12-18,315,Available,85,True,False,0
+PROP00273,Mumbai,South Mumbai,Apartment,688,50000000,72674,3,2,0,East,Parking; Gym; AC; Playground; Garden; Elevator,6,9,200384,4.81,Luxury,49.05,2024-10-03,245,Available,155,False,False,100000
+PROP00274,Hyderabad,Madhapur,Apartment,1974,12000000,6079,4,2,18,South-East,Playground; Elevator; Security; Garden; Gym; AC; Parking,7,5,39192,3.92,Premium,44.6,2025-07-22,21,Sold,171,False,True,0
+PROP00275,Chennai,Thiruvanmiyur,Apartment,2983,10000000,3352,3,2,2,South-West,Concierge; Garden; Parking; Gym; Pool; Library; Playground; AC,8,10,34009,4.08,Premium,45.41,2025-07-03,9,Available,145,True,False,20000
+PROP00276,Delhi,Pitampura,Apartment,2060,40000000,19417,1,1,25,East,AC; Concierge; Parking; Playground; Security; Pool; Gym; Garden,8,9,101270,3.04,Luxury,40.19,2024-08-19,8,Available,63,True,True,0
+PROP00277,Mumbai,Dadar,Penthouse,4398,50000000,11368,6,3,26,South,Pool; Concierge; Garden,3,4,160517,3.85,Luxury,44.26,2024-06-19,280,Available,177,True,False,100000
+PROP00278,Mumbai,Borivali,Villa,4748,50000000,10530,3,1,8,East,Library; Parking; Playground; Security,4,10,202139,4.85,Luxury,49.26,2026-04-03,81,Available,126,True,False,100000
+PROP00279,Mumbai,South Mumbai,Villa,2730,50000000,18315,5,3,22,North-West,Parking; Garden; Elevator; Playground; Concierge; Security,6,8,203174,4.88,Luxury,49.38,2024-08-27,256,Sold,76,True,False,0
+PROP00280,Pune,Baner,Penthouse,4930,15000000,3042,4,2,16,North-West,Elevator; Playground; Garden,3,4,53983,4.32,Premium,46.59,2025-08-04,351,Available,68,False,False,30000
+PROP00281,Bangalore,HSR Layout,Apartment,621,30000000,48309,3,2,6,East,Security; Playground; Concierge; Gym; Library; AC,6,5,76453,3.06,Luxury,40.29,2024-12-03,304,Available,143,False,False,60000
+PROP00282,Chennai,T Nagar,Independent House,2442,10000000,4095,2,2,7,South-West,Garden; Library; Elevator,3,7,26225,3.15,Premium,40.73,2024-09-22,111,Available,67,False,True,0
+PROP00283,Delhi,Gurgaon,Studio,349,40000000,114613,1,2,6,South,Parking; Gym; AC; Elevator; Pool,5,5,130571,3.92,Luxury,44.59,2025-11-20,310,Sold,105,True,True,80000
+PROP00284,Mumbai,Dadar,Penthouse,7007,50000000,7135,4,3,26,South-East,Security; Gym; Library; Playground; Pool; Concierge,6,8,143533,3.44,Luxury,42.22,2024-09-16,214,Rented,31,True,True,0
+PROP00285,Chennai,Kilpauk,Apartment,2143,10000000,4666,4,3,25,South-West,Pool; Concierge; AC; Elevator; Gym; Security; Playground; Parking,8,4,27211,3.27,Premium,41.33,2025-07-16,246,Available,34,False,True,0
+PROP00286,Hyderabad,Gachibowli,Penthouse,3199,12000000,3751,5,3,24,North-West,Library; Parking; Playground; Concierge,4,9,30027,3.0,Premium,40.01,2024-08-10,272,Available,115,True,False,0
+PROP00287,Delhi,Pitampura,Penthouse,7443,40000000,5374,6,3,25,South-West,Pool; Playground; Gym; Security; AC; Parking; Concierge; Garden,8,9,141275,4.24,Luxury,46.19,2025-05-05,361,Available,173,True,True,80000
+PROP00288,Delhi,Gurgaon,Penthouse,3930,40000000,10178,6,4,23,North-East,Garden; Elevator; Playground; Parking; Library; Security; AC,7,8,124854,3.75,Luxury,43.73,2025-02-05,241,Available,61,False,False,0
+PROP00289,Chennai,T Nagar,Apartment,1171,10000000,8539,4,2,2,South,Parking; Security; Pool; Gym; Concierge; Elevator,6,9,33272,3.99,Premium,44.96,2025-10-17,151,Available,35,False,True,0
+PROP00290,Delhi,Dwarka,Studio,580,40000000,68965,0,2,6,South-West,Gym; Garden; Playground,3,9,143717,4.31,Luxury,46.56,2025-06-14,281,Available,165,False,False,0
+PROP00291,Hyderabad,Madhapur,Independent House,2203,12000000,5447,4,2,15,North-West,Security; Gym; Parking; Concierge; Library,5,6,42372,4.24,Premium,46.19,2025-12-01,90,Sold,76,True,True,24000
+PROP00292,Mumbai,South Mumbai,Independent House,3853,50000000,12976,3,2,8,South-East,Parking; Garden; Gym; Playground; Elevator,5,4,162369,3.9,Luxury,44.48,2025-11-29,208,Available,36,False,True,0
+PROP00293,Delhi,Gurgaon,Apartment,2637,40000000,15168,3,2,15,South,Elevator; Parking; Concierge; AC; Playground,5,4,160011,4.8,Luxury,49.0,2025-12-23,13,Sold,108,False,True,0
+PROP00294,Delhi,South Delhi,Independent House,1725,40000000,23188,3,1,25,South,Garden; Gym; Pool; Security; Elevator,5,8,126294,3.79,Luxury,43.94,2024-12-28,29,Available,160,False,False,80000
+PROP00295,Chennai,Thiruvanmiyur,Independent House,3081,10000000,3245,4,2,9,South,Playground; Security; Concierge; Library; AC,5,6,39796,4.78,Premium,48.88,2025-03-15,218,Sold,71,False,True,20000
+PROP00296,Bangalore,Koramangala,Independent House,3444,30000000,8710,4,2,29,East,Library; Pool; Gym; Garden; Playground; Parking; Elevator,7,10,110512,4.42,Luxury,47.1,2025-12-25,149,Available,127,False,True,0
+PROP00297,Hyderabad,HITEC City,Studio,536,12000000,22388,1,1,0,North-West,Parking; Security; AC,3,7,43318,4.33,Premium,46.66,2025-07-24,15,Available,92,True,False,0
+PROP00298,Mumbai,Borivali,Independent House,3880,50000000,12886,5,3,27,North,Concierge; Pool; Playground; Security; Elevator,5,7,138570,3.33,Luxury,41.63,2026-03-16,183,Available,64,True,True,0
+PROP00299,Delhi,Dwarka,Independent House,1699,40000000,23543,4,3,16,East,Pool; AC; Garden; Library; Playground; Elevator; Gym; Parking,8,6,158162,4.74,Luxury,48.72,2024-06-12,50,Sold,122,False,True,80000
+PROP00300,Bangalore,Marathahalli,Independent House,3027,30000000,9910,5,3,10,West,Pool; Garden; Parking; Security,4,10,114755,4.59,Luxury,47.95,2024-10-19,273,Sold,164,True,False,0
+PROP00301,Mumbai,South Mumbai,Villa,2142,50000000,23342,6,4,9,North-East,Playground; Parking; Concierge; Security; Library; AC; Pool; Elevator,8,9,192881,4.63,Luxury,48.15,2025-09-29,353,Available,66,True,False,100000
+PROP00302,Bangalore,Koramangala,Apartment,2140,30000000,14018,1,1,0,North,Library; Gym; Garden; AC; Elevator; Security,6,9,120426,4.82,Luxury,49.09,2026-03-31,50,Available,32,True,True,60000
+PROP00303,Bangalore,HSR Layout,Independent House,1619,30000000,18529,2,1,27,South,Security; Playground; AC; Pool; Elevator; Concierge; Library; Parking,8,9,103906,4.16,Luxury,45.78,2026-04-30,145,Available,79,True,True,60000
+PROP00304,Bangalore,Marathahalli,Studio,437,29861449,68332,0,2,21,South-West,Parking; Playground; Library,3,6,85978,3.46,Luxury,42.28,2026-01-19,239,Sold,61,True,True,0
+PROP00305,Delhi,Pitampura,Independent House,3782,40000000,10576,2,1,10,North-West,Pool; Library; Security; Garden; Concierge; Parking,6,4,127152,3.81,Luxury,44.07,2025-03-02,348,Available,151,False,True,80000
+PROP00306,Chennai,Thiruvanmiyur,Apartment,2023,10000000,4943,4,2,3,East,Library; Elevator; Pool; Playground,4,10,41253,4.95,Premium,49.75,2025-06-02,63,Available,133,True,False,0
+PROP00307,Delhi,Pitampura,Penthouse,7863,40000000,5087,5,3,11,North-West,Elevator; Library; Concierge; Security; Parking; Pool,6,5,116712,3.5,Luxury,42.51,2024-12-21,51,Available,37,True,True,0
+PROP00308,Chennai,Anna Nagar,Villa,5134,10000000,1947,5,2,9,West,Elevator; Pool; AC; Playground; Security; Garden; Library,7,6,33298,4.0,Premium,44.98,2024-12-14,280,Available,168,True,True,0
+PROP00309,Mumbai,Dadar,Studio,411,50000000,121654,1,2,14,East,Gym; Parking; Security,3,4,136207,3.27,Luxury,41.34,2025-04-11,346,Available,175,False,False,0
+PROP00310,Hyderabad,Madhapur,Penthouse,3456,12000000,3472,5,3,15,East,Library; Playground; Security; Parking; Gym; AC; Concierge,7,9,36977,3.7,Premium,43.49,2024-09-24,195,Available,117,True,False,0
+PROP00311,Delhi,Dwarka,Independent House,1731,40000000,23108,3,1,7,North,Security; Pool; AC; Library; Parking; Gym; Playground; Elevator,8,8,102491,3.07,Luxury,40.37,2024-07-10,216,Rented,161,False,True,0
+PROP00312,Hyderabad,Jubilee Hills,Independent House,3047,12000000,3938,5,3,18,South-East,Concierge; Pool; Garden,3,8,46229,4.62,Premium,48.11,2024-06-30,187,Available,106,False,True,0
+PROP00313,Chennai,Anna Nagar,Penthouse,4753,10000000,2103,5,3,1,South,Elevator; Library; Garden; Security; Playground,5,4,34636,4.16,Premium,45.78,2024-09-15,272,Available,175,False,False,20000
+PROP00314,Delhi,South Delhi,Independent House,3567,40000000,11213,4,3,21,East,Playground; Garden; Library; AC; Parking; Security; Concierge,7,8,141856,4.26,Luxury,46.28,2024-12-02,110,Rented,157,False,False,0
+PROP00315,Hyderabad,Gachibowli,Apartment,2539,12000000,4726,2,2,14,South-West,Garden; Parking; Security; Library,4,10,47203,4.72,Premium,48.6,2026-03-10,137,Sold,135,False,True,0
+PROP00316,Chennai,Kilpauk,Villa,5324,10000000,1878,4,2,4,North-West,Gym; Garden; Security; AC,4,5,32268,3.87,Premium,44.36,2024-07-21,140,Rented,70,True,True,0
+PROP00317,Delhi,Pitampura,Penthouse,4441,40000000,9006,6,3,30,South-West,Concierge; Gym; AC; Library; Elevator; Parking; Security; Playground,8,10,144778,4.34,Luxury,46.72,2026-02-11,121,Available,65,True,True,0
+PROP00318,Pune,Baner,Villa,6913,15000000,2169,3,2,10,West,Library; Garden; Elevator; Pool; Concierge; Gym; Playground,7,4,48486,3.88,Premium,44.39,2025-08-27,274,Rented,155,False,True,0
+PROP00319,Hyderabad,Banjara Hills,Studio,599,12000000,20033,0,2,28,North-East,Playground; Concierge; Elevator; Library,4,9,49336,4.93,Premium,49.67,2024-09-01,354,Available,43,True,False,0
+PROP00320,Delhi,Pitampura,Independent House,4826,40000000,8288,2,1,27,West,Library; Gym; Elevator; Parking; Concierge; AC,6,9,157294,4.72,Luxury,48.59,2025-12-01,330,Rented,111,False,True,0
+PROP00321,Mumbai,Dadar,Studio,461,50000000,108459,1,2,28,South-East,Parking; Security; Pool,3,7,185769,4.46,Luxury,47.29,2024-10-31,27,Sold,37,True,False,100000
+PROP00322,Mumbai,Dadar,Villa,7147,50000000,6995,5,3,18,East,Pool; Parking; Garden,3,10,182146,4.37,Luxury,46.86,2025-06-21,134,Available,64,True,False,0
+PROP00323,Bangalore,Whitefield,Studio,438,30000000,68493,0,2,28,West,Elevator; Garden; Gym; Concierge; Security; Playground,6,10,123706,4.95,Luxury,49.74,2025-10-23,26,Available,73,False,False,0
+PROP00324,Bangalore,Whitefield,Independent House,2196,30000000,13661,2,1,22,North-East,Library; Concierge; AC; Gym; Pool; Playground; Security,7,5,99708,3.99,Luxury,44.94,2026-01-01,145,Available,85,True,False,60000
+PROP00325,Pune,Hinjewadi,Apartment,1588,15000000,9445,3,1,19,East,Garden; Playground; Concierge; Gym; Library; Elevator,6,9,61859,4.95,Premium,49.74,2025-04-02,363,Sold,128,False,False,30000
+PROP00326,Mumbai,Borivali,Apartment,613,50000000,81566,3,1,15,South-West,Elevator; Gym; AC; Parking; Security,5,8,157891,3.79,Luxury,43.95,2025-04-30,298,Available,40,True,False,100000
+PROP00327,Hyderabad,Banjara Hills,Independent House,3417,12000000,3511,3,1,10,North-West,AC; Library; Parking; Concierge; Gym; Elevator; Playground; Garden,8,6,46696,4.67,Premium,48.35,2025-05-10,314,Rented,97,False,False,0
+PROP00328,Bangalore,Indiranagar,Studio,327,25905850,79222,1,1,6,North-West,Gym; Garden; Parking; Elevator,4,7,95245,4.41,Luxury,47.06,2025-02-22,227,Available,40,False,False,0
+PROP00329,Pune,Baner,Villa,3012,15000000,4980,5,2,6,West,Parking; Elevator; Security; Concierge; Playground,5,5,61790,4.94,Premium,49.72,2024-11-22,40,Sold,136,True,False,30000
+PROP00330,Delhi,South Delhi,Independent House,4290,40000000,9324,2,2,11,North-West,Pool; Playground; Parking; Gym; Library; Garden; Security,7,4,117954,3.54,Luxury,42.69,2024-07-10,167,Available,145,True,True,80000
+PROP00331,Chennai,Besant Nagar,Independent House,4769,10000000,2096,2,1,17,South,Library; Pool; Elevator; Parking; AC; Playground; Garden,7,6,28470,3.42,Premium,42.08,2025-04-12,62,Sold,69,False,False,0
+PROP00332,Chennai,Besant Nagar,Penthouse,4075,10000000,2453,5,2,26,North-West,AC; Garden; Concierge; Elevator; Library,5,10,35005,4.2,Premium,46.0,2026-02-11,315,Sold,124,True,False,0
+PROP00333,Mumbai,South Mumbai,Penthouse,5799,50000000,8622,5,2,20,North-East,Parking; Concierge; Pool; Elevator; Garden; Playground; Gym; AC,8,8,135649,3.26,Luxury,41.28,2025-07-11,152,Sold,139,True,True,100000
+PROP00334,Hyderabad,Jubilee Hills,Penthouse,6480,12000000,1851,5,2,14,North-West,Elevator; Security; Playground; Parking; AC; Gym; Concierge; Garden,8,7,33644,3.36,Premium,41.82,2025-04-07,161,Available,106,False,False,0
+PROP00335,Delhi,Gurgaon,Villa,3516,40000000,11376,3,2,27,North-West,Pool; Library; Gym; Concierge; Garden; AC; Security; Playground,8,8,127006,3.81,Luxury,44.05,2024-07-10,156,Rented,154,False,False,0
+PROP00336,Mumbai,Bandra,Villa,2113,50000000,23663,4,2,26,North-West,Garden; Gym; Elevator,3,10,179144,4.3,Luxury,46.5,2025-02-22,98,Sold,167,True,False,0
+PROP00337,Bangalore,Jayanagar,Studio,261,20085307,76955,0,1,28,North-West,Concierge; Elevator; AC; Gym,4,7,56953,3.4,Luxury,42.01,2024-10-08,171,Sold,43,True,True,0
+PROP00338,Pune,Viman Nagar,Penthouse,7881,15000000,1903,6,4,1,North,Library; Concierge; AC; Pool; Playground; Gym,6,9,45396,3.63,Premium,43.16,2026-03-10,243,Available,136,True,False,0
+PROP00339,Pune,Kondhwa,Studio,260,15000000,57692,0,2,23,West,Concierge; Playground; Elevator; Pool,4,9,54624,4.37,Premium,46.85,2024-09-05,68,Rented,149,False,False,0
+PROP00340,Chennai,T Nagar,Independent House,4760,10000000,2100,5,2,19,East,Security; Pool; Concierge; AC,4,7,35095,4.21,Premium,46.06,2026-01-31,121,Sold,107,True,True,20000
+PROP00341,Delhi,Noida,Independent House,4272,40000000,9363,3,1,26,South,Gym; Pool; Playground; Garden; Elevator; Security; AC,7,10,132424,3.97,Luxury,44.86,2025-05-31,286,Sold,41,False,True,80000
+PROP00342,Chennai,Anna Nagar,Studio,484,10000000,20661,0,1,25,West,Elevator; Pool; Gym; Security; Concierge; AC; Playground,7,10,27617,3.31,Premium,41.57,2025-07-19,256,Sold,159,True,True,0
+PROP00343,Delhi,Gurgaon,Apartment,1226,40000000,32626,4,3,24,North-East,Garden; Concierge; Playground,3,7,105682,3.17,Luxury,40.85,2025-04-28,323,Sold,122,True,True,0
+PROP00344,Bangalore,Koramangala,Studio,461,30000000,65075,1,2,30,South,Playground; Gym; Concierge; Pool; AC; Security; Elevator,7,7,95082,3.8,Luxury,44.02,2025-11-27,339,Available,39,True,True,0
+PROP00345,Pune,Viman Nagar,Penthouse,5493,15000000,2730,6,4,29,North-West,Gym; Security; Parking; Playground; Garden,5,9,59689,4.78,Premium,48.88,2024-08-13,358,Sold,143,False,False,30000
+PROP00346,Delhi,South Delhi,Apartment,2601,40000000,15378,3,2,23,South-East,Parking; AC; Security; Pool; Gym; Concierge; Elevator; Garden,8,8,110668,3.32,Luxury,41.6,2026-04-16,124,Rented,96,False,False,80000
+PROP00347,Chennai,Anna Nagar,Independent House,2563,10000000,3901,4,2,1,West,Pool; Concierge; Security; AC; Playground; Gym; Garden; Elevator,8,9,41483,4.98,Premium,49.89,2024-10-12,305,Sold,166,True,False,0
+PROP00348,Delhi,Pitampura,Penthouse,8508,40000000,4701,4,3,16,South,Garden; Pool; Playground; Security; Library; AC; Parking; Concierge,8,4,128379,3.85,Luxury,44.26,2025-03-19,67,Available,138,False,True,0
+PROP00349,Mumbai,Andheri,Penthouse,6299,50000000,7937,6,4,27,North-West,Elevator; Concierge; Library; Garden; Playground,5,5,159743,3.83,Luxury,44.17,2025-11-29,365,Available,154,False,True,100000
+PROP00350,Chennai,Velachery,Studio,492,10000000,20325,0,1,30,North,Playground; Pool; Library; Gym; Concierge; Parking; Security,7,6,26962,3.24,Premium,41.18,2025-07-06,249,Rented,105,True,True,20000
+PROP00351,Hyderabad,Banjara Hills,Apartment,1649,12000000,7277,3,1,5,North-West,Concierge; Gym; Pool; Security; Parking; AC; Library; Elevator,8,7,41315,4.13,Premium,45.66,2025-06-03,71,Sold,63,False,False,0
+PROP00352,Bangalore,HSR Layout,Independent House,1865,30000000,16085,5,3,7,South,Playground; AC; Gym; Elevator; Garden; Parking,6,10,110360,4.41,Luxury,47.07,2024-10-06,288,Sold,109,True,True,60000
+PROP00353,Hyderabad,Kondapur,Penthouse,9206,12000000,1303,4,2,24,North,AC; Gym; Pool; Playground; Security; Concierge,6,8,34116,3.41,Premium,42.06,2024-05-22,44,Sold,143,False,False,24000
+PROP00354,Pune,Baner,Independent House,3290,15000000,4559,3,2,0,North-East,Playground; Library; Security; Gym; AC; Elevator; Pool,7,7,43888,3.51,Premium,42.56,2026-02-12,31,Available,73,False,True,30000
+PROP00355,Chennai,Anna Nagar,Independent House,3097,10000000,3228,2,2,4,West,Playground; Security; Library; Concierge; Gym; Elevator,6,10,34950,4.19,Premium,45.97,2025-09-14,198,Available,159,True,False,20000
+PROP00356,Delhi,Dwarka,Penthouse,6334,40000000,6315,4,3,0,West,Garden; Gym; Security; Concierge; Library; AC,6,7,143436,4.3,Luxury,46.52,2026-01-06,43,Available,144,True,True,0
+PROP00357,Hyderabad,Madhapur,Villa,6403,12000000,1874,6,4,1,North,Concierge; Security; Parking,3,10,48436,4.84,Premium,49.22,2025-08-08,180,Available,127,True,False,24000
+PROP00358,Bangalore,HSR Layout,Penthouse,7612,30000000,3941,4,3,2,South-East,Pool; Parking; Security; Garden; Elevator; Concierge,6,10,122270,4.89,Luxury,49.45,2024-08-02,140,Available,145,True,False,0
+PROP00359,Bangalore,Jayanagar,Penthouse,5690,30000000,5272,4,2,20,North,Elevator; Concierge; Gym,3,10,95658,3.83,Luxury,44.13,2024-05-31,276,Sold,130,True,True,60000
+PROP00360,Chennai,Thiruvanmiyur,Apartment,1845,10000000,5420,4,3,12,West,Gym; Pool; Concierge; Parking,4,9,28692,3.44,Premium,42.22,2026-04-24,99,Sold,121,True,False,20000
+PROP00361,Bangalore,Jayanagar,Independent House,1650,30000000,18181,4,3,28,North-West,Elevator; Garden; Gym; Pool; Playground; AC; Concierge; Library,8,8,84688,3.39,Luxury,41.94,2024-10-12,90,Sold,174,True,True,60000
+PROP00362,Bangalore,Indiranagar,Penthouse,4867,30000000,6163,6,4,6,North,Gym; AC; Security; Playground; Concierge; Garden; Elevator; Pool,8,9,91149,3.65,Luxury,43.23,2025-03-24,239,Available,162,False,False,60000
+PROP00363,Chennai,Velachery,Apartment,1538,10000000,6501,4,3,10,South,Library; Garden; Playground,3,7,38461,4.62,Premium,48.08,2025-09-25,128,Rented,49,True,True,0
+PROP00364,Delhi,South Delhi,Apartment,514,40000000,77821,4,3,25,West,Elevator; Playground; Security,3,10,115890,3.48,Luxury,42.38,2025-05-31,267,Sold,115,True,True,0
+PROP00365,Mumbai,Navi Mumbai,Studio,546,50000000,91575,0,1,1,East,Library; Playground; Pool,3,9,191865,4.6,Luxury,48.02,2026-03-19,34,Available,140,True,True,100000
+PROP00366,Delhi,Dwarka,Studio,299,33705310,112726,1,1,27,South-East,Elevator; Gym; Concierge; Garden; Library; Playground; AC,7,6,122225,4.35,Luxury,46.76,2026-04-18,99,Available,180,True,True,67410
+PROP00367,Hyderabad,Gachibowli,Apartment,2828,12000000,4243,2,1,20,East,Security; Playground; Library; Garden; AC; Elevator; Concierge,7,8,45940,4.59,Premium,47.97,2026-03-14,263,Available,141,False,False,24000
+PROP00368,Bangalore,Jayanagar,Independent House,3971,30000000,7554,4,3,11,West,AC; Parking; Gym,3,5,116758,4.67,Luxury,48.35,2026-03-20,328,Available,81,True,True,0
+PROP00369,Bangalore,HSR Layout,Studio,489,30000000,61349,1,2,19,North,Library; Playground; Parking; Gym; Garden,5,5,120997,4.84,Luxury,49.2,2024-07-29,320,Available,149,True,True,0
+PROP00370,Chennai,Besant Nagar,Studio,355,10000000,28169,1,1,26,South-East,Playground; Gym; Pool,3,9,26919,3.23,Premium,41.15,2025-07-21,185,Available,179,True,True,20000
+PROP00371,Bangalore,Indiranagar,Villa,3793,30000000,7909,5,2,10,North,Garden; Parking; Elevator; Gym; Pool; AC; Library,7,4,81862,3.27,Luxury,41.37,2024-07-13,108,Sold,116,False,False,60000
+PROP00372,Delhi,Noida,Villa,6316,40000000,6333,6,3,3,South-West,Parking; Garden; AC; Security,4,5,121196,3.64,Luxury,43.18,2025-03-01,316,Rented,41,True,False,80000
+PROP00373,Delhi,Gurgaon,Apartment,2978,40000000,13431,3,1,27,East,Elevator; Concierge; Garden; Playground; Gym; AC; Library,7,6,150087,4.5,Luxury,47.51,2024-07-23,266,Sold,157,False,True,0
+PROP00374,Chennai,Besant Nagar,Penthouse,8689,10000000,1150,5,3,15,West,Elevator; Library; Gym; Pool; AC,5,7,28906,3.47,Premium,42.34,2025-10-03,81,Available,176,False,False,20000
+PROP00375,Bangalore,Whitefield,Independent House,3320,30000000,9036,4,2,18,South-West,Concierge; AC; Playground,3,6,96625,3.86,Luxury,44.32,2025-05-03,196,Sold,99,True,True,0
+PROP00376,Bangalore,Indiranagar,Apartment,1870,30000000,16042,1,2,26,South,AC; Elevator; Pool; Library; Parking; Concierge; Gym,7,9,76914,3.08,Luxury,40.38,2025-10-21,129,Available,114,False,False,60000
+PROP00377,Chennai,Kilpauk,Villa,7866,10000000,1271,5,2,24,North,Security; Playground; Library; Garden; Elevator,5,5,33544,4.03,Premium,45.13,2025-12-13,108,Rented,88,False,True,0
+PROP00378,Chennai,Thiruvanmiyur,Independent House,4743,10000000,2108,2,2,27,North-West,Library; Elevator; Garden; Concierge,4,5,25501,3.06,Premium,40.3,2025-12-23,5,Available,108,False,False,0
+PROP00379,Bangalore,Jayanagar,Studio,456,30000000,65789,1,2,18,East,Elevator; Gym; Parking,3,8,124712,4.99,Luxury,49.94,2024-10-10,201,Sold,176,False,True,0
+PROP00380,Mumbai,Borivali,Studio,346,50000000,144508,1,1,10,North,Concierge; Security; Pool; Elevator; Gym; AC; Library,7,4,175280,4.21,Luxury,46.03,2026-04-17,146,Available,128,True,True,0
+PROP00381,Chennai,Kilpauk,Apartment,2262,10000000,4420,1,2,16,South-West,Parking; Playground; Library,3,9,26845,3.22,Premium,41.11,2024-11-11,200,Available,47,True,True,20000
+PROP00382,Delhi,Dwarka,Studio,331,37455633,113159,1,1,16,West,Concierge; Security; Garden; Gym; Pool; Elevator; Library; Playground,8,8,150465,4.82,Luxury,49.1,2024-12-28,47,Available,40,False,False,0
+PROP00383,Chennai,T Nagar,Independent House,3101,10000000,3224,3,2,7,East,Elevator; Library; Concierge; Garden,4,5,26592,3.19,Premium,40.96,2024-05-29,141,Rented,70,False,True,20000
+PROP00384,Pune,Viman Nagar,Penthouse,3993,15000000,3756,5,2,24,North-West,AC; Playground; Library,3,4,42684,3.41,Premium,42.07,2026-03-30,196,Available,148,False,False,30000
+PROP00385,Pune,Baner,Apartment,1426,15000000,10518,1,1,10,North-West,Concierge; Elevator; AC; Gym; Library; Security; Pool; Parking,8,4,58010,4.64,Premium,48.2,2025-11-30,91,Available,55,False,True,0
+PROP00386,Bangalore,Whitefield,Apartment,1519,30000000,19749,2,2,11,North,Garden; Gym; Elevator; Concierge,4,9,115575,4.62,Luxury,48.12,2024-07-27,200,Sold,56,False,False,60000
+PROP00387,Hyderabad,Jubilee Hills,Apartment,1945,12000000,6169,2,1,11,North,Garden; Pool; Gym; Elevator,4,4,36742,3.67,Premium,43.37,2025-10-30,50,Sold,86,True,True,24000
+PROP00388,Pune,Camp,Apartment,1739,15000000,8625,3,1,19,West,AC; Library; Elevator; Gym,4,9,46414,3.71,Premium,43.57,2025-11-18,7,Available,110,False,True,0
+PROP00389,Bangalore,Whitefield,Independent House,4162,30000000,7208,4,2,2,East,Library; Security; Concierge; Gym,4,9,79737,3.19,Luxury,40.95,2025-06-16,348,Rented,129,True,False,60000
+PROP00390,Chennai,T Nagar,Independent House,4987,10000000,2005,5,2,10,West,Elevator; Concierge; Library,3,8,36743,4.41,Premium,47.05,2026-05-01,159,Available,61,True,False,20000
+PROP00391,Hyderabad,Jubilee Hills,Apartment,963,12000000,12461,3,2,9,North,Parking; Library; Garden; Playground,4,6,44506,4.45,Premium,47.25,2025-02-14,143,Sold,64,False,True,0
+PROP00392,Chennai,Besant Nagar,Apartment,1338,10000000,7473,3,2,7,West,AC; Gym; Garden; Library,4,9,31358,3.76,Premium,43.81,2025-06-19,34,Available,31,False,True,20000
+PROP00393,Mumbai,Navi Mumbai,Villa,3672,50000000,13616,4,2,5,North-East,AC; Garden; Elevator; Security; Gym; Concierge; Library,7,5,141461,3.4,Luxury,41.98,2025-03-06,147,Available,107,False,True,0
+PROP00394,Pune,Baner,Independent House,3131,15000000,4790,5,2,15,North,Library; AC; Elevator; Concierge; Pool; Garden,6,6,48184,3.85,Premium,44.27,2026-02-18,79,Sold,167,True,False,0
+PROP00395,Pune,Magarpatta,Studio,395,15000000,37974,1,2,2,North,Parking; Concierge; Garden; Pool; Library,5,7,50017,4.0,Premium,45.01,2025-04-26,192,Available,131,False,False,0
+PROP00396,Chennai,Kilpauk,Apartment,2074,10000000,4821,1,1,12,South-East,Parking; Garden; Library; Elevator; Playground; Concierge; AC,7,5,35848,4.3,Premium,46.51,2025-03-06,18,Sold,152,False,True,20000
+PROP00397,Delhi,Rohini,Studio,598,40000000,66889,0,2,7,South,Elevator; Parking; Gym; Concierge; Library; Garden; Security,7,7,112588,3.38,Luxury,41.89,2025-03-07,355,Available,94,False,False,0
+PROP00398,Chennai,Thiruvanmiyur,Apartment,847,10000000,11806,3,1,8,South,Garden; Library; Security; Gym; Pool; Elevator; AC; Concierge,8,9,31963,3.84,Premium,44.18,2025-03-14,88,Sold,140,True,False,20000
+PROP00399,Chennai,Velachery,Villa,5985,10000000,1670,4,2,14,North-East,Garden; Parking; Elevator; Gym; Playground; Pool; Security,7,8,39526,4.74,Premium,48.72,2025-02-17,326,Sold,57,True,True,0
+PROP00400,Mumbai,Dadar,Apartment,1533,50000000,32615,1,2,0,North-East,Garden; Concierge; AC; Playground; Gym; Library; Security,7,4,125602,3.01,Luxury,40.07,2024-09-25,109,Sold,54,True,False,0
+PROP00401,Pune,Viman Nagar,Independent House,3975,15000000,3773,5,3,11,North,Playground; Elevator; Garden; Parking; AC; Concierge; Security; Library,8,10,59326,4.75,Premium,48.73,2026-02-01,72,Available,132,True,True,0
+PROP00402,Chennai,Velachery,Independent House,3351,10000000,2984,5,3,21,South-East,Gym; Playground; Elevator; AC,4,5,41159,4.94,Premium,49.7,2025-06-15,205,Sold,154,True,False,0
+PROP00403,Pune,Kondhwa,Apartment,1976,15000000,7591,3,1,22,North-West,AC; Elevator; Gym; Pool,4,10,45033,3.6,Premium,43.01,2024-06-24,87,Rented,149,False,True,0
+PROP00404,Chennai,Kilpauk,Villa,3993,10000000,2504,4,2,24,North-East,Pool; Elevator; Library; Playground; Gym; AC; Parking; Security,8,9,29293,3.52,Premium,42.58,2025-01-12,341,Rented,61,True,False,20000
+PROP00405,Chennai,Besant Nagar,Villa,6718,10000000,1488,3,2,12,North-East,Library; AC; Elevator; Concierge; Pool; Playground; Parking; Gym,8,9,26485,3.18,Premium,40.89,2024-09-15,294,Rented,59,False,True,0
+PROP00406,Pune,Camp,Apartment,1673,15000000,8965,1,1,27,West,Library; Playground; AC; Elevator; Concierge; Pool,6,10,37729,3.02,Premium,40.09,2025-01-28,113,Available,105,False,False,30000
+PROP00407,Hyderabad,HITEC City,Villa,7450,12000000,1610,3,2,9,South-West,Pool; Security; Concierge; Playground; Elevator; Garden; Parking,7,5,46204,4.62,Premium,48.1,2025-12-09,359,Sold,87,True,True,0
+PROP00408,Chennai,Thiruvanmiyur,Independent House,4838,10000000,2066,3,1,17,South,Playground; Library; Concierge; Parking; Garden; Elevator,6,9,29717,3.57,Premium,42.83,2024-05-31,202,Rented,170,True,True,0
+PROP00409,Hyderabad,Jubilee Hills,Independent House,3374,12000000,3556,3,1,14,South,Concierge; Security; Parking; Pool; Library; Playground; Gym; AC,8,7,49769,4.98,Premium,49.88,2025-12-14,29,Available,73,True,False,0
+PROP00410,Bangalore,Whitefield,Apartment,2511,30000000,11947,3,2,4,East,Library; Garden; Gym; Concierge; Pool; AC; Security; Playground,8,9,93768,3.75,Luxury,43.75,2024-06-05,238,Rented,52,False,False,0
+PROP00411,Delhi,South Delhi,Apartment,877,40000000,45610,1,1,15,South,AC; Garden; Gym; Security; Library; Playground; Elevator; Pool,8,9,112073,3.36,Luxury,41.81,2025-01-04,153,Rented,141,True,True,0
+PROP00412,Mumbai,Navi Mumbai,Penthouse,4514,50000000,11076,5,2,12,West,AC; Elevator; Concierge; Gym; Security; Playground; Library,7,9,199800,4.8,Luxury,48.98,2025-11-10,3,Rented,76,False,False,100000
+PROP00413,Mumbai,Bandra,Penthouse,4689,50000000,10663,6,3,2,East,Security; Gym; Pool; AC; Elevator; Parking; Playground,7,4,203769,4.89,Luxury,49.45,2026-05-14,151,Available,162,False,True,0
+PROP00414,Chennai,Besant Nagar,Penthouse,5884,10000000,1699,6,3,22,West,Gym; Garden; Elevator,3,8,39268,4.71,Premium,48.56,2025-10-06,111,Rented,171,False,False,20000
+PROP00415,Chennai,Kilpauk,Studio,288,10000000,34722,1,2,12,West,Parking; Library; Concierge; Gym; Elevator; Garden; Pool; Playground,8,5,37211,4.47,Premium,47.33,2024-08-04,289,Sold,125,True,False,20000
+PROP00416,Delhi,Dwarka,Studio,263,25142695,95599,0,1,8,South,AC; Pool; Library,3,5,66585,3.18,Luxury,40.89,2025-06-07,141,Sold,87,True,True,0
+PROP00417,Bangalore,Jayanagar,Apartment,905,30000000,33149,2,2,18,North-East,Pool; AC; Playground; Concierge; Security; Parking,6,10,119828,4.79,Luxury,48.97,2025-11-21,93,Available,129,False,False,0
+PROP00418,Hyderabad,Madhapur,Independent House,1538,12000000,7802,3,1,4,West,Elevator; Security; Gym; Playground; Library; Parking,6,6,38364,3.84,Premium,44.18,2025-01-31,258,Available,149,False,False,0
+PROP00419,Hyderabad,Gachibowli,Villa,4500,12000000,2666,3,2,13,South,Pool; Elevator; AC; Playground; Concierge,5,7,31148,3.11,Premium,40.57,2025-07-26,218,Available,32,True,False,0
+PROP00420,Hyderabad,Gachibowli,Penthouse,8717,12000000,1376,4,3,0,North,Garden; Gym; Library; Playground; Security; Parking; Pool,7,10,49292,4.93,Premium,49.65,2024-06-23,116,Rented,164,True,True,0
+PROP00421,Bangalore,Marathahalli,Independent House,1708,30000000,17564,5,3,12,West,Playground; Pool; Elevator; Concierge,4,7,117538,4.7,Luxury,48.51,2026-01-14,136,Available,105,True,True,0
+PROP00422,Bangalore,Indiranagar,Penthouse,9764,30000000,3072,4,3,28,North-East,Concierge; Gym; Playground; AC; Security; Garden; Parking,7,4,75257,3.01,Luxury,40.05,2025-11-05,221,Available,55,False,True,60000
+PROP00423,Hyderabad,Kondapur,Villa,5364,12000000,2237,3,2,0,South-East,Security; Garden; Concierge; AC,4,6,38566,3.86,Premium,44.28,2025-11-09,225,Available,57,False,True,24000
+PROP00424,Delhi,Pitampura,Studio,252,29032345,115207,1,1,3,South-West,Security; Gym; Parking; Garden,4,7,116177,4.8,Luxury,49.01,2025-12-01,61,Sold,98,False,False,0
+PROP00425,Chennai,T Nagar,Villa,4661,10000000,2145,6,4,4,East,Pool; Gym; Parking,3,9,25227,3.03,Premium,40.14,2024-06-13,220,Available,117,True,False,0
+PROP00426,Delhi,Noida,Studio,292,35334620,121008,1,1,19,South,AC; Parking; Garden; Elevator,4,7,146889,4.99,Luxury,49.94,2025-09-03,243,Sold,80,True,True,70669
+PROP00427,Hyderabad,Gachibowli,Villa,3879,12000000,3093,3,1,12,South-West,Security; Garden; Parking,3,8,33992,3.4,Premium,42.0,2026-03-23,359,Available,108,True,True,0
+PROP00428,Pune,Viman Nagar,Apartment,2488,15000000,6028,4,2,9,South-East,Security; Playground; Elevator,3,4,43674,3.49,Premium,42.47,2026-03-27,339,Available,43,False,True,0
+PROP00429,Pune,Magarpatta,Penthouse,3825,15000000,3921,5,2,8,East,Playground; Elevator; Security; Gym; Library; AC,6,8,56032,4.48,Premium,47.41,2025-05-09,310,Sold,165,False,True,0
+PROP00430,Bangalore,Marathahalli,Studio,294,27172447,92423,0,1,20,North-West,Elevator; Pool; Gym; Security; Playground; AC; Library; Parking,8,6,71322,3.15,Luxury,40.75,2024-11-01,104,Sold,151,True,True,54344
+PROP00431,Bangalore,Jayanagar,Penthouse,8829,30000000,3397,5,3,28,South-West,Concierge; Pool; Library; Gym; Garden,5,6,122622,4.9,Luxury,49.52,2026-04-22,149,Available,63,True,True,60000
+PROP00432,Chennai,Thiruvanmiyur,Studio,600,10000000,16666,0,1,14,East,Library; AC; Elevator; Garden; Security; Parking; Pool,7,10,34531,4.14,Premium,45.72,2024-09-15,234,Sold,161,False,False,20000
+PROP00433,Delhi,Pitampura,Independent House,3761,40000000,10635,2,1,7,North,AC; Garden; Security,3,6,162803,4.88,Luxury,49.42,2025-08-03,329,Rented,43,True,True,80000
+PROP00434,Mumbai,Navi Mumbai,Independent House,4091,50000000,12221,4,3,2,North,AC; Security; Parking; Garden; Elevator; Concierge; Playground; Gym,8,4,143273,3.44,Luxury,42.19,2025-08-01,337,Available,167,True,False,0
+PROP00435,Chennai,T Nagar,Penthouse,7512,10000000,1331,4,3,7,West,Security; Garden; Library; Pool; AC,5,4,32231,3.87,Premium,44.34,2025-12-14,93,Rented,156,False,True,20000
+PROP00436,Bangalore,Marathahalli,Studio,342,25291572,73951,1,1,9,East,Parking; Library; Garden; Gym,4,4,73567,3.49,Luxury,42.45,2024-07-23,71,Rented,164,True,True,0
+PROP00437,Pune,Baner,Apartment,455,15000000,32967,1,1,7,North,Security; Parking; Gym,3,4,40158,3.21,Premium,41.06,2025-06-02,72,Rented,81,False,False,30000
+PROP00438,Delhi,Noida,Studio,329,30272733,92014,0,1,17,South-West,Security; AC; Pool; Gym; Library; Playground; Parking; Elevator,8,7,121704,4.82,Luxury,49.12,2026-04-20,181,Available,67,False,True,0
+PROP00439,Chennai,T Nagar,Apartment,2414,10000000,4142,2,1,7,South-East,Security; Playground; Pool,3,8,40388,4.85,Premium,49.23,2026-02-17,92,Rented,68,False,False,20000
+PROP00440,Chennai,Thiruvanmiyur,Villa,7466,10000000,1339,5,3,11,North-East,Security; Concierge; Playground,3,10,36855,4.42,Premium,47.11,2026-02-25,336,Sold,68,True,False,20000
+PROP00441,Pune,Viman Nagar,Studio,284,15000000,52816,0,2,30,South-East,Security; Parking; Pool; AC; Concierge; Playground; Garden; Elevator,8,9,49532,3.96,Premium,44.81,2025-03-17,71,Sold,115,True,False,0
+PROP00442,Hyderabad,Banjara Hills,Penthouse,7372,12000000,1627,5,2,12,South,Elevator; Library; Garden,3,7,30057,3.01,Premium,40.03,2026-04-27,57,Available,64,True,False,0
+PROP00443,Bangalore,Indiranagar,Studio,323,26558706,82225,1,1,6,East,Gym; Parking; Pool; Playground,4,9,67562,3.05,Luxury,40.26,2025-03-06,340,Available,57,True,False,53117
+PROP00444,Mumbai,Bandra,Independent House,2078,50000000,24061,2,1,2,East,Elevator; Library; Parking,3,6,136676,3.28,Luxury,41.4,2024-11-20,211,Sold,150,False,False,100000
+PROP00445,Delhi,South Delhi,Villa,2491,40000000,16057,3,1,16,North-West,Gym; Library; AC; Playground,4,9,155301,4.66,Luxury,48.3,2024-10-06,217,Available,88,True,False,80000
+PROP00446,Hyderabad,Banjara Hills,Villa,3735,12000000,3212,6,3,7,North-West,Parking; AC; Pool; Library; Playground; Garden,6,10,42837,4.28,Premium,46.42,2025-04-20,332,Available,125,False,True,0
+PROP00447,Mumbai,South Mumbai,Apartment,1885,50000000,26525,3,1,7,North,Parking; AC; Pool; Gym; Concierge,5,4,150760,3.62,Luxury,43.09,2024-10-27,138,Available,91,True,True,0
+PROP00448,Mumbai,South Mumbai,Independent House,1881,50000000,26581,4,2,11,South-East,Library; AC; Garden; Parking; Concierge,5,9,183554,4.41,Luxury,47.03,2026-02-04,52,Available,158,True,True,0
+PROP00449,Pune,Camp,Apartment,1588,15000000,9445,2,1,21,East,Pool; Elevator; Garden; AC; Playground; Library,6,10,50040,4.0,Premium,45.02,2024-08-29,230,Sold,117,True,False,0
+PROP00450,Delhi,Rohini,Studio,270,28507727,105584,1,1,6,North,Elevator; Pool; Parking; Security; Playground; Garden; Gym,7,10,112627,4.74,Luxury,48.7,2024-10-31,256,Rented,52,True,False,0
+PROP00451,Bangalore,Indiranagar,Villa,2558,30000000,11727,5,3,11,North-East,Pool; Parking; Concierge,3,5,123924,4.96,Luxury,49.78,2025-02-16,292,Sold,61,False,True,0
+PROP00452,Delhi,Dwarka,Studio,567,40000000,70546,0,2,11,North-East,Elevator; Playground; AC; Gym; Concierge; Garden; Security,7,9,166083,4.98,Luxury,49.91,2026-04-01,126,Sold,44,True,True,80000
+PROP00453,Delhi,Dwarka,Villa,6670,40000000,5997,6,3,7,North-West,Concierge; Pool; Playground; Garden; Library; Security,6,7,112018,3.36,Luxury,41.8,2026-01-24,103,Rented,140,False,False,80000
+PROP00454,Delhi,Noida,Penthouse,6983,40000000,5728,4,3,3,West,Concierge; Gym; Parking; Garden; Pool,5,4,102088,3.06,Luxury,40.31,2024-09-06,221,Sold,122,False,True,80000
+PROP00455,Bangalore,Whitefield,Studio,388,30000000,77319,1,1,2,North-East,Pool; Security; Library; Gym,4,9,97571,3.9,Luxury,44.51,2025-03-11,95,Available,96,True,True,0
+PROP00456,Delhi,Noida,Villa,3626,40000000,11031,5,3,15,South-West,AC; Parking; Library; Elevator; Playground; Security,6,9,137393,4.12,Luxury,45.61,2024-09-10,316,Available,178,True,False,0
+PROP00457,Mumbai,Bandra,Studio,325,50000000,153846,1,2,3,West,Library; Security; Gym; Garden; Pool; Elevator; Concierge; AC,8,5,140638,3.38,Luxury,41.88,2024-05-31,111,Available,126,False,True,100000
+PROP00458,Chennai,Kilpauk,Apartment,1916,10000000,5219,3,1,9,South-West,AC; Pool; Concierge; Playground; Garden,5,10,30870,3.7,Premium,43.52,2024-11-05,59,Available,115,True,False,0
+PROP00459,Delhi,Gurgaon,Penthouse,7873,40000000,5080,4,3,12,South,Library; Security; Pool; Gym; Elevator,5,9,141084,4.23,Luxury,46.16,2025-03-19,52,Available,169,False,True,0
+PROP00460,Pune,Hinjewadi,Villa,5724,15000000,2620,6,3,6,North,Pool; Playground; Concierge; Garden; AC; Library,6,9,57054,4.56,Premium,47.82,2024-12-11,158,Available,97,False,True,30000
+PROP00461,Pune,Baner,Apartment,507,15000000,29585,2,2,26,South-West,Elevator; Playground; AC; Pool; Security; Garden; Library,7,8,53610,4.29,Premium,46.44,2026-03-23,66,Sold,139,False,True,0
+PROP00462,Delhi,Rohini,Villa,5583,40000000,7164,4,2,22,North-East,AC; Pool; Library; Concierge,4,4,110603,3.32,Luxury,41.59,2025-06-18,224,Available,36,True,True,80000
+PROP00463,Hyderabad,Gachibowli,Penthouse,3645,12000000,3292,6,4,0,West,Parking; Concierge; Playground; Pool; Library; AC; Elevator; Gym,8,9,46141,4.61,Premium,48.07,2025-04-22,141,Sold,43,True,True,24000
+PROP00464,Chennai,Kilpauk,Apartment,854,10000000,11709,4,2,3,South,Security; Elevator; Parking; Gym,4,7,31023,3.72,Premium,43.61,2025-10-14,212,Available,35,True,False,20000
+PROP00465,Bangalore,HSR Layout,Studio,442,30000000,67873,1,2,25,North,Parking; Security; Gym; Pool,4,8,92140,3.69,Luxury,43.43,2025-05-24,3,Available,169,True,False,60000
+PROP00466,Bangalore,Marathahalli,Apartment,2595,30000000,11560,1,1,6,West,Pool; Garden; Gym; Parking; Elevator,5,7,109580,4.38,Luxury,46.92,2026-01-05,48,Available,81,False,False,0
+PROP00467,Chennai,Thiruvanmiyur,Studio,512,10000000,19531,1,1,8,North-East,Garden; Security; Library; Gym,4,7,28430,3.41,Premium,42.06,2024-12-31,306,Available,138,False,False,20000
+PROP00468,Hyderabad,Banjara Hills,Studio,352,12000000,34090,1,2,28,South-East,Pool; Concierge; Parking; Gym; Security; AC; Garden; Elevator,8,5,32292,3.23,Premium,41.15,2025-06-18,126,Available,121,True,True,0
+PROP00469,Delhi,Gurgaon,Independent House,2000,40000000,20000,2,2,22,South-East,Playground; Garden; Concierge,3,5,137442,4.12,Luxury,45.62,2025-04-15,112,Available,164,True,False,80000
+PROP00470,Hyderabad,Gachibowli,Studio,599,12000000,20033,1,2,26,North-West,Garden; Elevator; Gym; Library; AC,5,5,35488,3.55,Premium,42.74,2026-01-12,303,Available,113,False,True,24000
+PROP00471,Delhi,South Delhi,Penthouse,3038,40000000,13166,5,3,4,South,Gym; AC; Elevator; Parking; Playground; Concierge,6,6,155323,4.66,Luxury,48.3,2025-03-15,178,Sold,111,False,True,0
+PROP00472,Pune,Camp,Apartment,2011,15000000,7458,3,2,15,South,Pool; Playground; Elevator; Gym; Concierge; Library; Security; Garden,8,4,59034,4.72,Premium,48.61,2025-02-22,189,Available,78,True,True,0
+PROP00473,Mumbai,South Mumbai,Apartment,1646,50000000,30376,1,2,10,East,Elevator; Library; Security; Playground; Pool; AC; Garden; Gym,8,7,137333,3.3,Luxury,41.48,2024-09-23,343,Rented,144,True,True,0
+PROP00474,Chennai,Thiruvanmiyur,Independent House,2818,10000000,3548,5,2,2,West,Security; Pool; Playground; Elevator; AC,5,4,26252,3.15,Premium,40.75,2024-12-24,240,Available,85,False,True,0
+PROP00475,Mumbai,Andheri,Villa,6837,50000000,7313,5,3,22,South-West,Parking; AC; Pool; Concierge; Library; Elevator,6,7,197321,4.74,Luxury,48.68,2024-12-05,36,Available,78,False,False,100000
+PROP00476,Chennai,Besant Nagar,Penthouse,8311,10000000,1203,4,2,14,North-West,Pool; Garden; Gym,3,6,25476,3.06,Premium,40.29,2024-07-06,61,Available,97,True,False,0
+PROP00477,Bangalore,Koramangala,Studio,507,30000000,59171,1,2,1,South-West,Security; Playground; Pool; Gym; AC; Garden,6,8,84472,3.38,Luxury,41.89,2025-11-15,266,Available,156,False,True,60000
+PROP00478,Chennai,Velachery,Apartment,1299,10000000,7698,1,1,28,South,Elevator; Security; Garden,3,7,29590,3.55,Premium,42.75,2024-08-17,202,Sold,130,True,True,0
+PROP00479,Pune,Hinjewadi,Villa,3667,15000000,4090,5,3,22,North-East,Security; Gym; Pool; Concierge; Elevator; Playground; Garden,7,4,54698,4.38,Premium,46.88,2025-11-21,96,Available,72,False,False,30000
+PROP00480,Mumbai,Navi Mumbai,Studio,469,50000000,106609,1,1,5,North-West,Pool; Parking; Gym; Security; AC,5,4,165692,3.98,Luxury,44.88,2025-09-03,291,Available,34,False,True,100000
+PROP00481,Bangalore,Whitefield,Apartment,1647,30000000,18214,3,2,15,North,Playground; AC; Security; Elevator; Garden; Parking; Concierge; Pool,8,10,90056,3.6,Luxury,43.01,2025-06-07,58,Rented,153,False,True,60000
+PROP00482,Pune,Hinjewadi,Villa,4926,15000000,3045,6,3,7,South,Library; Playground; Garden; AC; Gym; Pool; Concierge,7,7,59428,4.75,Premium,48.77,2024-06-18,90,Available,164,False,False,0
+PROP00483,Pune,Camp,Studio,391,15000000,38363,1,1,1,North-East,AC; Playground; Pool; Garden; Library; Security; Parking,7,9,37708,3.02,Premium,40.08,2024-06-12,268,Available,68,False,True,0
+PROP00484,Pune,Magarpatta,Apartment,1607,15000000,9334,1,2,1,North-East,Security; Pool; Gym; Garden,4,5,46306,3.7,Premium,43.52,2026-05-14,146,Available,119,True,True,0
+PROP00485,Bangalore,HSR Layout,Villa,5539,30000000,5416,3,2,7,South-West,Concierge; Playground; Garden,3,6,123345,4.93,Luxury,49.67,2026-02-03,89,Rented,109,False,False,60000
+PROP00486,Chennai,Velachery,Independent House,2055,10000000,4866,5,2,9,South-West,Pool; Security; Concierge; AC; Elevator,5,7,38897,4.67,Premium,48.34,2026-02-05,258,Available,110,False,False,0
+PROP00487,Pune,Viman Nagar,Studio,460,15000000,32608,1,1,29,West,Gym; Library; Pool; AC; Concierge; Security; Parking,7,8,46827,3.75,Premium,43.73,2024-08-17,28,Available,105,False,True,0
+PROP00488,Chennai,Anna Nagar,Studio,515,10000000,19417,1,1,2,South,Security; Pool; Playground,3,4,34424,4.13,Premium,45.65,2024-06-06,300,Available,61,True,True,20000
+PROP00489,Hyderabad,Gachibowli,Studio,319,12000000,37617,0,1,9,North,Security; Gym; Concierge; Elevator; Playground; Pool; AC; Garden,8,5,47597,4.76,Premium,48.8,2024-11-28,243,Available,56,True,False,0
+PROP00490,Mumbai,South Mumbai,Independent House,3157,50000000,15837,5,2,26,South,AC; Security; Concierge; Library,4,9,178016,4.27,Luxury,46.36,2025-11-06,88,Available,91,True,False,0
+PROP00491,Delhi,Noida,Apartment,2811,40000000,14229,4,3,21,South-West,Library; Elevator; Pool; Garden; AC,5,4,118894,3.57,Luxury,42.83,2026-01-11,156,Available,178,True,False,80000
+PROP00492,Delhi,Gurgaon,Studio,484,40000000,82644,1,1,5,South-West,AC; Elevator; Garden; Parking; Playground,5,9,111633,3.35,Luxury,41.74,2025-12-10,174,Available,174,False,True,0
+PROP00493,Chennai,Besant Nagar,Studio,284,10000000,35211,1,2,30,South-East,Elevator; Parking; Security; Pool; Playground; AC,6,10,38831,4.66,Premium,48.3,2026-03-06,119,Available,70,True,True,0
+PROP00494,Chennai,Thiruvanmiyur,Independent House,4612,10000000,2168,3,1,3,North-East,Library; Elevator; Pool; Gym,4,6,39113,4.69,Premium,48.47,2026-03-01,90,Available,37,False,True,0
+PROP00495,Pune,Hinjewadi,Penthouse,7558,15000000,1984,4,2,8,South-West,Concierge; Security; Garden; Pool; Playground; Library,6,4,57716,4.62,Premium,48.09,2025-10-30,105,Available,54,True,True,30000
+PROP00496,Delhi,Dwarka,Penthouse,7477,40000000,5349,4,3,5,South-East,AC; Concierge; Garden; Library; Pool; Security; Elevator; Parking,8,7,159983,4.8,Luxury,49.0,2025-12-24,321,Sold,139,False,True,80000
+PROP00497,Bangalore,Marathahalli,Independent House,1913,30000000,15682,2,2,7,North,Elevator; AC; Playground,3,6,122030,4.88,Luxury,49.41,2025-08-30,81,Available,47,False,True,60000
+PROP00498,Hyderabad,Kondapur,Penthouse,5557,12000000,2159,5,2,17,North-East,Pool; Concierge; Security; Playground; Gym; Library; Parking; Elevator,8,8,47760,4.78,Premium,48.88,2026-03-15,340,Available,114,True,True,0
+PROP00499,Mumbai,Borivali,Penthouse,8759,50000000,5708,4,3,2,South,Elevator; Pool; Concierge; AC; Parking; Gym,6,7,167300,4.02,Luxury,45.08,2024-07-18,117,Available,107,True,True,100000
+PROP00500,Bangalore,Marathahalli,Penthouse,6107,30000000,4912,6,3,17,South-West,Gym; Library; AC; Playground; Pool; Garden,6,6,80779,3.23,Luxury,41.16,2026-01-14,100,Rented,120,False,False,60000
+PROP00501,Bangalore,Koramangala,Apartment,2810,30000000,10676,1,1,13,North,AC; Gym; Elevator; Library; Playground; Pool; Concierge; Garden,8,8,84029,3.36,Luxury,41.81,2026-03-31,150,Available,92,True,False,0
+PROP00502,Chennai,Anna Nagar,Apartment,712,10000000,14044,3,1,15,West,Playground; Garden; Concierge; Elevator; Parking; Library; Security; AC,8,4,29458,3.53,Premium,42.67,2024-05-30,178,Available,43,False,False,0
+PROP00503,Mumbai,Bandra,Villa,6267,50000000,7978,4,3,23,North-West,Garden; Pool; Playground; Concierge; AC; Gym; Library,7,10,162813,3.91,Luxury,44.54,2026-01-18,139,Available,38,False,False,0
+PROP00504,Mumbai,South Mumbai,Independent House,5000,50000000,10000,5,3,0,East,Library; Concierge; Gym; Pool; Elevator; Garden,6,8,169374,4.06,Luxury,45.32,2024-07-07,14,Available,119,False,False,100000
+PROP00505,Mumbai,Andheri,Penthouse,6555,50000000,7627,5,2,25,North-West,AC; Library; Security,3,7,184935,4.44,Luxury,47.19,2024-11-29,122,Available,149,True,True,0
+PROP00506,Chennai,Besant Nagar,Apartment,1423,10000000,7027,3,2,18,North,Gym; Security; Playground; Parking; Concierge; Library,6,10,34474,4.14,Premium,45.68,2025-06-20,228,Sold,75,False,True,0
+PROP00507,Mumbai,Dadar,Apartment,1869,50000000,26752,4,2,13,South-East,Elevator; Pool; Security,3,6,161703,3.88,Luxury,44.4,2025-08-23,254,Sold,96,True,True,100000
+PROP00508,Bangalore,Marathahalli,Apartment,1353,30000000,22172,1,1,5,North-East,AC; Concierge; Playground; Gym; Security; Pool; Library; Parking,8,4,75805,3.03,Luxury,40.16,2025-05-18,180,Available,90,True,True,0
+PROP00509,Mumbai,Borivali,Apartment,1370,50000000,36496,2,2,18,North,Library; Pool; Elevator; Parking; AC,5,9,190680,4.58,Luxury,47.88,2025-06-05,241,Rented,125,False,True,100000
+PROP00510,Delhi,South Delhi,Independent House,2114,40000000,18921,2,1,19,South-West,Playground; AC; Elevator; Pool,4,9,102173,3.07,Luxury,40.33,2025-12-12,40,Available,50,True,False,80000
+PROP00511,Hyderabad,Jubilee Hills,Penthouse,6869,12000000,1746,6,4,10,South-East,Garden; Security; Elevator; Parking; Pool,5,7,36296,3.63,Premium,43.15,2026-01-16,186,Sold,134,True,False,24000
+PROP00512,Delhi,Pitampura,Studio,559,40000000,71556,0,2,25,East,Garden; Parking; Elevator; Library; Concierge; Security,6,4,153057,4.59,Luxury,47.96,2025-05-30,216,Available,134,True,False,80000
+PROP00513,Bangalore,Jayanagar,Apartment,1083,30000000,27700,1,2,8,East,Concierge; Pool; Parking; Library; Gym; Garden; Playground,7,7,81618,3.26,Luxury,41.32,2024-11-18,66,Rented,120,False,True,0
+PROP00514,Mumbai,Andheri,Independent House,3922,50000000,12748,2,1,2,East,Playground; Concierge; Library; Elevator; Garden; AC; Parking; Pool,8,8,185308,4.45,Luxury,47.24,2024-09-18,78,Rented,51,True,False,0
+PROP00515,Pune,Magarpatta,Studio,340,15000000,44117,1,1,7,South-West,Concierge; Playground; Gym; Security; Library,5,4,47101,3.77,Premium,43.84,2025-11-13,221,Rented,83,False,False,30000
+PROP00516,Delhi,Noida,Villa,2971,40000000,13463,5,3,15,West,Garden; Parking; Security; AC; Concierge; Gym,6,8,109400,3.28,Luxury,41.41,2025-10-15,15,Available,73,True,True,80000
+PROP00517,Pune,Baner,Independent House,2332,15000000,6432,4,3,23,North-West,AC; Parking; Concierge; Elevator; Gym; Playground,6,6,49831,3.99,Premium,44.93,2026-02-15,182,Rented,59,True,True,30000
+PROP00518,Delhi,Gurgaon,Penthouse,5747,40000000,6960,5,3,20,North,AC; Pool; Playground; Gym; Garden; Library; Parking; Security,8,7,141819,4.25,Luxury,46.27,2025-09-05,345,Available,86,True,False,0
+PROP00519,Bangalore,Jayanagar,Villa,6069,30000000,4943,5,2,6,West,Pool; AC; Garden; Gym; Concierge; Library; Playground; Parking,8,7,76940,3.08,Luxury,40.39,2024-06-09,121,Available,179,False,False,60000
+PROP00520,Delhi,Gurgaon,Independent House,4236,40000000,9442,5,3,25,South-West,Library; Playground; Concierge; Parking; Gym; Pool; AC; Security,8,5,121693,3.65,Luxury,43.25,2024-07-05,164,Available,148,True,False,0
+PROP00521,Chennai,Velachery,Studio,500,10000000,20000,1,1,0,North,Security; AC; Garden; Library; Concierge,5,7,30386,3.65,Premium,43.23,2024-06-22,218,Available,143,False,False,20000
+PROP00522,Delhi,Dwarka,Villa,4783,40000000,8362,3,2,14,South-East,Garden; Parking; Elevator; Library; Playground; Gym,6,4,135984,4.08,Luxury,45.4,2026-04-23,181,Sold,115,True,True,80000
+PROP00523,Delhi,Rohini,Villa,3286,40000000,12172,6,3,9,West,Playground; Elevator; Library; Pool,4,8,102404,3.07,Luxury,40.36,2026-04-24,257,Sold,56,False,False,80000
+PROP00524,Bangalore,Indiranagar,Independent House,1599,30000000,18761,3,1,1,North-East,Pool; Library; AC; Elevator; Playground,5,10,78826,3.15,Luxury,40.77,2024-12-14,11,Sold,136,True,True,60000
+PROP00525,Chennai,Kilpauk,Studio,349,10000000,28653,1,2,13,North-West,Gym; Security; AC; Garden; Pool; Elevator; Parking,7,8,32158,3.86,Premium,44.29,2025-09-29,248,Rented,101,False,True,0
+PROP00526,Mumbai,Dadar,Studio,440,50000000,113636,0,2,7,North-East,Gym; Library; Garden; Concierge; Parking; AC; Elevator,7,5,192473,4.62,Luxury,48.1,2026-02-18,251,Available,83,True,True,100000
+PROP00527,Pune,Camp,Studio,517,15000000,29013,0,1,24,North,Security; Library; Elevator; Playground; Parking; Pool,6,6,51632,4.13,Premium,45.65,2025-03-24,288,Rented,83,False,False,0
+PROP00528,Chennai,Velachery,Independent House,3389,10000000,2950,5,2,29,East,Library; Pool; Elevator,3,7,27701,3.32,Premium,41.62,2026-01-10,20,Available,59,False,False,20000
+PROP00529,Chennai,Kilpauk,Studio,321,10000000,31152,1,2,0,North-East,Pool; Library; Security; Playground; AC,5,5,35251,4.23,Premium,46.15,2025-04-29,149,Available,66,True,False,0
+PROP00530,Pune,Viman Nagar,Villa,4704,15000000,3188,4,2,16,North,Concierge; Gym; Playground; Garden; Pool; Elevator; Library; AC,8,7,42191,3.38,Premium,41.88,2024-06-03,49,Available,114,True,False,30000
+PROP00531,Mumbai,Andheri,Penthouse,4851,50000000,10307,5,2,29,North-East,Security; Elevator; Library; AC,4,9,188915,4.53,Luxury,47.67,2025-08-27,40,Available,81,True,True,100000
+PROP00532,Delhi,Gurgaon,Independent House,3808,40000000,10504,2,1,25,North-West,Elevator; Library; Playground; Security; AC; Concierge; Parking,7,4,100178,3.01,Luxury,40.03,2025-09-19,74,Rented,67,True,False,80000
+PROP00533,Delhi,South Delhi,Apartment,961,40000000,41623,4,3,21,South-West,Playground; Security; Pool; Concierge; AC; Garden,6,8,147082,4.41,Luxury,47.06,2025-05-16,272,Available,111,True,True,80000
+PROP00534,Chennai,Besant Nagar,Villa,5581,10000000,1791,6,4,22,East,Pool; AC; Library; Playground; Parking,5,6,31094,3.73,Premium,43.66,2025-01-22,110,Sold,138,True,False,0
+PROP00535,Bangalore,HSR Layout,Apartment,1202,30000000,24958,4,3,16,South-East,Gym; Security; Playground; Elevator,4,4,100139,4.01,Luxury,45.03,2026-05-01,329,Sold,100,False,False,60000
+PROP00536,Chennai,T Nagar,Independent House,2623,10000000,3812,2,1,27,South-East,Concierge; Elevator; AC; Pool; Garden; Security; Gym; Playground,8,5,39904,4.79,Premium,48.94,2025-12-09,43,Sold,63,False,True,20000
+PROP00537,Pune,Kondhwa,Apartment,1687,15000000,8891,1,2,27,South-East,Elevator; Gym; Playground; Library,4,6,41730,3.34,Premium,41.69,2024-09-21,8,Sold,162,False,False,30000
+PROP00538,Mumbai,Bandra,Penthouse,4208,50000000,11882,6,4,2,West,Concierge; Gym; Security; Elevator,4,10,159104,3.82,Luxury,44.09,2024-08-02,160,Sold,30,False,False,100000
+PROP00539,Delhi,Dwarka,Penthouse,9849,40000000,4061,6,3,18,East,Pool; Elevator; AC; Concierge; Playground; Gym,6,10,141774,4.25,Luxury,46.27,2026-04-24,112,Sold,32,False,False,80000
+PROP00540,Chennai,Velachery,Independent House,4929,10000000,2028,3,1,9,North-East,Library; Security; Parking,3,6,30259,3.63,Premium,43.16,2025-09-25,91,Sold,81,False,False,0
+PROP00541,Delhi,South Delhi,Studio,431,40000000,92807,1,2,24,West,AC; Concierge; Parking; Gym; Security; Garden; Pool; Elevator,8,10,128923,3.87,Luxury,44.34,2024-07-22,107,Sold,103,False,False,80000
+PROP00542,Hyderabad,Madhapur,Independent House,2393,12000000,5014,5,3,1,East,AC; Parking; Concierge,3,8,36459,3.65,Premium,43.23,2024-10-14,166,Available,38,True,False,24000
+PROP00543,Bangalore,Jayanagar,Studio,421,30000000,71258,1,1,5,North,Security; Parking; Concierge; Elevator; Pool,5,7,105830,4.23,Luxury,46.17,2024-09-14,243,Available,132,True,False,0
+PROP00544,Hyderabad,HITEC City,Studio,597,12000000,20100,1,2,1,North-East,AC; Pool; Library; Garden,4,5,38015,3.8,Premium,44.01,2026-04-15,306,Available,106,True,True,24000
+PROP00545,Chennai,Besant Nagar,Apartment,770,10000000,12987,3,1,25,East,Concierge; Library; Parking; Garden; Gym,5,5,27867,3.34,Premium,41.72,2025-07-04,224,Available,82,True,True,20000
+PROP00546,Chennai,Kilpauk,Independent House,1520,10000000,6578,5,2,11,West,Concierge; AC; Library,3,10,36140,4.34,Premium,46.68,2025-01-25,199,Sold,54,True,False,20000
+PROP00547,Pune,Magarpatta,Independent House,4857,15000000,3088,5,3,17,West,Playground; Concierge; Gym,3,6,41954,3.36,Premium,41.78,2025-09-16,1,Available,158,False,True,30000
+PROP00548,Bangalore,Jayanagar,Villa,2362,30000000,12701,4,3,13,South-West,Playground; Library; Parking,3,4,90554,3.62,Luxury,43.11,2024-06-22,216,Sold,96,True,True,0
+PROP00549,Chennai,Kilpauk,Apartment,2304,10000000,4340,1,2,21,North-West,Pool; Library; Gym; Elevator; Parking; AC; Garden; Playground,8,10,35896,4.31,Premium,46.54,2024-06-27,156,Available,43,False,False,20000
+PROP00550,Hyderabad,Banjara Hills,Penthouse,6054,12000000,1982,5,3,27,East,Playground; Pool; Parking; Garden; Security; Library; Gym,7,5,48964,4.9,Premium,49.48,2024-05-20,315,Available,161,False,False,24000
+PROP00551,Pune,Magarpatta,Apartment,897,15000000,16722,4,3,11,South-West,Elevator; Playground; Security,3,5,44903,3.59,Premium,42.96,2026-04-20,183,Available,105,False,True,0
+PROP00552,Delhi,Noida,Apartment,2840,40000000,14084,1,2,23,East,AC; Library; Garden,3,7,106304,3.19,Luxury,40.95,2025-12-17,177,Sold,100,False,True,0
+PROP00553,Mumbai,South Mumbai,Independent House,3026,50000000,16523,2,1,19,North,Pool; Library; Elevator; Parking; Playground; AC; Garden; Concierge,8,4,187230,4.49,Luxury,47.47,2024-07-15,60,Sold,140,True,False,0
+PROP00554,Hyderabad,Kondapur,Penthouse,9997,12000000,1200,4,2,11,North,Concierge; Garden; Library; Parking; Playground; Pool; Elevator,7,4,48194,4.82,Premium,49.1,2024-06-19,107,Available,134,True,False,24000
+PROP00555,Delhi,Noida,Studio,556,40000000,71942,1,1,7,North-East,Gym; Playground; Garden; Elevator,4,9,140621,4.22,Luxury,46.09,2025-01-28,278,Available,114,False,False,80000
+PROP00556,Delhi,Noida,Independent House,2918,40000000,13708,5,2,14,South,Concierge; Garden; Parking; Playground; AC; Elevator; Library; Gym,8,9,137421,4.12,Luxury,45.61,2025-05-26,190,Available,165,False,False,0
+PROP00557,Pune,Kondhwa,Studio,265,15000000,56603,0,1,19,North-East,Elevator; Library; AC; Concierge; Gym,5,8,49768,3.98,Premium,44.91,2025-09-16,194,Available,63,True,True,0
+PROP00558,Bangalore,Koramangala,Apartment,2737,30000000,10960,3,1,27,West,Library; AC; Elevator; Parking,4,9,104962,4.2,Luxury,45.99,2025-06-21,341,Sold,57,False,False,60000
+PROP00559,Pune,Viman Nagar,Studio,396,15000000,37878,1,1,29,South-East,Library; Security; Gym; AC,4,7,53904,4.31,Premium,46.56,2024-06-14,335,Rented,178,False,False,0
+PROP00560,Bangalore,HSR Layout,Apartment,2934,30000000,10224,2,1,19,East,AC; Pool; Library; Gym; Parking; Security; Elevator,7,4,98595,3.94,Luxury,44.72,2026-02-10,283,Rented,129,True,True,0
+PROP00561,Delhi,Pitampura,Villa,3435,40000000,11644,6,3,10,North-West,Security; Pool; Gym; AC,4,10,145578,4.37,Luxury,46.84,2025-02-14,237,Rented,75,True,False,80000
+PROP00562,Bangalore,Jayanagar,Apartment,428,30000000,70093,1,2,27,North,Concierge; Library; Pool; AC; Garden; Parking; Gym,7,7,116387,4.66,Luxury,48.28,2026-03-14,187,Available,40,False,False,0
+PROP00563,Mumbai,South Mumbai,Villa,4150,50000000,12048,3,1,11,North-East,Playground; Parking; Garden; Library; Concierge; Pool,6,9,178502,4.28,Luxury,46.42,2026-02-28,126,Available,155,False,False,0
+PROP00564,Chennai,Thiruvanmiyur,Independent House,4725,10000000,2116,5,3,18,North-East,Elevator; Gym; Parking; Pool; Security,5,6,39669,4.76,Premium,48.8,2024-10-14,82,Available,108,False,False,0
+PROP00565,Chennai,Besant Nagar,Villa,7694,10000000,1299,4,2,19,North-East,Library; Security; Garden; Gym; Pool,5,9,25201,3.02,Premium,40.12,2025-05-07,208,Sold,162,False,True,0
+PROP00566,Chennai,Velachery,Penthouse,9984,10000000,1001,6,4,16,North-West,Library; Concierge; Parking; Elevator; Security,5,4,39952,4.79,Premium,48.97,2026-04-30,116,Sold,117,False,True,20000
+PROP00567,Bangalore,Indiranagar,Penthouse,9373,30000000,3200,6,3,20,North,Playground; Concierge; AC; Security,4,9,117287,4.69,Luxury,48.46,2024-11-24,187,Rented,81,True,False,60000
+PROP00568,Delhi,Rohini,Apartment,1511,40000000,26472,1,1,14,West,AC; Garden; Elevator; Parking; Playground; Pool; Security,7,6,130404,3.91,Luxury,44.56,2026-04-03,143,Rented,171,True,True,80000
+PROP00569,Bangalore,Marathahalli,Independent House,1749,30000000,17152,3,1,7,South,Elevator; Concierge; AC; Gym; Security; Library; Parking,7,4,80820,3.23,Luxury,41.16,2026-02-18,302,Available,168,True,False,0
+PROP00570,Hyderabad,Jubilee Hills,Penthouse,6520,12000000,1840,4,3,24,East,Garden; Concierge; Gym; Parking; Elevator; Security; Library; Pool,8,6,39665,3.97,Premium,44.83,2025-07-28,273,Rented,97,True,False,0
+PROP00571,Chennai,Kilpauk,Penthouse,5529,10000000,1808,6,4,3,North-West,Concierge; Gym; Playground; Security,4,4,27979,3.36,Premium,41.79,2025-02-26,176,Sold,143,True,True,20000
+PROP00572,Bangalore,Koramangala,Independent House,3555,30000000,8438,4,3,24,South-East,Concierge; Pool; Security; Elevator; AC; Library; Playground,7,8,113319,4.53,Luxury,47.66,2025-11-20,167,Rented,70,False,False,0
+PROP00573,Bangalore,Indiranagar,Studio,405,30000000,74074,1,1,9,South-West,Playground; Elevator; Concierge; Parking; Garden,5,7,75283,3.01,Luxury,40.06,2025-03-27,331,Available,120,True,False,0
+PROP00574,Mumbai,Navi Mumbai,Villa,3708,50000000,13484,5,3,26,South-East,Gym; Playground; Library; Concierge; Garden,5,7,186584,4.48,Luxury,47.39,2025-10-06,55,Sold,100,True,True,100000
+PROP00575,Delhi,Pitampura,Studio,553,40000000,72332,1,1,24,South,Library; Concierge; Garden; Parking; Security; Playground; AC; Gym,8,6,122846,3.69,Luxury,43.43,2024-11-10,242,Available,58,True,True,0
+PROP00576,Chennai,Thiruvanmiyur,Villa,3232,10000000,3094,5,2,17,North-East,Concierge; Garden; Playground,3,10,38621,4.63,Premium,48.17,2024-06-07,359,Available,47,False,False,0
+PROP00577,Chennai,Velachery,Villa,4631,10000000,2159,6,3,14,North,Playground; Garden; Security; Parking; Concierge,5,7,35704,4.28,Premium,46.42,2025-03-03,271,Available,42,True,False,20000
+PROP00578,Hyderabad,Banjara Hills,Apartment,2465,12000000,4868,3,2,9,East,Playground; Pool; AC; Security; Gym; Library; Elevator,7,7,46925,4.69,Premium,48.46,2026-02-14,38,Available,78,False,False,0
+PROP00579,Pune,Kondhwa,Villa,7328,15000000,2046,5,2,5,North-East,Elevator; Playground; Concierge; Security; AC; Garden; Gym; Pool,8,6,58205,4.66,Premium,48.28,2026-04-25,78,Available,139,False,True,0
+PROP00580,Hyderabad,Banjara Hills,Villa,6705,12000000,1789,5,2,6,North,Garden; Security; Parking; Gym,4,8,48889,4.89,Premium,49.44,2026-04-04,36,Sold,119,False,False,24000
+PROP00581,Chennai,Velachery,Villa,4481,10000000,2231,4,3,8,North-West,Garden; Playground; Gym; Pool,4,9,40800,4.9,Premium,49.48,2026-04-18,195,Available,83,True,False,0
+PROP00582,Pune,Hinjewadi,Villa,5117,15000000,2931,3,1,5,South-East,Elevator; AC; Pool; Concierge; Library; Gym; Garden,7,4,45421,3.63,Premium,43.17,2025-10-31,185,Available,159,False,False,30000
+PROP00583,Pune,Baner,Apartment,1956,15000000,7668,4,3,30,South,Playground; Elevator; Security,3,9,58695,4.7,Premium,48.48,2025-07-11,334,Available,51,False,False,30000
+PROP00584,Delhi,Pitampura,Independent House,1685,40000000,23738,3,1,5,North,Gym; Parking; AC; Pool; Playground; Garden; Elevator,7,8,113988,3.42,Luxury,42.1,2024-07-07,81,Available,136,False,True,80000
+PROP00585,Hyderabad,Madhapur,Villa,4990,12000000,2404,3,1,0,South-East,Garden; Security; Library; Playground; Parking; Concierge,6,4,30516,3.05,Premium,40.26,2026-04-15,209,Rented,66,True,False,24000
+PROP00586,Bangalore,Whitefield,Apartment,1828,30000000,16411,2,1,13,South-West,Pool; Concierge; AC,3,10,101836,4.07,Luxury,45.37,2025-12-28,160,Rented,30,False,False,0
+PROP00587,Bangalore,Indiranagar,Penthouse,5994,30000000,5005,6,3,15,East,Elevator; Garden; Parking; Pool; Security; Library,6,6,79109,3.16,Luxury,40.82,2026-02-06,128,Sold,56,True,False,60000
+PROP00588,Chennai,T Nagar,Independent House,2846,10000000,3513,5,3,24,East,Playground; Library; Elevator; Concierge,4,10,40577,4.87,Premium,49.35,2026-04-09,324,Sold,128,True,True,20000
+PROP00589,Mumbai,Bandra,Apartment,1374,50000000,36390,2,2,10,South-East,Elevator; Concierge; AC,3,5,197460,4.74,Luxury,48.7,2024-09-30,319,Available,146,False,False,100000
+PROP00590,Chennai,Besant Nagar,Penthouse,5763,10000000,1735,5,2,8,South-East,Concierge; AC; Elevator; Playground; Gym,5,4,29381,3.53,Premium,42.63,2025-05-05,65,Available,169,True,True,0
+PROP00591,Mumbai,South Mumbai,Penthouse,8838,50000000,5657,5,2,27,East,Security; Concierge; Library; Elevator; Gym,5,10,203437,4.88,Luxury,49.41,2024-12-07,9,Available,86,True,False,100000
+PROP00592,Hyderabad,Kondapur,Penthouse,3384,12000000,3546,6,4,17,South,AC; Parking; Playground; Pool,4,10,42698,4.27,Premium,46.35,2024-08-19,277,Available,68,False,True,0
+PROP00593,Mumbai,Dadar,Independent House,3096,50000000,16149,5,3,14,North-East,Parking; Security; Gym; Concierge; Elevator,5,4,186121,4.47,Luxury,47.33,2024-09-13,72,Rented,135,True,False,100000
+PROP00594,Bangalore,Jayanagar,Villa,7292,30000000,4114,6,4,18,North-East,Garden; Playground; Pool; Concierge,4,5,95072,3.8,Luxury,44.01,2024-09-22,228,Rented,82,True,False,0
+PROP00595,Mumbai,Navi Mumbai,Apartment,2532,50000000,19747,3,1,24,North-West,Elevator; Concierge; Garden; Playground; AC; Parking; Gym; Security,8,4,198352,4.76,Luxury,48.8,2025-05-30,131,Rented,127,True,False,0
+PROP00596,Hyderabad,Madhapur,Studio,399,12000000,30075,0,1,2,North,Elevator; Playground; Garden; Library; AC; Concierge; Security; Pool,8,9,47303,4.73,Premium,48.65,2025-08-01,129,Sold,100,False,False,0
+PROP00597,Delhi,South Delhi,Apartment,814,40000000,49140,4,2,18,South-West,Garden; Library; Security; Gym; Playground; Elevator,6,8,158026,4.74,Luxury,48.7,2024-06-30,303,Available,57,True,True,80000
+PROP00598,Bangalore,Indiranagar,Penthouse,8510,30000000,3525,6,4,26,North,Gym; Playground; Concierge; Library; Garden; Security,6,7,115658,4.63,Luxury,48.13,2024-08-09,111,Sold,36,True,True,0
+PROP00599,Mumbai,Andheri,Studio,264,48545647,183885,1,2,11,North-East,Playground; Elevator; Garden; Parking; Concierge; Gym; Library; Pool,8,8,134357,3.32,Luxury,41.61,2024-10-20,206,Sold,112,False,True,0
+PROP00600,Mumbai,Andheri,Independent House,4024,50000000,12425,3,2,26,North-West,Pool; Elevator; Library; Parking; Security,5,9,188047,4.51,Luxury,47.57,2025-10-19,180,Available,154,False,False,0
+PROP00601,Bangalore,Koramangala,Independent House,1565,30000000,19169,2,1,18,East,AC; Elevator; Security; Library; Concierge,5,9,109781,4.39,Luxury,46.96,2025-10-23,135,Available,133,True,False,0
+PROP00602,Pune,Hinjewadi,Studio,303,15000000,49504,1,1,10,East,Concierge; Gym; Garden; Security,4,9,44344,3.55,Premium,42.74,2024-12-24,126,Available,86,True,False,30000
+PROP00603,Bangalore,Whitefield,Independent House,2498,30000000,12009,2,2,26,South-West,Library; AC; Garden; Concierge; Pool; Security,6,9,119430,4.78,Luxury,48.89,2025-04-13,135,Sold,123,False,False,0
+PROP00604,Bangalore,Indiranagar,Penthouse,5925,30000000,5063,4,2,10,West,Garden; AC; Parking; Gym; Security; Elevator; Concierge; Library,8,10,110878,4.44,Luxury,47.18,2024-07-23,239,Rented,87,False,True,0
+PROP00605,Hyderabad,Banjara Hills,Studio,552,12000000,21739,1,1,30,North,Gym; AC; Concierge; Security,4,9,39532,3.95,Premium,44.77,2024-05-21,34,Available,120,False,False,24000
+PROP00606,Chennai,Kilpauk,Studio,470,10000000,21276,0,2,6,South-East,Concierge; Security; AC; Parking; Pool; Elevator; Garden; Gym,8,6,41181,4.94,Premium,49.71,2026-03-21,62,Sold,180,True,True,0
+PROP00607,Chennai,Velachery,Villa,4038,10000000,2476,4,2,0,South-West,Concierge; Pool; Playground; Gym; Library; Garden; Security; AC,8,6,27308,3.28,Premium,41.38,2025-05-28,91,Available,120,False,False,0
+PROP00608,Mumbai,Bandra,Independent House,3144,50000000,15903,3,1,11,North,Pool; Playground; Concierge; Library; Gym; Security; Parking; AC,8,4,129928,3.12,Luxury,40.59,2025-04-27,7,Available,165,True,False,0
+PROP00609,Delhi,South Delhi,Penthouse,7615,40000000,5252,5,2,30,West,Garden; Concierge; Parking; Security,4,8,106464,3.19,Luxury,40.97,2024-06-14,294,Rented,125,True,False,80000
+PROP00610,Hyderabad,Madhapur,Studio,265,12000000,45283,0,1,25,East,Security; Pool; Playground; Concierge; AC,5,8,39953,4.0,Premium,44.98,2024-09-04,233,Available,116,False,False,24000
+PROP00611,Chennai,Kilpauk,Apartment,1785,10000000,5602,2,2,4,South-East,Concierge; Garden; Library; Gym,4,9,41372,4.96,Premium,49.82,2025-01-08,267,Sold,55,True,False,0
+PROP00612,Hyderabad,Gachibowli,Villa,4314,12000000,2781,5,2,14,South-West,Security; Library; AC; Garden,4,7,30476,3.05,Premium,40.24,2026-01-28,157,Available,129,False,False,24000
+PROP00613,Hyderabad,Jubilee Hills,Villa,2730,12000000,4395,5,2,20,South-West,Gym; AC; Elevator; Concierge; Parking,5,9,49283,4.93,Premium,49.64,2026-03-22,261,Sold,141,True,False,24000
+PROP00614,Bangalore,Whitefield,Studio,345,26749649,77535,0,2,2,South-West,Garden; Concierge; Elevator; Security; Playground; Library; Gym; AC,8,5,97609,4.38,Luxury,46.89,2025-07-21,91,Available,114,False,True,0
+PROP00615,Pune,Baner,Villa,3160,15000000,4746,4,3,28,South-West,Elevator; Security; Garden; Playground; Library; Parking,6,10,47897,3.83,Premium,44.16,2025-03-17,250,Available,78,False,True,0
+PROP00616,Mumbai,Navi Mumbai,Studio,315,42034728,133443,0,1,20,South,Pool; Parking; Concierge,3,9,128022,3.65,Luxury,43.27,2025-08-25,146,Rented,131,False,False,0
+PROP00617,Mumbai,South Mumbai,Studio,353,48216090,136589,0,2,6,South,AC; Gym; Concierge; Garden,4,10,123596,3.08,Luxury,40.38,2025-04-12,124,Available,47,False,False,0
+PROP00618,Chennai,Velachery,Studio,555,10000000,18018,0,1,24,South-East,Playground; Gym; AC; Pool,4,5,29180,3.5,Premium,42.51,2025-11-16,201,Available,44,False,True,0
+PROP00619,Hyderabad,Jubilee Hills,Villa,3507,12000000,3421,4,3,21,East,Concierge; Gym; Elevator; AC; Pool; Security; Parking; Garden,8,4,49283,4.93,Premium,49.64,2026-03-17,266,Available,134,True,True,0
+PROP00620,Delhi,South Delhi,Villa,2850,40000000,14035,4,2,12,South,Elevator; Gym; Library,3,4,150811,4.52,Luxury,47.62,2026-04-08,333,Available,35,False,False,0
+PROP00621,Chennai,Kilpauk,Studio,480,10000000,20833,0,2,19,South-East,Playground; Concierge; AC; Pool; Garden,5,7,29781,3.57,Premium,42.87,2025-11-17,83,Rented,95,False,True,0
+PROP00622,Delhi,Gurgaon,Apartment,2283,40000000,17520,4,2,12,South-West,Playground; Garden; Library; AC,4,6,130154,3.9,Luxury,44.52,2025-04-12,341,Available,113,False,True,80000
+PROP00623,Bangalore,Koramangala,Villa,6656,30000000,4507,4,3,28,South-West,AC; Library; Playground; Concierge; Parking; Pool,6,10,80432,3.22,Luxury,41.09,2024-07-16,27,Available,135,True,True,0
+PROP00624,Hyderabad,Madhapur,Studio,514,12000000,23346,1,1,30,North-East,Gym; Garden; Library; Security; Playground; Pool,6,8,43612,4.36,Premium,46.81,2025-12-06,78,Sold,80,False,False,0
+PROP00625,Bangalore,HSR Layout,Villa,5986,30000000,5011,5,2,21,North,Pool; Elevator; Gym,3,6,118473,4.74,Luxury,48.69,2025-06-09,104,Rented,121,True,True,0
+PROP00626,Mumbai,Andheri,Penthouse,5584,50000000,8954,6,4,15,East,Parking; Security; AC; Gym; Concierge,5,8,137668,3.3,Luxury,41.52,2025-03-15,82,Available,134,False,False,100000
+PROP00627,Mumbai,Navi Mumbai,Villa,5644,50000000,8858,3,1,4,South-East,Concierge; Library; Elevator; Pool; Gym; Security,6,4,173740,4.17,Luxury,45.85,2025-11-09,344,Available,155,False,False,100000
+PROP00628,Delhi,South Delhi,Villa,3105,40000000,12882,5,3,29,South,Pool; Garden; Playground; Parking,4,8,165571,4.97,Luxury,49.84,2024-12-24,87,Available,136,False,False,80000
+PROP00629,Hyderabad,HITEC City,Penthouse,3192,12000000,3759,5,3,28,North-West,Gym; Garden; Security; Parking,4,10,36750,3.67,Premium,43.38,2025-08-08,338,Sold,147,True,False,24000
+PROP00630,Bangalore,Marathahalli,Apartment,2749,30000000,10913,1,2,12,North-East,Concierge; Library; AC; Gym,4,10,91781,3.67,Luxury,43.36,2024-12-06,209,Rented,138,False,True,0
+PROP00631,Chennai,Besant Nagar,Penthouse,4580,10000000,2183,5,3,8,South,Concierge; Pool; Playground,3,5,27142,3.26,Premium,41.29,2026-01-25,34,Available,125,True,True,20000
+PROP00632,Mumbai,South Mumbai,Apartment,1797,50000000,27824,1,1,18,South,Concierge; Playground; Pool; Security; Gym; AC; Elevator; Library,8,10,184854,4.44,Luxury,47.18,2026-02-10,108,Available,89,True,True,0
+PROP00633,Delhi,Pitampura,Penthouse,4578,40000000,8737,5,2,22,North,Elevator; Parking; Concierge; AC; Playground; Security,6,5,133838,4.02,Luxury,45.08,2026-02-22,74,Available,97,True,True,80000
+PROP00634,Bangalore,Koramangala,Independent House,4597,30000000,6525,3,1,12,North-East,Elevator; Security; Library; AC; Playground; Parking; Pool; Garden,8,9,111772,4.47,Luxury,47.35,2024-11-17,145,Available,94,True,True,60000
+PROP00635,Mumbai,Dadar,Independent House,4502,50000000,11106,2,2,2,North-East,Concierge; Gym; Pool; Parking; Security; Library; AC; Playground,8,7,151588,3.64,Luxury,43.19,2025-05-13,256,Sold,124,False,False,0
+PROP00636,Hyderabad,Gachibowli,Villa,3868,12000000,3102,4,2,22,North-West,Library; Concierge; AC; Parking; Garden,5,10,39287,3.93,Premium,44.64,2025-12-09,215,Available,128,True,True,0
+PROP00637,Pune,Kondhwa,Villa,5272,15000000,2845,5,2,13,East,Parking; Elevator; AC; Pool; Gym; Playground; Garden; Library,8,6,42443,3.4,Premium,41.98,2024-12-21,143,Available,170,True,True,0
+PROP00638,Hyderabad,Gachibowli,Studio,471,12000000,25477,1,1,15,West,Gym; Playground; Pool; Elevator; Parking; Garden; AC; Library,8,4,39884,3.99,Premium,44.94,2025-10-05,324,Available,108,True,False,0
+PROP00639,Chennai,Kilpauk,Studio,563,10000000,17761,0,1,16,North-West,Playground; Elevator; Parking; Concierge; Security,5,6,32451,3.89,Premium,44.47,2025-03-13,161,Available,89,False,False,0
+PROP00640,Hyderabad,HITEC City,Villa,3041,12000000,3946,5,2,22,South-East,Elevator; Garden; AC; Concierge; Security; Library; Gym,7,4,31911,3.19,Premium,40.96,2025-12-14,252,Sold,165,False,False,24000
+PROP00641,Pune,Viman Nagar,Villa,4262,15000000,3519,4,3,27,North,Concierge; Garden; AC,3,10,58120,4.65,Premium,48.25,2025-01-05,164,Available,99,False,False,30000
+PROP00642,Chennai,Velachery,Penthouse,7956,10000000,1256,4,3,23,West,Garden; AC; Security,3,5,32049,3.85,Premium,44.23,2026-05-03,152,Available,66,True,True,0
+PROP00643,Mumbai,Andheri,Studio,325,50000000,153846,1,2,17,North-East,Elevator; Concierge; Playground; Gym,4,5,141481,3.4,Luxury,41.98,2024-08-31,66,Available,180,False,True,100000
+PROP00644,Mumbai,Andheri,Penthouse,6908,50000000,7237,5,2,10,South-East,Library; AC; Gym; Playground; Garden; Parking; Elevator; Concierge,8,8,188377,4.52,Luxury,47.61,2024-07-24,21,Available,175,True,True,0
+PROP00645,Mumbai,South Mumbai,Villa,3241,50000000,15427,3,1,30,South,Garden; Pool; Playground; Parking; Library; Gym; Elevator; AC,8,10,170425,4.09,Luxury,45.45,2024-11-23,356,Available,131,True,True,100000
+PROP00646,Pune,Hinjewadi,Apartment,1468,15000000,10217,2,1,1,North,AC; Gym; Elevator; Playground; Library; Pool; Garden; Concierge,8,5,43316,3.47,Premium,42.33,2025-12-09,164,Rented,158,False,False,0
+PROP00647,Mumbai,Borivali,Independent House,3516,50000000,14220,2,2,17,West,Gym; Garden; Elevator,3,8,165955,3.98,Luxury,44.91,2025-05-22,261,Sold,124,True,False,100000
+PROP00648,Bangalore,Marathahalli,Apartment,2970,30000000,10101,3,2,17,North-East,AC; Library; Parking; Elevator; Pool,5,9,91352,3.65,Luxury,43.27,2025-08-21,232,Available,103,True,False,0
+PROP00649,Bangalore,Koramangala,Apartment,570,30000000,52631,4,2,23,North-East,Garden; Security; Elevator; AC,4,10,77718,3.11,Luxury,40.54,2024-08-11,112,Available,94,True,False,60000
+PROP00650,Bangalore,Koramangala,Independent House,2345,30000000,12793,5,3,23,North-East,Concierge; Library; Parking; Garden; AC,5,4,108351,4.33,Luxury,46.67,2025-09-02,16,Available,30,True,True,0
+PROP00651,Mumbai,Andheri,Studio,445,50000000,112359,0,1,1,South,Garden; Elevator; Library; Playground; Parking,5,4,179468,4.31,Luxury,46.54,2025-07-14,73,Sold,107,False,False,100000
+PROP00652,Mumbai,Navi Mumbai,Apartment,2351,50000000,21267,2,1,3,North-East,Garden; Concierge; Security,3,5,171935,4.13,Luxury,45.63,2026-03-11,34,Sold,85,False,False,100000
+PROP00653,Mumbai,Dadar,Studio,488,50000000,102459,1,1,0,North-East,Gym; Pool; Security; Playground; Parking; Garden; AC,7,7,147663,3.54,Luxury,42.72,2025-11-03,333,Available,30,True,False,0
+PROP00654,Bangalore,HSR Layout,Apartment,1573,30000000,19071,3,1,19,South-East,Concierge; Elevator; Parking; AC; Playground,5,6,102038,4.08,Luxury,45.41,2025-06-20,90,Sold,134,False,False,0
+PROP00655,Delhi,Noida,Villa,7510,40000000,5326,6,4,11,North-West,Pool; Security; Parking; Concierge; Library; Garden,6,6,157453,4.72,Luxury,48.62,2025-11-27,321,Rented,159,True,False,80000
+PROP00656,Hyderabad,Madhapur,Villa,7678,12000000,1562,6,3,26,North,Pool; AC; Gym; Security; Concierge; Library,6,9,41008,4.1,Premium,45.5,2025-11-27,251,Sold,115,True,False,0
+PROP00657,Hyderabad,Banjara Hills,Penthouse,8381,12000000,1431,5,2,18,North-West,Library; Pool; Garden; Playground; Elevator,5,10,43878,4.39,Premium,46.94,2025-11-03,56,Sold,159,False,True,24000
+PROP00658,Chennai,Besant Nagar,Villa,5326,10000000,1877,5,2,17,East,Pool; Garden; Gym; Concierge; Library; Parking; Playground; AC,8,4,36341,4.36,Premium,46.8,2026-03-07,184,Available,138,False,True,0
+PROP00659,Delhi,Dwarka,Independent House,2353,40000000,16999,4,3,19,North,Concierge; Gym; Elevator; AC; Garden; Parking; Security,7,10,131573,3.95,Luxury,44.74,2025-04-17,217,Sold,55,False,False,80000
+PROP00660,Pune,Baner,Studio,294,15000000,51020,1,2,17,North-West,Pool; Garden; Elevator,3,4,45934,3.67,Premium,43.37,2024-09-03,159,Rented,112,False,True,0
+PROP00661,Mumbai,South Mumbai,Villa,6861,50000000,7287,3,2,2,North-East,Parking; Concierge; Security; Playground; AC; Garden; Gym,7,7,183184,4.4,Luxury,46.98,2024-12-28,84,Available,105,True,False,0
+PROP00662,Pune,Baner,Villa,2629,15000000,5705,4,3,15,South-West,Gym; Library; Parking; AC,4,8,42066,3.37,Premium,41.83,2025-05-31,118,Rented,156,False,True,30000
+PROP00663,Bangalore,Koramangala,Villa,6957,30000000,4312,3,2,15,South,Library; Gym; Playground; Concierge; Security,5,7,76676,3.07,Luxury,40.34,2025-02-22,34,Available,47,True,False,0
+PROP00664,Pune,Viman Nagar,Penthouse,4992,15000000,3004,4,2,0,South-East,Pool; Parking; Garden; Concierge,4,7,49446,3.96,Premium,44.78,2024-07-11,287,Available,59,True,True,30000
+PROP00665,Bangalore,Indiranagar,Villa,7746,30000000,3872,6,3,11,North-East,AC; Gym; Pool,3,5,75442,3.02,Luxury,40.09,2025-12-25,110,Available,152,True,False,0
+PROP00666,Pune,Hinjewadi,Apartment,1106,15000000,13562,4,2,4,East,Parking; AC; Elevator; Library; Gym; Garden; Playground; Concierge,8,5,56335,4.51,Premium,47.53,2024-08-12,209,Available,97,True,False,30000
+PROP00667,Delhi,Dwarka,Apartment,1188,40000000,33670,3,2,14,West,Garden; Parking; Concierge; Security; Library; Elevator; Pool,7,4,119175,3.58,Luxury,42.88,2026-02-27,34,Available,136,True,True,80000
+PROP00668,Delhi,Noida,Studio,393,40000000,101781,1,2,9,South-West,Elevator; Playground; Security; Library; Garden; Concierge; AC,7,9,155967,4.68,Luxury,48.4,2024-09-18,71,Sold,176,False,False,80000
+PROP00669,Chennai,Thiruvanmiyur,Independent House,3682,10000000,2715,2,2,20,West,Security; Elevator; Garden; Parking; Library,5,6,30808,3.7,Premium,43.48,2025-07-05,347,Available,162,False,False,0
+PROP00670,Hyderabad,Banjara Hills,Villa,7022,12000000,1708,4,3,6,North-East,Playground; AC; Elevator; Pool; Garden; Security; Library; Gym,8,5,34114,3.41,Premium,42.06,2024-08-04,192,Sold,157,True,False,0
+PROP00671,Chennai,Besant Nagar,Penthouse,6760,10000000,1479,6,4,4,South-West,Elevator; Pool; Security; Gym; Garden,5,7,28148,3.38,Premium,41.89,2025-08-27,299,Rented,170,False,False,20000
+PROP00672,Delhi,South Delhi,Studio,571,40000000,70052,1,1,15,South-East,Library; Playground; Pool; Concierge; Elevator; Gym,6,6,166279,4.99,Luxury,49.94,2026-04-02,281,Sold,57,False,True,80000
+PROP00673,Chennai,T Nagar,Studio,354,10000000,28248,0,1,0,South-West,Playground; Security; AC,3,6,28673,3.44,Premium,42.2,2024-09-03,182,Available,171,True,True,20000
+PROP00674,Hyderabad,Kondapur,Independent House,4622,12000000,2596,3,1,25,North-East,Garden; AC; Gym; Pool; Concierge; Security,6,5,32491,3.25,Premium,41.25,2025-09-04,236,Sold,91,True,True,24000
+PROP00675,Delhi,South Delhi,Apartment,1378,40000000,29027,3,2,18,North-West,Library; Concierge; Garden; Pool; Gym; Playground; AC,7,10,149277,4.48,Luxury,47.39,2025-04-16,12,Rented,127,False,True,0
+PROP00676,Pune,Camp,Independent House,2819,15000000,5321,2,2,16,East,Library; Concierge; Garden; Parking; Pool; Gym; AC,7,6,42678,3.41,Premium,42.07,2025-06-27,149,Available,93,True,False,0
+PROP00677,Mumbai,Navi Mumbai,Penthouse,4999,50000000,10002,6,3,14,North-West,Gym; Library; Playground; Parking; Garden; Elevator; Concierge; Pool,8,6,132455,3.18,Luxury,40.89,2025-08-26,134,Available,123,False,True,100000
+PROP00678,Bangalore,Marathahalli,Penthouse,7907,30000000,3794,6,3,27,West,Library; Playground; Gym,3,8,120792,4.83,Luxury,49.16,2026-02-09,129,Sold,42,True,False,0
+PROP00679,Bangalore,Indiranagar,Villa,5570,30000000,5385,5,2,7,North,Security; Parking; Pool; Concierge; Gym; Elevator,6,7,114155,4.57,Luxury,47.83,2025-11-15,86,Available,138,True,True,60000
+PROP00680,Hyderabad,Gachibowli,Apartment,675,12000000,17777,1,2,26,South-East,AC; Pool; Concierge; Security,4,4,33054,3.31,Premium,41.53,2025-11-04,88,Available,113,False,True,24000
+PROP00681,Pune,Hinjewadi,Villa,2396,15000000,6260,6,3,27,West,Garden; Playground; Security; Elevator,4,9,55255,4.42,Premium,47.1,2024-05-14,35,Available,40,False,True,30000
+PROP00682,Delhi,Dwarka,Penthouse,9544,40000000,4191,5,3,17,North-East,Library; AC; Concierge; Playground; Security; Parking; Garden,7,5,127178,3.82,Luxury,44.08,2024-12-15,106,Rented,39,True,False,0
+PROP00683,Mumbai,Borivali,Studio,445,50000000,112359,1,2,11,North,Playground; Concierge; Garden,3,8,189589,4.55,Luxury,47.75,2025-12-15,333,Available,65,False,False,100000
+PROP00684,Bangalore,Whitefield,Villa,5596,30000000,5360,5,3,12,North,Concierge; Playground; Garden; Elevator; Pool; Library,6,6,82276,3.29,Luxury,41.46,2024-07-28,28,Rented,125,False,False,0
+PROP00685,Chennai,Thiruvanmiyur,Apartment,2850,10000000,3508,3,2,26,South-East,AC; Concierge; Gym; Library; Garden; Elevator; Parking,7,4,40366,4.84,Premium,49.22,2025-11-26,365,Available,67,False,True,20000
+PROP00686,Hyderabad,Madhapur,Penthouse,6041,12000000,1986,4,3,12,North-East,Elevator; Concierge; Playground; Security; Parking,5,7,46024,4.6,Premium,48.01,2024-09-22,222,Available,154,True,True,24000
+PROP00687,Pune,Magarpatta,Studio,575,15000000,26086,1,1,4,West,Pool; Library; Security; Garden,4,8,45072,3.61,Premium,43.03,2025-12-29,214,Available,79,True,False,0
+PROP00688,Bangalore,Whitefield,Apartment,1069,30000000,28063,1,2,23,South,Pool; Garden; Concierge; Elevator; Playground; AC,6,6,97980,3.92,Luxury,44.6,2025-05-29,133,Sold,150,False,False,60000
+PROP00689,Chennai,T Nagar,Penthouse,7260,10000000,1377,6,4,25,North-East,Garden; Elevator; Gym; AC; Library; Parking; Security,7,8,37071,4.45,Premium,47.24,2025-03-26,132,Available,106,True,True,20000
+PROP00690,Bangalore,Koramangala,Studio,328,30000000,91463,0,2,13,North-West,Library; Elevator; Playground; Parking; Gym; Pool; Security; AC,8,4,108144,4.33,Luxury,46.63,2025-06-27,208,Rented,141,False,True,0
+PROP00691,Pune,Baner,Independent House,3017,15000000,4971,2,2,7,North-East,Concierge; Library; Garden; Elevator; AC; Pool,6,6,57613,4.61,Premium,48.05,2025-06-04,43,Available,126,True,True,30000
+PROP00692,Chennai,Anna Nagar,Villa,6426,10000000,1556,6,4,28,North-West,Parking; Gym; AC,3,10,27224,3.27,Premium,41.33,2025-05-04,342,Sold,121,True,True,20000
+PROP00693,Delhi,Noida,Apartment,559,40000000,71556,1,1,19,North-West,Garden; Parking; Library,3,4,139558,4.19,Luxury,45.93,2024-08-22,71,Sold,102,True,False,0
+PROP00694,Bangalore,HSR Layout,Penthouse,3787,30000000,7921,5,2,22,North-West,Gym; Library; Playground; Concierge; Pool,5,9,92937,3.72,Luxury,43.59,2024-12-09,215,Available,132,True,False,0
+PROP00695,Bangalore,Koramangala,Studio,326,30000000,92024,0,1,2,South,Elevator; Pool; Parking,3,6,81305,3.25,Luxury,41.26,2026-02-28,297,Available,111,True,False,0
+PROP00696,Pune,Baner,Penthouse,8975,15000000,1671,6,4,29,South,Garden; Concierge; Gym; Parking; Pool; Elevator; Playground; Security,8,10,58528,4.68,Premium,48.41,2025-08-29,238,Available,157,False,False,0
+PROP00697,Bangalore,Indiranagar,Studio,587,30000000,51107,1,1,0,South-East,Security; Library; Pool; Garden,4,7,119210,4.77,Luxury,48.84,2025-09-11,104,Available,101,True,False,60000
+PROP00698,Mumbai,Navi Mumbai,Independent House,4413,50000000,11330,4,3,10,West,Pool; Concierge; Garden,3,7,181696,4.36,Luxury,46.8,2024-12-13,303,Available,165,True,False,100000
+PROP00699,Pune,Kondhwa,Penthouse,7482,15000000,2004,5,3,1,South,Playground; Gym; Library; Security; Elevator,5,8,59455,4.76,Premium,48.78,2025-01-25,119,Rented,176,False,True,0
+PROP00700,Delhi,Noida,Apartment,1339,40000000,29873,3,2,8,West,AC; Garden; Gym,3,4,129949,3.9,Luxury,44.49,2025-04-03,141,Available,49,False,True,0
+PROP00701,Hyderabad,Gachibowli,Apartment,2434,12000000,4930,2,2,24,East,Garden; Library; Playground,3,6,34005,3.4,Premium,42.0,2024-06-12,246,Available,92,True,True,24000
+PROP00702,Chennai,T Nagar,Independent House,2192,10000000,4562,4,3,13,South,Library; Garden; Parking; Concierge,4,9,29812,3.58,Premium,42.89,2024-11-05,40,Sold,47,True,True,20000
+PROP00703,Bangalore,Whitefield,Independent House,2233,30000000,13434,2,2,10,South,AC; Elevator; Concierge,3,4,105718,4.23,Luxury,46.14,2026-02-18,91,Available,120,False,True,0
+PROP00704,Chennai,Anna Nagar,Penthouse,9589,10000000,1042,4,2,5,South-East,Playground; Parking; Garden; Concierge,4,8,39225,4.71,Premium,48.54,2025-02-26,109,Available,133,True,True,0
+PROP00705,Hyderabad,Gachibowli,Apartment,1328,12000000,9036,4,3,12,West,Playground; Garden; Gym; Concierge; AC,5,9,37108,3.71,Premium,43.55,2024-07-03,213,Rented,116,True,False,0
+PROP00706,Mumbai,Bandra,Apartment,2835,50000000,17636,1,1,15,South-East,AC; Elevator; Playground; Gym; Security; Library,6,10,169756,4.07,Luxury,45.37,2025-03-05,29,Available,57,False,True,0
+PROP00707,Pune,Hinjewadi,Independent House,2892,15000000,5186,5,2,16,South-West,Pool; Concierge; Security; Playground; Parking,5,4,62031,4.96,Premium,49.81,2025-06-13,269,Available,65,True,False,30000
+PROP00708,Mumbai,Andheri,Independent House,2803,50000000,17838,2,1,18,North-East,Elevator; Pool; Garden; Gym,4,4,188386,4.52,Luxury,47.61,2024-11-06,296,Rented,170,False,False,100000
+PROP00709,Pune,Baner,Independent House,3221,15000000,4656,2,2,8,North,Gym; Parking; Pool; Elevator; Security; Library; Playground; Concierge,8,5,46528,3.72,Premium,43.61,2024-11-06,127,Available,173,True,False,30000
+PROP00710,Bangalore,HSR Layout,Penthouse,8740,30000000,3432,4,2,15,North,Parking; Elevator; Garden; Concierge,4,10,118753,4.75,Luxury,48.75,2024-10-01,253,Sold,78,True,True,0
+PROP00711,Bangalore,Marathahalli,Studio,348,30000000,86206,1,2,4,South,Elevator; Library; Security; Parking; Pool; Concierge,6,4,87749,3.51,Luxury,42.55,2024-09-02,303,Available,133,True,False,60000
+PROP00712,Hyderabad,Madhapur,Penthouse,3982,12000000,3013,6,3,4,West,Gym; Garden; AC; Playground; Elevator; Library; Concierge; Security,8,9,32252,3.23,Premium,41.13,2026-05-12,357,Sold,58,True,False,24000
+PROP00713,Delhi,Gurgaon,Studio,323,30397515,94109,0,1,27,North-East,Playground; Library; AC; Elevator; Security,5,7,86204,3.4,Luxury,42.02,2024-08-02,97,Available,120,True,False,0
+PROP00714,Delhi,Dwarka,Apartment,1432,40000000,27932,1,2,14,North-East,Gym; Elevator; Concierge; Security,4,6,107361,3.22,Luxury,41.1,2025-07-24,219,Available,75,True,False,80000
+PROP00715,Hyderabad,Banjara Hills,Independent House,2741,12000000,4377,3,2,6,East,Security; Concierge; Library; Parking; Pool; Garden; Playground; Elevator,8,8,34688,3.47,Premium,42.34,2025-01-02,329,Available,160,True,True,0
+PROP00716,Chennai,Besant Nagar,Penthouse,5087,10000000,1965,6,3,8,North-East,AC; Security; Library; Gym; Concierge; Elevator; Playground; Garden,8,10,29071,3.49,Premium,42.44,2024-06-29,272,Rented,177,True,False,20000
+PROP00717,Bangalore,Whitefield,Independent House,4647,30000000,6455,5,3,0,North-East,Garden; Parking; Pool; Playground; AC; Elevator,6,9,88597,3.54,Luxury,42.72,2025-10-22,289,Sold,174,False,True,0
+PROP00718,Pune,Camp,Villa,4006,15000000,3744,5,2,27,North-West,Playground; Concierge; Garden; Security; Parking,5,4,61437,4.91,Premium,49.57,2026-04-28,71,Sold,174,True,False,30000
+PROP00719,Bangalore,Jayanagar,Studio,523,30000000,57361,0,1,21,South,Concierge; Parking; Garden; Playground; Pool; Library; AC,7,6,75584,3.02,Luxury,40.12,2024-09-20,231,Available,180,True,True,0
+PROP00720,Bangalore,Marathahalli,Apartment,783,30000000,38314,3,1,1,North-West,Security; AC; Parking; Playground; Library; Gym,6,4,85817,3.43,Luxury,42.16,2025-03-19,258,Rented,52,True,False,60000
+PROP00721,Pune,Kondhwa,Independent House,2961,15000000,5065,5,2,0,North,Pool; Gym; Security; Elevator; Library; Playground; Concierge; Parking,8,6,42396,3.39,Premium,41.96,2025-10-12,32,Available,147,False,True,30000
+PROP00722,Mumbai,South Mumbai,Villa,5003,50000000,9994,5,3,4,East,Pool; Parking; Concierge; Garden; Gym; Elevator; AC; Playground,8,5,199408,4.79,Luxury,48.93,2026-01-23,38,Available,84,True,False,100000
+PROP00723,Pune,Hinjewadi,Villa,4180,15000000,3588,5,3,5,North-East,AC; Garden; Concierge; Elevator; Pool; Security; Library,7,6,52657,4.21,Premium,46.06,2026-04-24,275,Available,126,False,True,30000
+PROP00724,Chennai,Velachery,Apartment,1341,10000000,7457,1,2,12,West,Elevator; Parking; Gym; Security; Pool; Library; Playground; Concierge,8,4,33473,4.02,Premium,45.08,2024-08-31,276,Available,91,True,False,20000
+PROP00725,Delhi,Noida,Independent House,3748,40000000,10672,3,1,1,East,Concierge; Garden; Parking; Library; Pool; Gym,6,9,104762,3.14,Luxury,40.71,2024-08-03,236,Available,112,True,False,0
+PROP00726,Mumbai,South Mumbai,Apartment,511,50000000,97847,1,1,2,North-West,Parking; Pool; AC; Playground; Concierge,5,4,133188,3.2,Luxury,40.98,2024-11-09,77,Sold,36,False,False,0
+PROP00727,Chennai,Anna Nagar,Penthouse,8288,10000000,1206,5,3,8,North-West,Pool; AC; Parking; Security,4,10,33703,4.04,Premium,45.22,2026-02-25,257,Available,103,True,False,0
+PROP00728,Pune,Baner,Penthouse,6560,15000000,2286,5,2,1,South,Gym; Elevator; Security; Pool; Garden; Parking; Concierge,7,7,50397,4.03,Premium,45.16,2024-11-18,63,Available,174,True,False,30000
+PROP00729,Delhi,Rohini,Villa,4634,40000000,8631,5,2,11,North,Parking; Library; Gym; Security; Playground,5,8,103535,3.11,Luxury,40.53,2025-10-14,236,Available,172,False,True,80000
+PROP00730,Bangalore,Whitefield,Apartment,1496,30000000,20053,1,1,27,North-East,Security; AC; Pool; Elevator; Library; Gym,6,7,87933,3.52,Luxury,42.59,2024-07-24,128,Available,157,True,False,60000
+PROP00731,Hyderabad,Gachibowli,Apartment,2037,12000000,5891,3,1,4,North-East,Pool; Parking; Library; Security; Playground; AC; Elevator; Concierge,8,10,33171,3.32,Premium,41.59,2025-09-08,189,Rented,63,False,True,24000
+PROP00732,Delhi,Noida,Apartment,2292,40000000,17452,1,2,9,South-West,Library; Parking; Playground; Elevator; AC; Concierge; Gym; Garden,8,9,148074,4.44,Luxury,47.21,2025-05-02,151,Available,77,True,True,80000
+PROP00733,Pune,Viman Nagar,Independent House,3184,15000000,4711,4,3,16,West,AC; Elevator; Gym; Library; Pool; Concierge; Parking,7,6,50024,4.0,Premium,45.01,2025-11-13,69,Sold,114,False,True,0
+PROP00734,Mumbai,Andheri,Apartment,1593,50000000,31387,2,1,29,North-East,Garden; Playground; Elevator; Library,4,5,198623,4.77,Luxury,48.83,2026-01-09,53,Available,66,True,True,0
+PROP00735,Hyderabad,Banjara Hills,Apartment,2629,12000000,4564,1,1,7,West,Pool; Garden; Concierge; Elevator; Library; AC; Parking,7,4,38132,3.81,Premium,44.07,2026-04-09,255,Sold,159,False,False,24000
+PROP00736,Pune,Camp,Studio,532,15000000,28195,0,1,29,South,Garden; Gym; AC; Security,4,8,47875,3.83,Premium,44.15,2024-10-29,7,Available,164,True,False,0
+PROP00737,Pune,Kondhwa,Studio,385,15000000,38961,1,1,30,North,Library; Gym; Garden; Concierge; Parking; Security; Playground; AC,8,9,52592,4.21,Premium,46.04,2026-01-08,147,Rented,177,True,False,30000
+PROP00738,Bangalore,Jayanagar,Penthouse,6910,30000000,4341,5,2,18,East,Library; Garden; Parking; Elevator,4,5,105328,4.21,Luxury,46.07,2024-12-13,141,Available,145,False,False,0
+PROP00739,Mumbai,South Mumbai,Independent House,1649,50000000,30321,4,2,16,North-West,Library; Gym; Playground; Concierge; AC; Parking; Pool,7,4,160722,3.86,Luxury,44.29,2026-03-28,66,Available,59,False,True,100000
+PROP00740,Bangalore,Whitefield,Penthouse,4664,30000000,6432,5,3,12,South-East,Pool; Gym; Library; Elevator; Playground; Garden; AC,7,6,85642,3.43,Luxury,42.13,2025-11-16,183,Sold,117,True,False,60000
+PROP00741,Pune,Camp,Apartment,2388,15000000,6281,4,3,24,West,Parking; Garden; Security; Elevator; Playground; Gym; Concierge,7,10,51363,4.11,Premium,45.55,2024-11-20,176,Rented,79,False,True,0
+PROP00742,Chennai,Kilpauk,Penthouse,4118,10000000,2428,5,2,6,South-East,Playground; Pool; Gym; Concierge,4,8,36566,4.39,Premium,46.94,2024-09-01,290,Sold,124,True,False,0
+PROP00743,Hyderabad,Madhapur,Apartment,2255,12000000,5321,3,1,12,South,Elevator; Library; AC; Concierge; Playground; Parking; Garden,7,8,35910,3.59,Premium,42.95,2024-11-12,327,Sold,128,True,True,0
+PROP00744,Hyderabad,Jubilee Hills,Independent House,1587,12000000,7561,4,2,30,West,Garden; Pool; Parking; Library,4,8,32825,3.28,Premium,41.41,2025-02-28,209,Available,44,True,False,24000
+PROP00745,Pune,Kondhwa,Apartment,2272,15000000,6602,4,2,20,West,Parking; Garden; Security; Concierge; Playground; Pool,6,8,54063,4.33,Premium,46.63,2025-05-09,337,Sold,65,True,False,30000
+PROP00746,Delhi,Dwarka,Apartment,983,40000000,40691,4,3,0,North-East,Parking; Library; Playground; Security; Concierge; Pool; Garden,7,7,136707,4.1,Luxury,45.51,2024-10-05,111,Available,48,True,False,0
+PROP00747,Mumbai,Navi Mumbai,Villa,3558,50000000,14052,5,3,29,South-West,Security; Garden; Elevator,3,6,145050,3.48,Luxury,42.41,2025-06-30,16,Sold,40,True,False,100000
+PROP00748,Mumbai,South Mumbai,Penthouse,6557,50000000,7625,6,4,29,West,Pool; Gym; Elevator; Library; Garden; Security,6,10,180692,4.34,Luxury,46.68,2024-08-26,25,Available,36,True,False,100000
+PROP00749,Hyderabad,Gachibowli,Independent House,1828,12000000,6564,4,2,27,North-West,Playground; Gym; Concierge; Garden; Pool; Security; Elevator; Parking,8,5,42539,4.25,Premium,46.27,2026-03-24,139,Sold,101,True,False,0
+PROP00750,Pune,Camp,Independent House,3100,15000000,4838,3,1,22,East,Parking; Library; AC; Playground; Pool; Security,6,7,51386,4.11,Premium,45.55,2026-02-09,197,Sold,151,True,True,30000
+PROP00751,Delhi,South Delhi,Studio,518,40000000,77220,1,1,6,East,Garden; Concierge; Elevator; Gym,4,7,120946,3.63,Luxury,43.14,2025-11-20,240,Available,57,True,False,80000
+PROP00752,Bangalore,Koramangala,Apartment,721,30000000,41608,2,1,12,South-East,Garden; Library; Elevator,3,7,99787,3.99,Luxury,44.96,2024-10-04,98,Rented,61,True,False,60000
+PROP00753,Chennai,Kilpauk,Independent House,2757,10000000,3627,4,2,23,South-West,Elevator; Playground; Gym; Pool,4,6,25716,3.09,Premium,40.43,2026-02-07,122,Available,43,False,True,0
+PROP00754,Mumbai,Dadar,Studio,523,50000000,95602,0,1,28,East,Concierge; AC; Parking; Pool; Gym; Playground,6,5,198181,4.76,Luxury,48.78,2024-09-18,322,Available,56,True,False,0
+PROP00755,Bangalore,Marathahalli,Penthouse,5786,30000000,5184,6,4,25,East,Elevator; Concierge; Garden; Library; AC; Pool; Security; Gym,8,5,124795,4.99,Luxury,49.96,2025-03-22,231,Available,176,True,False,0
+PROP00756,Pune,Kondhwa,Apartment,2257,15000000,6645,4,2,12,North,Garden; Library; Parking; AC; Gym; Concierge,6,5,41090,3.29,Premium,41.44,2024-07-09,323,Sold,87,False,False,30000
+PROP00757,Mumbai,Dadar,Independent House,1560,50000000,32051,4,3,29,South,Security; Library; Parking,3,8,189174,4.54,Luxury,47.7,2025-11-17,168,Available,65,False,False,100000
+PROP00758,Hyderabad,Kondapur,Penthouse,9328,12000000,1286,6,4,7,East,Elevator; AC; Security; Library; Concierge; Gym,6,8,48371,4.84,Premium,49.19,2025-06-10,340,Sold,88,False,False,0
+PROP00759,Chennai,Velachery,Independent House,3980,10000000,2512,4,2,20,North-West,Security; Playground; Concierge,3,7,37519,4.5,Premium,47.51,2026-04-08,183,Sold,53,True,True,0
+PROP00760,Pune,Viman Nagar,Studio,350,15000000,42857,0,1,29,North-West,Concierge; Security; Library; Elevator; Gym; AC; Playground,7,10,50804,4.06,Premium,45.32,2025-04-16,224,Available,177,False,True,30000
+PROP00761,Delhi,Rohini,Penthouse,4606,40000000,8684,5,2,25,North,AC; Playground; Gym; Garden; Elevator; Pool; Security; Library,8,6,158868,4.77,Luxury,48.83,2024-07-04,196,Rented,129,False,False,80000
+PROP00762,Mumbai,Navi Mumbai,Apartment,1087,50000000,45998,3,1,24,South-West,Playground; Elevator; Security; Parking; Pool; Concierge; Garden; AC,8,9,154418,3.71,Luxury,43.53,2024-08-26,325,Available,93,True,False,0
+PROP00763,Bangalore,Koramangala,Penthouse,7690,30000000,3901,4,3,12,South-East,Security; Pool; Playground; AC,4,6,121608,4.86,Luxury,49.32,2025-11-13,86,Rented,129,True,False,60000
+PROP00764,Chennai,Velachery,Independent House,3669,10000000,2725,4,2,7,North-East,Pool; AC; Library; Parking; Concierge; Gym; Garden,7,8,40826,4.9,Premium,49.5,2024-10-19,250,Available,112,False,False,20000
+PROP00765,Mumbai,Bandra,Independent House,4072,50000000,12278,2,1,29,North,Concierge; Elevator; Parking,3,6,194418,4.67,Luxury,48.33,2025-06-07,45,Available,39,False,True,0
+PROP00766,Delhi,South Delhi,Independent House,2702,40000000,14803,5,2,10,South-East,Garden; Pool; Elevator; Playground; AC,5,10,114297,3.43,Luxury,42.14,2025-03-11,50,Available,164,True,False,0
+PROP00767,Delhi,South Delhi,Apartment,2942,40000000,13596,3,1,22,South,Pool; Security; Elevator; Gym; Parking; Concierge; Garden; AC,8,9,134914,4.05,Luxury,45.24,2024-10-17,245,Available,63,True,False,0
+PROP00768,Bangalore,Koramangala,Penthouse,7315,30000000,4101,6,4,12,North,Parking; Playground; Library; Garden,4,10,118201,4.73,Luxury,48.64,2024-09-24,276,Available,145,False,False,0
+PROP00769,Bangalore,Koramangala,Studio,422,30000000,71090,1,2,17,East,Playground; Library; Elevator; AC; Parking; Security; Concierge; Gym,8,10,105719,4.23,Luxury,46.14,2026-01-13,171,Rented,139,True,True,60000
+PROP00770,Mumbai,South Mumbai,Villa,4513,50000000,11079,5,2,18,South,Garden; Pool; Elevator; AC; Playground; Gym; Parking; Library,8,5,151998,3.65,Luxury,43.24,2025-01-07,285,Available,138,True,True,0
+PROP00771,Delhi,Noida,Penthouse,7299,40000000,5480,6,4,12,North-West,Elevator; Concierge; Parking; Garden; Playground; Pool; Library,7,5,152588,4.58,Luxury,47.89,2025-07-19,67,Sold,31,False,True,0
+PROP00772,Delhi,Gurgaon,Apartment,2553,40000000,15667,2,1,22,East,Pool; Parking; Garden; Library; Gym; Elevator; Security,7,4,143009,4.29,Luxury,46.45,2024-08-11,194,Available,45,True,True,80000
+PROP00773,Pune,Magarpatta,Studio,331,15000000,45317,0,2,11,South-West,AC; Parking; Concierge,3,5,39677,3.17,Premium,40.87,2025-02-02,246,Available,119,False,False,0
+PROP00774,Chennai,Besant Nagar,Penthouse,8142,10000000,1228,5,3,4,North-West,Parking; Gym; Playground; Pool; Security; AC,6,7,35961,4.32,Premium,46.58,2025-09-10,282,Sold,43,True,False,20000
+PROP00775,Chennai,Thiruvanmiyur,Villa,2518,10000000,3971,6,3,6,East,Garden; Parking; Gym; AC; Pool; Playground,6,7,34447,4.13,Premium,45.67,2024-08-23,52,Available,73,False,False,20000
+PROP00776,Chennai,Besant Nagar,Villa,6531,10000000,1531,4,2,28,West,Playground; Elevator; Garden; Library,4,7,40661,4.88,Premium,49.4,2025-08-14,253,Available,148,True,True,0
+PROP00777,Delhi,Gurgaon,Apartment,2738,40000000,14609,3,2,27,North-West,Elevator; Concierge; Pool; AC; Garden,5,4,138069,4.14,Luxury,45.71,2025-02-18,127,Available,114,False,False,80000
+PROP00778,Bangalore,Jayanagar,Independent House,2066,30000000,14520,3,1,4,South-West,Pool; Parking; Playground,3,5,111305,4.45,Luxury,47.26,2026-03-20,23,Available,39,False,False,0
+PROP00779,Hyderabad,Kondapur,Penthouse,7660,12000000,1566,5,3,21,West,Playground; AC; Elevator; Pool,4,10,37886,3.79,Premium,43.94,2026-03-13,104,Sold,40,True,False,0
+PROP00780,Bangalore,Jayanagar,Apartment,2745,30000000,10928,3,1,14,South,Playground; Parking; Garden,3,9,82460,3.3,Luxury,41.49,2024-09-30,179,Available,180,True,True,0
+PROP00781,Bangalore,Jayanagar,Independent House,4177,30000000,7182,3,1,19,West,Gym; Library; Concierge; Elevator,4,5,99993,4.0,Luxury,45.0,2024-08-29,25,Rented,131,True,True,60000
+PROP00782,Bangalore,Koramangala,Apartment,2285,30000000,13129,4,3,24,South-West,Parking; Gym; Pool; Security; Playground; AC; Library; Garden,8,8,81475,3.26,Luxury,41.3,2025-11-10,229,Available,38,True,False,0
+PROP00783,Bangalore,Koramangala,Penthouse,9117,30000000,3290,6,3,1,West,Elevator; Garden; Library; AC; Parking,5,9,108016,4.32,Luxury,46.6,2025-02-02,267,Sold,107,True,True,0
+PROP00784,Bangalore,Whitefield,Apartment,1565,30000000,19169,1,2,20,East,Parking; Playground; Gym; Security; AC; Elevator; Pool,7,8,93778,3.75,Luxury,43.76,2026-04-27,359,Sold,79,False,False,0
+PROP00785,Mumbai,Navi Mumbai,Apartment,1279,50000000,39093,3,1,24,East,Elevator; Concierge; Gym; Library; AC; Pool; Garden; Playground,8,8,160321,3.85,Luxury,44.24,2025-05-12,199,Available,123,False,True,100000
+PROP00786,Mumbai,Andheri,Apartment,1039,50000000,48123,1,1,15,East,Library; Pool; Playground,3,8,171460,4.12,Luxury,45.58,2025-08-03,227,Available,45,True,False,0
+PROP00787,Hyderabad,Jubilee Hills,Studio,366,12000000,32786,0,1,27,East,AC; Pool; Playground; Parking; Library,5,9,43688,4.37,Premium,46.84,2024-07-26,17,Available,103,True,True,24000
+PROP00788,Mumbai,Borivali,Independent House,3161,50000000,15817,5,3,11,South-East,Security; Pool; Playground; Garden; Elevator; Parking,6,10,195292,4.69,Luxury,48.44,2025-09-04,71,Available,57,False,False,0
+PROP00789,Mumbai,South Mumbai,Apartment,2673,50000000,18705,1,1,25,South,Pool; Gym; Garden; AC; Playground; Concierge; Elevator,7,7,148014,3.55,Luxury,42.76,2026-02-11,22,Available,162,True,True,0
+PROP00790,Pune,Baner,Villa,6855,15000000,2188,3,1,10,South,Gym; Concierge; Pool; AC; Security; Elevator; Garden; Library,8,4,49048,3.92,Premium,44.62,2025-09-22,185,Available,103,False,False,0
+PROP00791,Bangalore,Jayanagar,Villa,2935,30000000,10221,4,2,0,South-West,Library; Parking; Playground; Security; Elevator; AC; Garden,7,4,104808,4.19,Luxury,45.96,2024-12-22,3,Available,173,False,True,60000
+PROP00792,Hyderabad,Banjara Hills,Villa,5600,12000000,2142,5,3,28,West,Library; Parking; Pool; AC; Security; Gym,6,4,43989,4.4,Premium,46.99,2025-01-13,207,Available,98,False,False,24000
+PROP00793,Delhi,Noida,Penthouse,3204,40000000,12484,4,2,1,North,Elevator; Concierge; AC; Gym; Parking; Library,6,8,117512,3.53,Luxury,42.63,2025-09-15,289,Available,47,False,True,0
+PROP00794,Bangalore,HSR Layout,Apartment,1697,30000000,17678,2,1,8,South-West,Elevator; AC; Gym; Library; Security; Parking; Garden,7,9,101459,4.06,Luxury,45.29,2024-12-26,102,Sold,46,False,False,60000
+PROP00795,Pune,Viman Nagar,Penthouse,7559,15000000,1984,6,4,3,North,Library; Pool; Parking; AC; Garden; Concierge,6,5,51775,4.14,Premium,45.71,2025-09-02,224,Available,112,True,True,0
+PROP00796,Hyderabad,Kondapur,Apartment,2900,12000000,4137,4,2,2,North-West,Security; Parking; Library; Concierge; Playground; Pool; Gym; Garden,8,4,39214,3.92,Premium,44.61,2024-11-07,211,Sold,52,True,True,24000
+PROP00797,Chennai,T Nagar,Independent House,1889,10000000,5293,2,1,11,North-East,Elevator; AC; Concierge; Pool; Gym; Playground; Garden; Security,8,7,33470,4.02,Premium,45.08,2026-03-03,156,Rented,96,True,True,20000
+PROP00798,Pune,Magarpatta,Penthouse,7203,15000000,2082,6,3,18,North,AC; Playground; Concierge; Gym; Security; Pool,6,6,43987,3.52,Premium,42.59,2026-03-28,342,Available,151,True,True,30000
+PROP00799,Pune,Camp,Apartment,1626,15000000,9225,4,2,24,South-West,Pool; Parking; Concierge; Playground; Security; AC; Elevator; Library,8,7,50117,4.01,Premium,45.05,2025-01-25,344,Sold,178,False,True,0
+PROP00800,Mumbai,Borivali,Independent House,2439,50000000,20500,2,2,28,South-East,Elevator; Library; Pool,3,5,166196,3.99,Luxury,44.94,2024-10-26,146,Sold,154,True,False,0
+PROP00801,Delhi,South Delhi,Studio,547,40000000,73126,1,1,9,West,Gym; Library; Security; AC; Concierge; Garden; Playground; Parking,8,7,162370,4.87,Luxury,49.36,2025-03-01,160,Available,160,True,True,0
+PROP00802,Mumbai,Bandra,Penthouse,5769,50000000,8667,4,3,4,East,Playground; Garden; Library; Parking,4,7,205638,4.94,Luxury,49.68,2025-09-29,357,Available,166,True,True,0
+PROP00803,Bangalore,Indiranagar,Studio,495,30000000,60606,0,2,19,South,Pool; Library; Gym; Security; Concierge; Playground; Parking,7,9,116484,4.66,Luxury,48.3,2024-09-21,184,Rented,93,True,True,0
+PROP00804,Mumbai,Bandra,Villa,5892,50000000,8486,6,3,10,South,Garden; Gym; Security; Parking,4,5,189979,4.56,Luxury,47.8,2024-05-27,143,Available,122,False,False,100000
+PROP00805,Delhi,South Delhi,Penthouse,3797,40000000,10534,5,3,20,North,Garden; Security; AC,3,9,127759,3.83,Luxury,44.16,2026-03-11,34,Available,153,True,False,80000
+PROP00806,Hyderabad,Kondapur,Apartment,2041,12000000,5879,4,2,3,South,Pool; Concierge; Security; Garden; AC,5,7,46794,4.68,Premium,48.4,2024-08-15,136,Available,126,False,True,0
+PROP00807,Chennai,Kilpauk,Penthouse,6607,10000000,1513,5,3,18,South-East,Pool; Playground; AC; Security; Parking,5,9,25821,3.1,Premium,40.49,2026-01-07,30,Sold,76,False,False,20000
+PROP00808,Chennai,Thiruvanmiyur,Apartment,1838,10000000,5440,1,1,15,South-West,Library; Gym; Garden,3,9,30239,3.63,Premium,43.14,2025-03-20,52,Rented,62,False,False,0
+PROP00809,Hyderabad,Jubilee Hills,Studio,498,12000000,24096,0,1,0,East,Elevator; Security; Parking; Concierge; AC; Playground; Library,7,6,48410,4.84,Premium,49.2,2025-04-25,315,Sold,172,False,False,0
+PROP00810,Pune,Baner,Independent House,4732,15000000,3169,5,3,5,South-East,Security; Playground; Library,3,8,48577,3.89,Premium,44.43,2024-11-10,158,Rented,145,False,True,30000
+PROP00811,Hyderabad,Kondapur,Apartment,2141,12000000,5604,2,1,27,East,Security; Library; AC; Concierge; Pool,5,7,36730,3.67,Premium,43.36,2025-07-22,310,Available,115,False,True,24000
+PROP00812,Mumbai,Navi Mumbai,Studio,332,50000000,150602,0,1,5,North-West,Security; Parking; Concierge; Garden,4,6,164495,3.95,Luxury,44.74,2025-03-30,200,Available,47,True,True,100000
+PROP00813,Bangalore,Indiranagar,Apartment,778,30000000,38560,3,2,17,North-West,Library; Gym; AC; Elevator; Security; Concierge; Playground,7,8,124098,4.96,Luxury,49.82,2025-01-07,101,Sold,62,True,True,0
+PROP00814,Pune,Baner,Independent House,3327,15000000,4508,3,2,25,South,Parking; Library; Pool; Concierge; Playground,5,9,38836,3.11,Premium,40.53,2024-11-19,176,Available,152,True,False,0
+PROP00815,Chennai,Kilpauk,Studio,522,10000000,19157,0,2,17,North-East,Parking; Playground; Security; Concierge; Pool,5,8,36195,4.34,Premium,46.72,2024-06-02,130,Sold,113,False,False,20000
+PROP00816,Mumbai,Navi Mumbai,Studio,380,50000000,131578,1,2,9,West,Concierge; Playground; Parking; Library; Pool; Gym; Security; Garden,8,8,184410,4.43,Luxury,47.13,2025-02-10,350,Available,155,True,False,0
+PROP00817,Pune,Hinjewadi,Villa,7443,15000000,2015,5,2,15,East,Gym; Garden; Library; Playground,4,9,59943,4.8,Premium,48.98,2025-05-17,32,Sold,168,True,False,30000
+PROP00818,Mumbai,Andheri,Independent House,4427,50000000,11294,3,1,12,West,Garden; Playground; Parking; Concierge; Security; Pool; Library,7,9,125984,3.02,Luxury,40.12,2024-05-28,264,Sold,56,True,False,0
+PROP00819,Pune,Camp,Independent House,3606,15000000,4159,2,2,11,South-East,Security; Elevator; AC; Playground,4,8,48187,3.85,Premium,44.27,2024-11-16,353,Available,122,True,False,30000
+PROP00820,Pune,Kondhwa,Penthouse,3877,15000000,3868,4,3,7,South-West,Elevator; Pool; Parking; Security; Garden; Library; Concierge; Playground,8,8,51697,4.14,Premium,45.68,2025-03-05,80,Rented,161,True,False,0
+PROP00821,Pune,Camp,Villa,5926,15000000,2531,3,2,26,South-West,Parking; Security; Library; Pool; Gym; Playground,6,10,41875,3.35,Premium,41.75,2025-12-30,333,Rented,172,True,False,30000
+PROP00822,Hyderabad,Madhapur,Villa,6653,12000000,1803,3,1,3,North,AC; Concierge; Gym; Garden; Pool; Security; Playground; Elevator,8,4,41140,4.11,Premium,45.57,2025-10-09,60,Available,41,True,True,24000
+PROP00823,Bangalore,Whitefield,Apartment,658,30000000,45592,4,3,13,North-West,Pool; Gym; AC; Security; Playground; Library,6,6,81085,3.24,Luxury,41.22,2024-10-31,191,Available,78,False,True,0
+PROP00824,Mumbai,Navi Mumbai,Villa,6530,50000000,7656,5,3,20,North-West,Pool; AC; Gym; Library,4,5,190253,4.57,Luxury,47.83,2024-10-28,159,Sold,110,False,False,100000
+PROP00825,Mumbai,South Mumbai,Villa,2138,50000000,23386,6,4,29,South-West,Gym; Playground; Security; Parking,4,4,131211,3.15,Luxury,40.75,2026-04-24,222,Rented,141,False,False,0
+PROP00826,Mumbai,South Mumbai,Apartment,2009,50000000,24888,3,2,27,North,Pool; Garden; Security,3,10,170137,4.08,Luxury,45.42,2026-02-01,317,Available,98,False,True,100000
+PROP00827,Delhi,Rohini,Villa,5521,40000000,7245,6,3,9,North,Parking; Library; AC; Pool; Garden; Security; Playground,7,9,135995,4.08,Luxury,45.4,2024-10-20,61,Available,174,False,False,80000
+PROP00828,Delhi,South Delhi,Independent House,4788,40000000,8354,5,2,11,West,Pool; Concierge; Library; Gym; Playground; Security,6,9,162884,4.89,Luxury,49.43,2025-12-30,233,Available,121,True,False,80000
+PROP00829,Delhi,South Delhi,Penthouse,3047,40000000,13127,6,4,29,South-East,Pool; Concierge; Playground; Parking,4,9,107851,3.24,Luxury,41.18,2025-01-01,344,Available,53,True,False,0
+PROP00830,Pune,Camp,Villa,2611,15000000,5744,3,1,8,South-West,Elevator; Library; Parking,3,6,41567,3.33,Premium,41.63,2024-09-04,301,Rented,161,True,False,30000
+PROP00831,Chennai,Besant Nagar,Independent House,2591,10000000,3859,3,1,26,East,Playground; Security; Elevator; Garden; Gym; Parking; Library,7,6,34632,4.16,Premium,45.78,2026-01-05,1,Sold,157,True,True,20000
+PROP00832,Chennai,Thiruvanmiyur,Villa,7768,10000000,1287,5,3,8,East,Concierge; Parking; Garden,3,8,39408,4.73,Premium,48.64,2025-11-14,144,Available,113,True,True,20000
+PROP00833,Pune,Camp,Penthouse,4497,15000000,3335,4,3,22,South-East,Garden; Pool; Parking; Elevator; Gym; Library,6,9,39147,3.13,Premium,40.66,2025-05-20,47,Rented,45,True,False,30000
+PROP00834,Hyderabad,Madhapur,Studio,305,12000000,39344,0,2,5,East,Pool; Gym; Playground; Elevator; Garden; AC,6,8,30656,3.07,Premium,40.33,2026-03-03,349,Sold,110,True,True,0
+PROP00835,Delhi,Pitampura,Apartment,2465,40000000,16227,3,2,22,West,Garden; Parking; Concierge; Elevator; Security,5,6,127475,3.82,Luxury,44.12,2025-12-31,60,Available,150,False,True,80000
+PROP00836,Pune,Hinjewadi,Independent House,4821,15000000,3111,2,1,28,South-West,Pool; Gym; Security; Parking; AC; Elevator; Library; Garden,8,5,42079,3.37,Premium,41.83,2025-01-20,225,Rented,122,False,True,0
+PROP00837,Bangalore,Jayanagar,Penthouse,3495,30000000,8583,5,3,17,West,Gym; Library; Concierge; Pool; Security; Playground,6,8,124822,4.99,Luxury,49.96,2025-07-12,281,Rented,79,False,True,0
+PROP00838,Bangalore,Jayanagar,Independent House,3162,30000000,9487,3,1,10,North,Gym; Concierge; AC; Parking; Playground,5,6,97449,3.9,Luxury,44.49,2025-06-05,82,Available,131,True,True,60000
+PROP00839,Hyderabad,Jubilee Hills,Penthouse,5730,12000000,2094,5,2,1,South,Security; Gym; Pool; Concierge; AC; Playground,6,9,40150,4.01,Premium,45.07,2025-04-12,73,Available,34,False,False,0
+PROP00840,Chennai,Thiruvanmiyur,Apartment,1125,10000000,8888,2,1,12,South,Elevator; Playground; Garden; Parking; Library; Gym; Pool; Security,8,8,28037,3.36,Premium,41.82,2025-06-27,31,Sold,121,True,True,0
+PROP00841,Chennai,Anna Nagar,Apartment,1708,10000000,5854,1,2,6,North-West,Parking; Playground; Security; Garden; AC; Concierge; Elevator; Gym,8,7,40931,4.91,Premium,49.56,2024-12-26,67,Available,78,False,True,0
+PROP00842,Chennai,T Nagar,Penthouse,8521,10000000,1173,5,2,29,North-East,Pool; Gym; AC; Garden,4,4,35367,4.24,Premium,46.22,2025-07-07,354,Sold,82,True,True,0
+PROP00843,Delhi,Gurgaon,Apartment,1278,40000000,31298,4,2,16,West,Security; Pool; AC; Elevator; Parking; Library; Gym,7,5,122454,3.67,Luxury,43.37,2024-08-22,184,Sold,169,False,True,0
+PROP00844,Chennai,Kilpauk,Independent House,2100,10000000,4761,2,2,12,North-West,Gym; Elevator; Library,3,8,34626,4.16,Premium,45.78,2024-07-24,281,Available,139,True,True,0
+PROP00845,Chennai,Thiruvanmiyur,Studio,384,10000000,26041,0,1,15,North-East,Security; Parking; Garden; Playground; Pool; Elevator; AC,7,4,41053,4.93,Premium,49.63,2025-04-26,202,Rented,30,False,False,0
+PROP00846,Bangalore,Indiranagar,Independent House,1532,30000000,19582,3,1,20,South-East,Gym; Pool; Concierge; AC; Garden,5,7,119942,4.8,Luxury,48.99,2025-11-07,131,Available,167,True,True,60000
+PROP00847,Chennai,Kilpauk,Villa,3792,10000000,2637,4,3,10,North,Pool; Gym; AC,3,5,39872,4.78,Premium,48.92,2024-06-20,327,Available,31,False,False,20000
+PROP00848,Mumbai,Bandra,Apartment,762,50000000,65616,4,3,14,South-East,Parking; Gym; Security; Playground,4,8,201960,4.85,Luxury,49.24,2025-02-01,279,Available,172,False,False,100000
+PROP00849,Mumbai,Bandra,Penthouse,9037,50000000,5532,6,4,9,West,Library; Gym; Garden; Elevator,4,9,192008,4.61,Luxury,48.04,2025-11-12,235,Sold,66,False,False,100000
+PROP00850,Mumbai,Andheri,Studio,487,50000000,102669,0,1,0,North,Pool; Elevator; Playground; Library; AC; Concierge,6,10,160954,3.86,Luxury,44.31,2025-11-23,35,Available,73,False,True,0
+PROP00851,Chennai,Anna Nagar,Independent House,3816,10000000,2620,2,2,3,South-East,AC; Library; Garden,3,8,34176,4.1,Premium,45.51,2024-09-19,354,Rented,148,False,True,20000
+PROP00852,Pune,Camp,Penthouse,3364,15000000,4458,6,3,24,South-West,Garden; Concierge; Elevator; Gym; Security,5,5,41364,3.31,Premium,41.55,2024-09-26,142,Available,160,False,False,30000
+PROP00853,Chennai,Anna Nagar,Penthouse,4131,10000000,2420,4,3,5,North-East,Gym; Parking; Garden,3,5,35421,4.25,Premium,46.25,2025-09-22,130,Available,45,True,False,0
+PROP00854,Pune,Magarpatta,Villa,7989,15000000,1877,4,2,2,East,Playground; Garden; Gym; Elevator; Pool; Concierge,6,9,42696,3.42,Premium,42.08,2026-03-24,113,Available,68,True,True,0
+PROP00855,Pune,Magarpatta,Villa,7697,15000000,1948,3,1,11,South-West,Garden; Gym; Parking; Security; AC; Elevator; Concierge; Playground,8,4,42426,3.39,Premium,41.97,2024-06-15,305,Rented,118,True,False,0
+PROP00856,Pune,Magarpatta,Studio,549,15000000,27322,0,1,4,South-West,Gym; Parking; Pool,3,7,57823,4.63,Premium,48.13,2026-02-28,82,Available,40,True,True,30000
+PROP00857,Delhi,Gurgaon,Penthouse,9727,40000000,4112,5,2,19,South,Library; Parking; AC; Security; Gym; Pool,6,8,100932,3.03,Luxury,40.14,2026-03-18,214,Available,124,False,False,80000
+PROP00858,Pune,Hinjewadi,Studio,328,15000000,45731,0,2,11,North-East,Gym; Security; AC; Library; Parking,5,5,48524,3.88,Premium,44.41,2025-02-27,310,Available,108,True,True,0
+PROP00859,Delhi,South Delhi,Independent House,4151,40000000,9636,5,2,14,South-West,Parking; Elevator; Library; Pool,4,6,107831,3.23,Luxury,41.17,2025-07-16,211,Rented,85,True,False,0
+PROP00860,Delhi,Pitampura,Villa,2830,40000000,14134,3,2,30,South,Elevator; Pool; Library; AC; Playground; Concierge; Parking,7,5,138059,4.14,Luxury,45.71,2025-04-20,174,Available,173,True,True,0
+PROP00861,Pune,Hinjewadi,Independent House,4230,15000000,3546,2,2,17,North,Garden; Elevator; Security; Pool,4,6,43522,3.48,Premium,42.41,2026-02-23,256,Sold,165,False,True,0
+PROP00862,Chennai,Besant Nagar,Independent House,3412,10000000,2930,5,3,15,South-East,Concierge; Library; Security; Playground; AC,5,8,31008,3.72,Premium,43.6,2025-09-11,139,Available,150,False,False,0
+PROP00863,Mumbai,Dadar,Villa,4296,50000000,11638,4,2,5,North,Security; Playground; Gym; Elevator; AC,5,6,202107,4.85,Luxury,49.25,2024-08-19,45,Rented,160,False,True,0
+PROP00864,Hyderabad,Madhapur,Independent House,4721,12000000,2541,4,3,12,North,Concierge; Parking; Pool; Library; Elevator,5,10,49616,4.96,Premium,49.81,2025-12-26,61,Available,180,False,True,0
+PROP00865,Mumbai,Andheri,Apartment,1484,50000000,33692,2,1,25,South-East,Library; Pool; Security; Elevator,4,7,142790,3.43,Luxury,42.13,2026-03-18,337,Available,86,False,True,100000
+PROP00866,Chennai,Anna Nagar,Apartment,2587,10000000,3865,1,2,30,South,Playground; Parking; AC; Gym; Library; Concierge; Garden,7,6,34283,4.11,Premium,45.57,2025-06-23,91,Available,101,False,False,0
+PROP00867,Delhi,Pitampura,Studio,274,28482738,103951,0,2,6,North-West,Parking; Gym; Library; Concierge; Elevator; Pool; Security; Garden,8,7,98612,4.15,Luxury,45.77,2025-03-31,100,Sold,78,False,True,56965
+PROP00868,Delhi,South Delhi,Apartment,2977,40000000,13436,3,1,26,North,AC; Pool; Gym; Parking; Library; Security,6,5,161384,4.84,Luxury,49.21,2025-01-04,34,Rented,62,False,True,0
+PROP00869,Pune,Kondhwa,Villa,2982,15000000,5030,6,3,19,South,Garden; Pool; Elevator; Library; Concierge,5,5,41611,3.33,Premium,41.64,2026-04-09,319,Available,126,False,False,30000
+PROP00870,Hyderabad,Banjara Hills,Villa,7905,12000000,1518,3,1,18,West,Concierge; Garden; Playground; Pool; Elevator; Parking; Security; AC,8,10,32967,3.3,Premium,41.48,2025-12-11,117,Sold,143,True,True,24000
+PROP00871,Delhi,Noida,Studio,363,40000000,110192,1,1,4,South-East,Library; Elevator; Pool; Security,4,8,131302,3.94,Luxury,44.7,2026-02-10,24,Rented,147,True,False,0
+PROP00872,Mumbai,Borivali,Villa,3637,50000000,13747,6,3,3,South-West,Concierge; Pool; Parking,3,8,178733,4.29,Luxury,46.45,2024-10-25,324,Available,173,True,True,0
+PROP00873,Chennai,T Nagar,Studio,384,10000000,26041,1,2,15,East,Playground; Concierge; Security; Pool,4,5,41164,4.94,Premium,49.7,2025-10-05,83,Rented,66,True,True,0
+PROP00874,Delhi,Gurgaon,Independent House,3794,40000000,10542,3,1,5,South-East,Playground; Library; Gym; Garden; Pool; Security; Parking; Concierge,8,9,160014,4.8,Luxury,49.0,2025-09-08,126,Sold,152,True,True,80000
+PROP00875,Delhi,Dwarka,Studio,391,36040168,92174,0,1,0,South-East,Playground; Garden; Security; Library; Gym; Concierge,6,7,143468,4.78,Luxury,48.88,2026-03-02,206,Available,74,True,False,0
+PROP00876,Bangalore,Marathahalli,Studio,586,30000000,51194,1,2,2,North-East,Security; Concierge; Gym; Parking; Library,5,6,114964,4.6,Luxury,47.99,2024-08-11,220,Sold,52,False,True,60000
+PROP00877,Hyderabad,Gachibowli,Independent House,2851,12000000,4209,5,3,0,South-East,Pool; Library; Garden; Security; Parking; Concierge; AC,7,4,31203,3.12,Premium,40.6,2026-05-14,87,Sold,94,False,True,24000
+PROP00878,Mumbai,Borivali,Studio,299,50000000,167224,0,1,4,South-West,Pool; Garden; AC; Library; Playground,5,9,176692,4.24,Luxury,46.2,2025-01-26,208,Available,146,True,False,100000
+PROP00879,Mumbai,Bandra,Studio,501,50000000,99800,1,1,2,South-East,Parking; Elevator; Concierge; Playground; Garden; Gym; Library,7,9,205319,4.93,Luxury,49.64,2024-11-13,216,Sold,169,False,True,100000
+PROP00880,Chennai,T Nagar,Penthouse,8720,10000000,1146,6,4,6,South-East,Elevator; Pool; Library,3,10,25514,3.06,Premium,40.31,2024-12-06,327,Sold,178,False,True,20000
+PROP00881,Mumbai,Bandra,Apartment,1049,50000000,47664,1,1,11,North-East,Playground; Concierge; Library,3,6,171920,4.13,Luxury,45.63,2025-02-01,4,Sold,152,True,True,100000
+PROP00882,Pune,Camp,Studio,452,15000000,33185,1,2,17,South,Library; Concierge; Elevator; Parking; Security; Garden; Playground; Pool,8,4,42532,3.4,Premium,42.01,2025-05-24,170,Available,95,True,True,0
+PROP00883,Bangalore,Indiranagar,Independent House,4363,30000000,6876,3,2,6,South-West,Elevator; Library; Security,3,9,123144,4.93,Luxury,49.63,2025-02-17,333,Available,174,False,True,0
+PROP00884,Bangalore,Indiranagar,Villa,2405,30000000,12474,5,3,23,South,Parking; Playground; AC,3,7,83055,3.32,Luxury,41.61,2025-03-17,121,Sold,106,True,False,0
+PROP00885,Hyderabad,Kondapur,Penthouse,9885,12000000,1213,6,4,19,North-East,Playground; Security; Library; Elevator; Garden; Pool,6,6,45074,4.51,Premium,47.54,2025-07-19,38,Sold,95,False,True,0
+PROP00886,Hyderabad,Kondapur,Penthouse,5003,12000000,2398,6,3,26,North-East,Security; Elevator; Concierge; Parking; Pool; AC; Library; Playground,8,5,45181,4.52,Premium,47.59,2024-07-10,115,Sold,67,True,False,0
+PROP00887,Bangalore,Marathahalli,Studio,361,30000000,83102,1,1,7,North,Pool; Gym; Concierge; Elevator,4,7,80757,3.23,Luxury,41.15,2025-01-09,155,Sold,113,False,True,0
+PROP00888,Chennai,T Nagar,Studio,439,10000000,22779,1,2,25,North-East,Parking; Elevator; Gym; Pool; Concierge; Playground; AC,7,5,39137,4.7,Premium,48.48,2025-04-19,291,Rented,87,True,True,20000
+PROP00889,Chennai,Besant Nagar,Apartment,958,10000000,10438,1,1,23,South-West,Playground; Library; Elevator; Security; Concierge; AC,6,7,34705,4.16,Premium,45.82,2024-08-09,285,Sold,30,False,True,20000
+PROP00890,Mumbai,Andheri,Independent House,3763,50000000,13287,4,2,8,South-East,Playground; Library; AC; Pool; Gym; Elevator; Concierge; Parking,8,7,142058,3.41,Luxury,42.05,2025-11-08,344,Available,70,True,True,100000
+PROP00891,Bangalore,Indiranagar,Studio,399,30000000,75187,0,2,13,North-West,Pool; Gym; Security; Elevator,4,9,95784,3.83,Luxury,44.16,2024-06-04,277,Sold,131,True,True,0
+PROP00892,Chennai,T Nagar,Villa,6661,10000000,1501,5,3,24,North-East,Gym; Parking; Pool; Playground; Library; Garden; Security,7,10,29391,3.53,Premium,42.63,2026-04-06,30,Available,111,True,True,0
+PROP00893,Mumbai,Bandra,Villa,6580,50000000,7598,5,3,12,West,Parking; Concierge; Playground; AC; Pool,5,5,168359,4.04,Luxury,45.2,2025-12-09,70,Sold,32,True,True,0
+PROP00894,Pune,Camp,Apartment,1282,15000000,11700,2,1,7,South-West,Garden; Elevator; Security,3,7,39193,3.14,Premium,40.68,2024-06-05,187,Available,146,True,False,0
+PROP00895,Bangalore,Jayanagar,Penthouse,7996,30000000,3751,5,3,7,East,Gym; Parking; Security; Playground; AC; Pool; Elevator; Garden,8,10,111735,4.47,Luxury,47.35,2024-10-22,88,Sold,154,True,True,60000
+PROP00896,Delhi,Pitampura,Villa,2382,40000000,16792,4,3,14,North-West,Elevator; Gym; Pool,3,6,163840,4.92,Luxury,49.58,2024-07-06,192,Sold,43,True,False,0
+PROP00897,Delhi,Pitampura,Penthouse,6789,40000000,5891,6,3,26,East,Concierge; Playground; Security; Garden; Gym; Elevator,6,5,103336,3.1,Luxury,40.5,2025-05-11,226,Sold,167,True,False,80000
+PROP00898,Delhi,Rohini,Apartment,1136,40000000,35211,2,2,19,South-West,Elevator; Playground; Library,3,9,118783,3.56,Luxury,42.82,2025-08-27,127,Rented,67,False,True,80000
+PROP00899,Pune,Camp,Apartment,1163,15000000,12897,1,1,2,North,Gym; Pool; Concierge,3,10,46166,3.69,Premium,43.47,2024-06-09,343,Available,42,True,False,30000
+PROP00900,Pune,Magarpatta,Apartment,2977,15000000,5038,2,1,11,East,Elevator; Security; Playground,3,5,55880,4.47,Premium,47.35,2026-01-22,73,Available,74,False,False,0
+PROP00901,Bangalore,Koramangala,Penthouse,6722,30000000,4462,4,2,0,East,Security; Parking; AC; Gym; Garden,5,9,91025,3.64,Luxury,43.2,2025-08-21,99,Available,127,True,True,60000
+PROP00902,Bangalore,Indiranagar,Independent House,2737,30000000,10960,5,2,9,East,AC; Concierge; Playground; Gym; Parking; Garden; Library,7,8,93709,3.75,Luxury,43.74,2024-06-14,37,Available,119,False,True,0
+PROP00903,Pune,Magarpatta,Penthouse,8750,15000000,1714,4,3,13,North-West,Garden; Parking; Playground; Elevator; Pool; AC; Concierge; Library,8,8,57369,4.59,Premium,47.95,2025-12-02,9,Rented,69,False,True,0
+PROP00904,Delhi,Rohini,Apartment,980,40000000,40816,2,1,20,South,Elevator; Parking; AC; Security; Concierge,5,5,161604,4.85,Luxury,49.24,2025-03-20,162,Available,111,False,True,0
+PROP00905,Bangalore,Jayanagar,Villa,7290,30000000,4115,6,3,26,North-East,Security; Parking; Gym; Garden; Library; Concierge; AC,7,4,76353,3.05,Luxury,40.27,2024-06-29,105,Available,79,True,True,60000
+PROP00906,Mumbai,Andheri,Penthouse,7378,50000000,6776,4,2,2,North-East,Pool; Parking; AC; Gym; Elevator; Library; Concierge; Garden,8,8,200974,4.82,Luxury,49.12,2026-01-19,223,Sold,69,False,False,0
+PROP00907,Delhi,South Delhi,Apartment,2787,40000000,14352,1,2,8,North,AC; Gym; Library; Parking; Concierge; Pool; Elevator,7,7,111844,3.36,Luxury,41.78,2024-12-16,327,Rented,143,False,True,0
+PROP00908,Hyderabad,HITEC City,Studio,576,12000000,20833,1,2,30,North-East,Security; Pool; Library; Playground; AC; Concierge,6,7,32235,3.22,Premium,41.12,2025-12-21,92,Sold,67,True,True,24000
+PROP00909,Mumbai,Andheri,Apartment,586,50000000,85324,3,1,19,North-West,AC; Garden; Pool; Parking; Playground,5,9,201419,4.83,Luxury,49.17,2024-10-10,47,Sold,58,False,False,100000
+PROP00910,Pune,Camp,Penthouse,7866,15000000,1906,6,4,18,North,AC; Pool; Parking; Security; Playground; Elevator; Gym; Concierge,8,9,59379,4.75,Premium,48.75,2025-03-08,362,Available,73,True,True,30000
+PROP00911,Delhi,Gurgaon,Villa,6417,40000000,6233,5,2,17,South-East,Garden; Pool; Gym; Parking; Playground; Concierge,6,8,118010,3.54,Luxury,42.7,2024-11-18,182,Rented,30,True,False,80000
+PROP00912,Chennai,Kilpauk,Penthouse,3511,10000000,2848,4,3,12,East,Library; Parking; Concierge; Elevator; Garden; Pool; Security,7,8,41549,4.99,Premium,49.93,2025-10-15,345,Rented,128,True,True,0
+PROP00913,Pune,Kondhwa,Apartment,2471,15000000,6070,3,1,28,North-East,AC; Library; Parking; Garden; Elevator; Gym; Pool; Playground,8,9,40216,3.22,Premium,41.09,2026-02-27,81,Available,159,True,True,30000
+PROP00914,Mumbai,Navi Mumbai,Penthouse,9956,50000000,5022,6,3,11,North,Concierge; Pool; Elevator; Parking,4,9,199637,4.79,Luxury,48.96,2024-12-26,217,Available,41,False,True,100000
+PROP00915,Chennai,Kilpauk,Penthouse,3822,10000000,2616,6,4,7,North-West,Elevator; Parking; Concierge,3,6,26946,3.23,Premium,41.17,2024-12-15,297,Sold,137,True,False,0
+PROP00916,Chennai,Thiruvanmiyur,Villa,7534,10000000,1327,3,1,22,South-East,Library; Playground; Elevator; Security; Garden; Pool,6,6,26570,3.19,Premium,40.94,2025-06-17,304,Available,159,True,False,0
+PROP00917,Bangalore,Marathahalli,Independent House,4249,30000000,7060,5,2,24,East,Security; Parking; Gym; Garden; AC; Library,6,6,95600,3.82,Luxury,44.12,2024-09-17,225,Rented,46,False,False,60000
+PROP00918,Hyderabad,Jubilee Hills,Penthouse,9404,12000000,1276,6,4,9,North-East,Concierge; Security; Playground; Elevator; AC; Library; Parking; Pool,8,10,40181,4.02,Premium,45.09,2024-08-30,58,Sold,107,False,False,24000
+PROP00919,Delhi,Dwarka,Penthouse,8160,40000000,4901,5,2,12,North-East,Elevator; AC; Pool; Garden; Parking; Security; Gym; Concierge,8,8,152822,4.58,Luxury,47.92,2025-11-25,6,Sold,130,False,True,80000
+PROP00920,Mumbai,Bandra,Studio,321,50000000,155763,1,1,12,North-East,Security; AC; Gym; Concierge; Elevator; Pool,6,5,146055,3.51,Luxury,42.53,2024-11-28,285,Available,30,True,True,0
+PROP00921,Pune,Magarpatta,Penthouse,7514,15000000,1996,4,3,8,South-East,Pool; AC; Playground; Garden; Elevator; Gym; Concierge; Library,8,6,38681,3.09,Premium,40.47,2025-10-09,348,Available,129,False,True,0
+PROP00922,Chennai,Velachery,Apartment,1864,10000000,5364,4,3,3,North-West,Security; Garden; Concierge; Elevator; Playground; Parking; AC,7,4,33377,4.01,Premium,45.03,2025-01-08,272,Rented,60,False,True,0
+PROP00923,Chennai,Anna Nagar,Apartment,862,10000000,11600,2,2,11,North,Pool; Gym; Garden; Parking; Library; Playground; Security; AC,8,8,29570,3.55,Premium,42.74,2025-05-28,192,Rented,132,True,False,20000
+PROP00924,Pune,Hinjewadi,Villa,2957,15000000,5072,5,3,19,East,Library; Concierge; Parking; AC; Garden; Pool; Security,7,9,37697,3.02,Premium,40.08,2025-09-15,226,Available,105,True,False,0
+PROP00925,Delhi,Dwarka,Studio,405,38463843,94972,1,2,11,South-East,Garden; Library; Playground; Pool; Gym; AC; Security,7,9,149395,4.66,Luxury,48.3,2025-12-25,112,Available,119,True,True,76927
+PROP00926,Mumbai,Navi Mumbai,Villa,5230,50000000,9560,4,2,30,East,Pool; Concierge; Garden,3,6,163609,3.93,Luxury,44.63,2025-12-05,329,Available,167,True,False,0
+PROP00927,Chennai,T Nagar,Independent House,3769,10000000,2653,4,2,5,South-West,Security; Parking; Playground; Pool; Concierge; AC; Gym,7,4,33372,4.0,Premium,45.02,2024-12-30,35,Available,144,True,False,20000
+PROP00928,Hyderabad,Gachibowli,Apartment,1887,12000000,6359,3,1,8,West,Concierge; Security; AC; Garden; Pool; Parking,6,9,32822,3.28,Premium,41.41,2025-02-20,58,Rented,105,False,True,0
+PROP00929,Hyderabad,HITEC City,Penthouse,6763,12000000,1774,4,3,9,West,Garden; Gym; Playground; Pool; Elevator; Security; AC,7,10,40597,4.06,Premium,45.3,2025-03-09,353,Available,47,True,True,24000
+PROP00930,Pune,Baner,Penthouse,6886,15000000,2178,6,3,25,North,Pool; Playground; Parking; Garden; Security; Library; Elevator,7,4,51371,4.11,Premium,45.55,2025-11-07,93,Available,110,True,False,0
+PROP00931,Pune,Magarpatta,Villa,4682,15000000,3203,4,3,25,North-East,Gym; Pool; AC; Parking; Garden; Playground; Concierge,7,7,47037,3.76,Premium,43.81,2026-02-14,84,Sold,126,False,True,0
+PROP00932,Bangalore,Koramangala,Studio,319,30000000,94043,1,2,20,North,Security; Playground; Gym; Elevator; Library; AC,6,6,80608,3.22,Luxury,41.12,2024-11-15,117,Available,152,True,True,0
+PROP00933,Bangalore,Whitefield,Apartment,2613,30000000,11481,4,3,28,North-East,Parking; Security; Library; Elevator; Playground,5,7,121958,4.88,Luxury,49.39,2024-06-27,190,Sold,179,False,True,0
+PROP00934,Pune,Magarpatta,Penthouse,5855,15000000,2561,6,3,30,South,Pool; Gym; Parking; Elevator; AC; Garden; Security,7,8,44980,3.6,Premium,42.99,2024-11-07,42,Available,145,False,True,0
+PROP00935,Hyderabad,Kondapur,Independent House,2575,12000000,4660,4,2,25,South-West,Garden; Library; Concierge; AC; Pool,5,9,32096,3.21,Premium,41.05,2025-11-09,108,Sold,37,False,False,24000
+PROP00936,Mumbai,Borivali,Villa,6995,50000000,7147,6,3,8,East,Elevator; Gym; AC; Playground; Security,5,6,162107,3.89,Luxury,44.45,2024-10-01,287,Available,67,False,False,100000
+PROP00937,Bangalore,Indiranagar,Apartment,2972,30000000,10094,3,1,24,South,Concierge; Gym; Playground; Pool; Library; Garden; AC; Parking,8,5,87056,3.48,Luxury,42.41,2024-09-23,65,Available,166,False,False,60000
+PROP00938,Chennai,Besant Nagar,Independent House,1996,10000000,5010,3,2,1,North,Gym; AC; Playground; Library; Security; Elevator; Concierge,7,9,26016,3.12,Premium,40.61,2025-12-27,106,Available,148,False,True,0
+PROP00939,Chennai,Kilpauk,Studio,355,10000000,28169,1,2,4,South-West,Pool; Garden; Playground; Security; Concierge; Library,6,4,28483,3.42,Premium,42.09,2025-09-09,321,Sold,31,False,False,0
+PROP00940,Mumbai,Andheri,Independent House,3344,50000000,14952,3,1,20,East,Library; Elevator; Garden; Security; Concierge,5,6,190821,4.58,Luxury,47.9,2026-01-16,202,Available,93,True,True,100000
+PROP00941,Pune,Viman Nagar,Villa,5743,15000000,2611,3,1,17,East,Library; Elevator; AC; Gym; Parking; Pool; Playground,7,10,46942,3.76,Premium,43.78,2025-08-26,40,Available,135,True,True,0
+PROP00942,Delhi,Pitampura,Villa,4742,40000000,8435,5,3,26,North,Gym; Playground; Pool; Elevator; Concierge,5,7,165341,4.96,Luxury,49.8,2026-05-06,107,Available,137,False,True,80000
+PROP00943,Delhi,Pitampura,Independent House,4270,40000000,9367,4,3,3,North,Elevator; Garden; Playground; Library; Pool; Gym; AC,7,9,126808,3.8,Luxury,44.02,2024-06-02,292,Sold,30,True,True,0
+PROP00944,Hyderabad,Kondapur,Studio,388,12000000,30927,1,2,3,West,Garden; Playground; Concierge; Pool; Elevator; Gym; AC; Library,8,4,49356,4.94,Premium,49.68,2024-10-25,197,Rented,57,False,True,24000
+PROP00945,Delhi,Gurgaon,Penthouse,7127,40000000,5612,6,3,16,West,Garden; AC; Concierge; Elevator; Playground; Parking,6,7,114296,3.43,Luxury,42.14,2025-07-28,129,Sold,33,True,True,80000
+PROP00946,Hyderabad,Jubilee Hills,Penthouse,3923,12000000,3058,5,2,16,North-East,Library; Gym; Parking; Security; Pool; Garden; Playground; Elevator,8,10,49397,4.94,Premium,49.7,2025-08-19,120,Available,73,True,True,0
+PROP00947,Pune,Viman Nagar,Villa,2059,15000000,7285,5,3,2,South,Gym; Concierge; Security,3,5,41489,3.32,Premium,41.6,2025-04-29,330,Rented,171,True,True,0
+PROP00948,Chennai,Kilpauk,Independent House,1904,10000000,5252,3,1,24,North-West,AC; Concierge; Gym; Security; Playground,5,8,31496,3.78,Premium,43.9,2025-08-26,105,Rented,134,True,True,0
+PROP00949,Mumbai,Dadar,Independent House,4749,50000000,10528,3,1,9,South-West,Security; Garden; Parking,3,5,169464,4.07,Luxury,45.34,2024-08-16,196,Available,108,False,True,0
+PROP00950,Bangalore,Whitefield,Studio,256,23750654,92775,0,2,14,South-West,Parking; Gym; Elevator; Library; AC; Playground; Concierge; Security,8,6,75768,3.83,Luxury,44.14,2025-12-27,210,Available,80,True,True,0
+PROP00951,Pune,Viman Nagar,Penthouse,5564,15000000,2695,4,2,3,North,Garden; Parking; Playground; Library; Security; Gym,6,10,42904,3.43,Premium,42.16,2025-01-27,336,Available,38,False,True,30000
+PROP00952,Mumbai,South Mumbai,Villa,6428,50000000,7778,6,3,23,North,Concierge; Pool; Library; Garden; AC; Playground; Gym,7,9,146157,3.51,Luxury,42.54,2024-05-18,58,Sold,134,False,True,100000
+PROP00953,Hyderabad,Jubilee Hills,Studio,253,12000000,47430,1,2,9,West,Library; Gym; Parking; Elevator,4,5,35862,3.59,Premium,42.93,2025-12-31,332,Available,53,False,True,24000
+PROP00954,Delhi,Gurgaon,Villa,6814,40000000,5870,5,2,4,North,Gym; Security; AC; Playground; Garden; Library; Pool; Concierge,8,6,112175,3.37,Luxury,41.83,2024-07-27,116,Sold,54,True,False,0
+PROP00955,Mumbai,Navi Mumbai,Studio,558,50000000,89605,1,1,21,South-East,Security; Playground; AC; Elevator,4,9,128087,3.07,Luxury,40.37,2026-01-26,164,Available,58,True,True,0
+PROP00956,Hyderabad,Banjara Hills,Independent House,4500,12000000,2666,5,3,15,North,Library; AC; Elevator; Pool; Concierge; Garden; Security,7,6,40003,4.0,Premium,45.0,2025-08-12,262,Available,36,True,False,24000
+PROP00957,Hyderabad,Jubilee Hills,Penthouse,3266,12000000,3674,5,3,19,West,Parking; Pool; Library; Elevator; Gym; Playground; Garden,7,5,49238,4.92,Premium,49.62,2024-08-12,118,Available,113,False,False,0
+PROP00958,Delhi,Dwarka,Apartment,2465,40000000,16227,2,1,7,North,AC; Library; Playground; Parking; Garden; Pool; Security,7,7,166524,5.0,Luxury,49.98,2025-10-22,8,Sold,67,False,False,80000
+PROP00959,Bangalore,Koramangala,Apartment,649,30000000,46224,1,1,17,West,Library; Garden; Security; Playground; Elevator; AC; Concierge,7,8,105609,4.22,Luxury,46.12,2026-05-11,47,Available,175,True,False,60000
+PROP00960,Pune,Baner,Apartment,2774,15000000,5407,1,2,18,North-West,Parking; Garden; Elevator; Playground; AC; Pool; Library; Concierge,8,10,52944,4.24,Premium,46.18,2025-04-12,154,Available,116,True,False,0
+PROP00961,Delhi,Dwarka,Villa,2332,40000000,17152,3,1,29,South,Elevator; AC; Security; Playground; Pool; Library; Garden,7,4,148200,4.45,Luxury,47.23,2025-09-06,268,Rented,54,True,False,80000
+PROP00962,Chennai,Kilpauk,Penthouse,8290,10000000,1206,5,3,10,South,Parking; Security; Elevator; Gym; Pool; Concierge; Library,7,7,30399,3.65,Premium,43.24,2025-09-12,229,Available,37,False,False,0
+PROP00963,Delhi,Rohini,Independent House,3156,40000000,12674,5,3,4,South,Gym; Pool; Elevator; Security; AC; Parking; Concierge; Garden,8,8,110147,3.3,Luxury,41.52,2025-12-24,306,Sold,144,False,True,80000
+PROP00964,Pune,Hinjewadi,Apartment,2574,15000000,5827,3,1,15,West,Playground; Parking; Concierge; Pool; AC,5,7,41494,3.32,Premium,41.6,2025-09-29,5,Available,34,False,True,30000
+PROP00965,Hyderabad,Jubilee Hills,Penthouse,4142,12000000,2897,6,4,3,North,Pool; Library; Elevator; Playground; Concierge; Parking; Security,7,4,47325,4.73,Premium,48.66,2025-04-02,238,Available,45,True,True,24000
+PROP00966,Delhi,Dwarka,Studio,262,24809565,94692,0,1,4,East,Garden; AC; Parking; Elevator; Gym; Playground; Security,7,9,99406,4.81,Luxury,49.04,2024-10-10,36,Sold,139,False,True,49619
+PROP00967,Mumbai,Navi Mumbai,Independent House,3680,50000000,13586,4,2,15,North,Library; Elevator; Playground; Pool; Concierge; Parking; Security; AC,8,7,150455,3.61,Luxury,43.05,2025-11-14,113,Rented,137,False,False,100000
+PROP00968,Mumbai,Borivali,Apartment,1763,50000000,28360,2,1,11,West,Garden; Security; Concierge; Library; Pool; Parking,6,7,205091,4.92,Luxury,49.61,2026-02-18,87,Available,166,True,False,100000
+PROP00969,Chennai,T Nagar,Villa,5758,10000000,1736,4,3,14,South-West,AC; Library; Elevator,3,10,40531,4.86,Premium,49.32,2025-03-31,142,Rented,63,True,False,0
+PROP00970,Hyderabad,Banjara Hills,Penthouse,9916,12000000,1210,5,3,15,North,Pool; Parking; Gym; Playground; Elevator; AC,6,6,49499,4.95,Premium,49.75,2026-01-23,290,Sold,158,False,False,24000
+PROP00971,Bangalore,Koramangala,Independent House,2613,30000000,11481,3,2,1,South,Library; Elevator; Parking; Gym; Pool,5,10,106859,4.27,Luxury,46.37,2025-08-29,84,Sold,121,False,False,60000
+PROP00972,Mumbai,Dadar,Independent House,4781,50000000,10458,4,2,24,South,Pool; Concierge; Garden,3,7,163633,3.93,Luxury,44.64,2026-05-12,158,Rented,89,True,False,0
+PROP00973,Hyderabad,Kondapur,Villa,7931,12000000,1513,3,2,18,South-East,AC; Gym; Library; Garden; Parking; Elevator,6,5,46331,4.63,Premium,48.17,2026-03-31,160,Available,124,True,False,24000
+PROP00974,Chennai,Velachery,Villa,2240,10000000,4464,3,2,1,North-West,Elevator; AC; Library; Gym; Pool,5,7,36892,4.43,Premium,47.14,2024-07-26,30,Rented,43,True,True,20000
+PROP00975,Chennai,Velachery,Apartment,2835,10000000,3527,4,2,2,West,Security; Gym; AC,3,10,40613,4.87,Premium,49.37,2026-01-15,51,Available,157,False,False,20000
+PROP00976,Chennai,Anna Nagar,Studio,329,10000000,30395,1,1,23,South-East,Security; Pool; Elevator; Library; Playground; Garden; Parking,7,7,35478,4.26,Premium,46.29,2026-02-25,115,Available,117,False,True,20000
+PROP00977,Mumbai,Dadar,Villa,6572,50000000,7608,6,3,15,South,Concierge; Gym; Garden; Elevator,4,8,133815,3.21,Luxury,41.06,2026-04-16,316,Available,58,False,True,100000
+PROP00978,Bangalore,HSR Layout,Penthouse,9210,30000000,3257,6,4,8,North,Concierge; Pool; Garden; Elevator; Parking; AC,6,4,95961,3.84,Luxury,44.19,2026-01-26,147,Rented,76,True,False,0
+PROP00979,Pune,Camp,Apartment,460,15000000,32608,2,2,21,East,Garden; Parking; Elevator; Concierge; Pool,5,7,40538,3.24,Premium,41.22,2024-09-22,283,Available,127,False,False,0
+PROP00980,Pune,Kondhwa,Studio,260,15000000,57692,1,2,21,South-East,Playground; Pool; Library; Security; Elevator; Gym; AC; Parking,8,4,60990,4.88,Premium,49.4,2025-12-20,209,Available,59,False,True,0
+PROP00981,Mumbai,South Mumbai,Studio,254,40137192,158020,0,1,11,North-East,AC; Security; Parking,3,8,147358,4.41,Luxury,47.03,2024-06-02,296,Available,86,True,False,0
+PROP00982,Hyderabad,Jubilee Hills,Villa,2193,12000000,5471,3,2,29,South-East,Library; Pool; Gym,3,4,30937,3.09,Premium,40.47,2026-01-31,244,Available,126,False,False,0
+PROP00983,Pune,Kondhwa,Villa,3893,15000000,3853,5,2,9,North-West,Pool; Elevator; Gym; Parking; Concierge; Playground; Library,7,10,56717,4.54,Premium,47.69,2025-12-06,218,Available,179,True,False,0
+PROP00984,Bangalore,Marathahalli,Independent House,2814,30000000,10660,2,1,17,South,Concierge; Elevator; Playground,3,4,104613,4.18,Luxury,45.92,2024-10-15,186,Available,117,False,True,0
+PROP00985,Chennai,Anna Nagar,Penthouse,6783,10000000,1474,4,2,23,South-East,Gym; Parking; Security; Library; AC; Garden,6,4,32047,3.85,Premium,44.23,2025-01-26,34,Available,121,False,True,20000
+PROP00986,Pune,Hinjewadi,Apartment,2448,15000000,6127,4,2,11,West,Security; Concierge; Garden; AC; Playground; Gym,6,10,45451,3.64,Premium,43.18,2025-09-23,227,Available,77,False,True,0
+PROP00987,Hyderabad,HITEC City,Studio,593,12000000,20236,0,2,1,South-West,Elevator; Parking; Playground; AC,4,5,38056,3.81,Premium,44.03,2025-12-14,265,Rented,172,False,True,0
+PROP00988,Pune,Viman Nagar,Independent House,2057,15000000,7292,2,2,20,South-East,Garden; Parking; Concierge; Gym; Playground; Pool,6,9,51212,4.1,Premium,45.48,2025-03-30,184,Available,65,True,True,0
+PROP00989,Chennai,Kilpauk,Studio,560,10000000,17857,0,2,28,South-East,Gym; Security; Library; AC; Playground; Pool; Concierge; Elevator,8,10,37957,4.55,Premium,47.77,2025-08-22,352,Available,36,True,False,20000
+PROP00990,Hyderabad,Banjara Hills,Apartment,1740,12000000,6896,4,3,30,South-East,Gym; Playground; Garden; AC; Library,5,7,31155,3.12,Premium,40.58,2025-01-14,364,Available,157,False,False,0
+PROP00991,Bangalore,Jayanagar,Apartment,2803,30000000,10702,1,1,26,North-West,Security; Parking; AC; Garden; Pool; Library; Playground,7,9,84013,3.36,Luxury,41.8,2024-05-21,247,Available,67,True,True,60000
+PROP00992,Pune,Magarpatta,Studio,468,15000000,32051,0,2,3,South-East,Parking; Gym; Security; Pool; Concierge; Playground,6,8,44205,3.54,Premium,42.68,2024-10-26,17,Available,89,False,True,30000
+PROP00993,Pune,Camp,Apartment,1249,15000000,12009,2,1,0,North-East,Library; AC; Gym; Concierge,4,4,47438,3.8,Premium,43.98,2024-12-23,280,Sold,138,True,True,0
+PROP00994,Pune,Baner,Villa,2658,15000000,5643,6,3,14,North-East,Playground; Gym; AC,3,5,42716,3.42,Premium,42.09,2025-03-17,144,Sold,94,False,True,30000
+PROP00995,Pune,Hinjewadi,Penthouse,5282,15000000,2839,5,3,7,North-East,Gym; AC; Garden; Security; Elevator; Concierge; Parking,7,10,59524,4.76,Premium,48.81,2024-08-22,167,Sold,170,True,True,30000
+PROP00996,Bangalore,Jayanagar,Villa,6040,30000000,4966,4,2,5,South-West,Pool; Library; Garden; Parking; Playground; Gym; AC,7,9,116522,4.66,Luxury,48.3,2025-03-11,88,Available,114,False,True,0
+PROP00997,Delhi,Gurgaon,Penthouse,7007,40000000,5708,5,3,0,North-West,Gym; AC; Library; Parking; Elevator; Garden,6,8,150235,4.51,Luxury,47.54,2026-04-22,341,Available,32,True,True,80000
+PROP00998,Bangalore,Koramangala,Apartment,1921,30000000,15616,3,1,19,West,Security; Elevator; Gym,3,5,82843,3.31,Luxury,41.57,2025-10-29,86,Available,31,True,False,60000
+PROP00999,Mumbai,Bandra,Independent House,4170,50000000,11990,4,3,27,North-East,Pool; Garden; Playground,3,7,184826,4.44,Luxury,47.18,2026-04-10,259,Available,178,False,True,100000
+PROP01000,Bangalore,Koramangala,Villa,4412,30000000,6799,4,3,29,North,Elevator; Library; Parking; Gym,4,5,112331,4.49,Luxury,47.47,2024-11-09,65,Rented,61,False,False,60000
